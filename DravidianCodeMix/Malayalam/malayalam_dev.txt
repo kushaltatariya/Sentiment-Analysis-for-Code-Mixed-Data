@@ -1,0 +1,1842 @@
+	Unnamed: 0	Sentence	Label
+0	0	enik pulimurgante scnd part ayita thoniye	Mixed_feelings
+1	1	athukondaa , ittichante vaka oru sample vedikkettum koode	unknown_state
+2	2	moothona kandaal nee enne sheeum..   naakk... naakkonn kandaal mathi.	unknown_state
+3	3	sthreekalude urakkam kedutthiya vanitha | dr. muthulakshmi reddi special | vibes vision	unknown_state
+4	4	ethinakath ondo nammade dady girija appo kanjavu kesu kaanum	unknown_state
+5	5	sunny chechiye kanan vannavarkke like adikanulla cmnt	Positive
+6	6	ithenthu ...party prasangam pole undallo..dialogue.. delivery	Negative
+7	7	kaments kandittu priyadarshan mammookka yeei vachu kunhali marakkar sinima eduthaal mathiyayirunnu ennu thonnunnu	Negative
+8	8	kannadachu kettaal oru peralal lokam sammanikkum eee gaanam	Positive
+9	9	adi poli ini relees aayal mathi	Positive
+10	10	swantham panavum padavum aauapol experimentation undavumo:)	Mixed_feelings
+11	11	ithinidakk 2 pearum dislike paniyum kashttam	Negative
+12	12	suraj ettan powli..koode soubin ekka...pine paryano ....katta waiting anee	Positive
+13	13	prayam koodum thorum cinema adipwoli akukayanallo	Positive
+14	14	movie kaboor ayerikkum ikka alle actor	Positive
+15	15	saare mithun nammal vichaaricha aalonnum allah  trailer	Positive
+16	16	lucifer inte munnil enthonn raaja.! ettan da...	unknown_state
+17	17	nalloru.... sinima... aakane.... advanced happy christmas #all	Positive
+18	18	33 dislikes  song polum kandillaa  hatesinu kuru potti thudagi	Negative
+19	19	unlike adichengilum mammookaye tholpikkumenn paranj kond pramukha  fans	Negative
+20	20	mammooty fansavm dislike adiche poi madhurajak adikadaa etu vere levela mone dineshaa	Negative
+21	21	doll inte bgm ishtappettavar like adikk	unknown_state
+22	22	endammooo yeath level   ettan    rajuettan	Positive
+24	24	trailer irangum munbe dislike adicha prepancha tholvi aaranavo...	Negative
+25	25	parayan pattatha... varikalude bhangi... pine hilpalace... athum ente natil... wooow	Positive
+26	26	ente prthvirajee kettipidich oru ummma thannaoteee chakkarereeee	Positive
+27	27	madhuraraja 1 hour 40 k likes  lucifer 1 min 40 k likes	Mixed_feelings
+28	28	trailer mass marana mass... ini screen il... padam kanan njnm undkum	Positive
+29	29	left side ll undallo,chilappo right side ll ulla mookkutthi ayirikkum kaanathaayath.	unknown_state
+30	30	supperb ikka pwolichuu..ikkaa swoth baaki ellaam myr	Positive
+31	31	allelum eee checken polichu ennu thonnunnavarundo	Positive
+32	32	aaa tourist choodaavumbo ulla fahadinte espression noock ente ponnoo oru rakshayum illa. eee changayi ooroo sinima kazhiyunthorum njettichu kondirikkanallo...	Positive
+33	33	charitra sinimayaaya maamaankatthil mass pratheekshichu pooyi niraasaraaya faansinte shradhaykku mamangam klaass‌ aanenkil ithu oronnonnara mass aittam thanne ayirikkum faansinu armaadikkaan ulla sinima thanne ayirikkum shylock	Positive
+34	34	enthinaa chettaa ingane thala vetti vekkunnath . mammukkante thala vallavanteyum kazhuthinu mukalil vekkumbol	unknown_state
+35	35	urappayittum theateril pooyi kandirikkum,  parava sinimayile  kuttikale kandapole pole oru pheel. 🤩	Positive
+36	36	ethra thavana kandaalum mathivarilla athrayk aazhathil erangiya moovi joju chemban vinod ettaa and naila usha	Positive
+37	37	innu kandu ,onam release nte idayilm nalla tirak , porinchu mariam jose	Positive
+38	38	ithine ale teaser en vilikunne? enthayalum kidukki	Positive
+39	39	e teammil ulla arke  phone number kittuvo	unknown_state
+41	41	kalyaana viidiyoo edittar aanennu thonnunnu.  donmax	Negative
+42	42	adipoli bgm and fight scenes super	Positive
+43	43	oru amen touch thonniyathu enikku maathram aano	unknown_state
+44	44	adipoli... kidu kidu kidu... first day first show... #mammookka	Positive
+45	45	vineeth ettante film aayathukondu super aayirikum urappaaa	Positive
+46	46	raja 2 teaserinu  shesham kaanunnnavar like	unknown_state
+47	47	eee vesham cheyyaan eathoru complete actor onnu araykkum.. butt‌ athu ithra perfectionil cheyyaan ingere konde pattulloo	Positive
+48	48	ithu potti ppalees avum ennu thonnunnavar	unknown_state
+49	49	ithreyum valia oru padatthinte paattukalkk  theattaril  aaa padatthinte impact thanne mattaan pattum (pulimurugan, lucifer eg)! athinu eee m jayachandrane allaand vere aareyum kittiyille	Negative
+50	50	@02:19 ee scene theatril polikkum .... lalettta :):>3	Positive
+51	51	aavarej report kittiyal polum oonam box office  thookkiyadikkum	Positive
+52	52	eee nalla sinima malayaalathinu sammaanicha priya kalaakaaranmaark  ente hridayam niranja nandi areekkunnu	Positive
+53	53	september 5 shesham eee paatt kelkkunnavar undo	unknown_state
+54	54	njaan mathramaano padam kanda shesham thanne onnoode trailer kaanaan varunnathu....	unknown_state
+55	55	all the best rajuvetta surajetta and the entire team from mammookka fans valiya vijayamakatte	Positive
+56	56	ithu vare 28 k like‌ vannu lady super star manju chechikku ... 1.1 k kovalan pance‌ dislike adichu	Negative
+57	57	atu mookil kaanum 1ude sherikum nok	unknown_state
+58	58	mammmukkkkaa pwoly ! bike stunt isto undegil vaa makkkle nammle chanlot !	Positive
+59	59	trailer aayaa ingine venam . oru sinima kanda feeling, ivide ooruthanmaarude trailer kandaa petta thalla sahikkoola. aadrum kure neram kannu kaanikkum, pinne mukk, pinne andi, appozheykkum trailer kazhinjittundaavum, kandathenthaa kaanaan povunnathu enthaa ennu sinima kaanaan povunna prekshanu oru edia kittiyittundavilla. churungiyathu oru moonnu minuttengilum trailer prekshakarkku nalkanam	Mixed_feelings
+60	60	rachasanu memories  il undaaya makan	Positive
+61	61	erangunnathinu munbu thane 4.2k like aayi trailern	Positive
+62	62	moovi kandittu   srinath bhasi   phaan   ivor  ethra perundu?	unknown_state
+63	63	paatu kuzhapamila mamookayae kondu dance kalipikaendayirunu onumilaenghil ayaludae prayathae maanikamayirunu aethrayokae make up vaari puratiyaalum prayam aavathirikumo	Negative
+64	64	onte oru ikkayum kunjikayum muttamurianss of the country	Negative
+65	65	yess diss‌ ees‌ riyal bigg brother. inn malayaalam industry. aii lavu lalettan. lalettan phaans‌ adii like	unknown_state
+66	66	padam thinte trailer kiduvea surajettanum rajuvettanum oru like	Positive
+67	67	ikkka romajam ikkka uyir poli ennni 21 kannnam	Positive
+69	69	ellaavarum paramavadhi insta whatsaap facebook share cheyyuka	unknown_state
+70	70	68 vayassunden oke paranj ingane pattikkale en parayanam sire....	unknown_state
+71	71	ittichante sample vedikkettu nammal sakshal thrissurpuram akkum.....	Positive
+72	72	mookkuthiyalle koche kanathe poye allathe kidni onnum allalo	unknown_state
+73	73	inii kalii harindran pullu giriyum thammil	unknown_state
+74	74	making veediyoyil ikkaye athikam kaanikkathe hyde cheythu   soong‌sil illah   teaseril polum angane kaanichilla   vallaathoru surprise undallo   3 kathaapaathrathil onnu thanne oru minnayam pole.. appo backie randennam	unknown_state
+75	75	ithokke muthu manchuchechikku vendimaathramulla kathaapaathramaanelum , manchuchechiyude aadyakaalathe  dialogue prasanu‍reshanu‍ poleyulla   sinimakalu‍kkayi  cutaviting aanu	Positive
+76	76	mammookkakku  yesudas  vois‌ nalla maachu aanu	Positive
+77	77	oru rakshayum illa  kettalum...kettalum... mathiyavatha patt ... poli padam	Positive
+78	78	ittychante vakka oru simple vedikatte  ufff  adi makkale like	unknown_state
+79	79	unbelievable.. its awsm .. laletta .. direction rajuvetta	Positive
+80	80	thriller sinimakalude fans adikku like	unknown_state
+82	82	kumbalangi kkaar aarenkilum undo ivide ....	unknown_state
+83	83	sakala  kulangalkkuravidamaayittaanu yennuthiranjaal edavakayonnaay chollumathippol  ittimaani.....	unknown_state
+85	85	ithukandu oru +1 kochu line aayi  ithu kandaal premikkaathavarum premichu pookum	Positive
+86	86	polichu kuttyole... ingalu polichadukki... numma katta sapporttaan..	Positive
+87	87	avasanam kanjipole aavathirunal mathi all the best	Mixed_feelings
+88	88	what a song   vere level	Positive
+89	89	enthonnede ithu 🧐samayam kittumbol aaa shylock teaser onnu pooyi kaanu... ennittu kandu padi...	Negative
+90	90	bgm    kelkumbol tamil raatasanan bgm pole undu......	Mixed_feelings
+91	91	youtube stuck aayi  views koodunnilla aarelum shraddicho	unknown_state
+92	92	mammooka ningal malayamanninu daivam anugrahichu tanna mahaa nadanamanu	Positive
+93	93	eee oonam achaayan nalla komadi adikkaan igg‌ edukkuvaa	Positive
+94	94	balaalsankam.... aaa pani njn cheyyilla... neeyum cheyyilla	unknown_state
+95	95	maamaankatthil mass poraa ennu paranjavarude annaakkil thirikunnu ithu .... paakkathaane porey intha asurante attathe...	Positive
+97	97	353-kurukkal pottiyittund, athu eathu nadante paansaanennu prathekam parayunnilla...	Negative
+98	98	ithilengilum puthuthalamuraykk vendi mamangam yadhaartha bodhathode chithreerakarikkumennaanu pratheekshichathu... ithippo enthaa...kalanju kulichallo..	Negative
+99	99	mookuthi njanorennam vangi tharam  karayanada	unknown_state
+100	100	ithu kandittu aaa pazhaya lalettane oorma vannavar undo...........	unknown_state
+101	101	triler theere porallo vishals  bgm randum oru sukhamilla  padam suuppar aavatte	Mixed_feelings
+102	102	evdeyo hannibal manakunnu still cant wait to see.thrill adipich kolum sure. aa series kanditullavr like adik	Positive
+104	104	dislike adicha lalettan hatersnulla adi avate ningalude likes...  trailer vere level... murali gopi mass.. like prithviraj too..	Negative
+105	105	inger kure kaalamayi fitness video kaanichu veruppikkunnu ennitto innevare thadi kuranjittilla inii kurayukayumilla jayaramettan veruppikathaane kaanichu thannu verum 2 month kondu  jayaramettan super aanu llay lubyou	Negative
+106	106	oru adipoli comedy + thriller aavumenne preteekshikunnu	Positive
+107	107	malayalam padam odikkenda takkesil achayn keri telugu padam odichuuuu	unknown_state
+108	108	adipwoli comedy trailer aane ettaaa  ittichaayan	Positive
+109	109	mohanlal sir enthu spr ayi annu ...margam kalli kalichthu	Positive
+110	110	pirannaal divasathil moothon triler puratthirangi athu polichey happy birthday nivin pauly	Positive
+111	111	god marichu ene paranjit ole part karinje oru k.g.f feel thonni	Mixed_feelings
+112	112	king of versatility, vere eathu superstar cheyyaan dhairyam kaanikkum ithu pole oru role. ore oru mammookka.	Positive
+113	113	srk de fan inte theme aanallo..	Mixed_feelings
+114	114	padam kandu kazhinju paatt kaanumbol odukkathe pheel aanu..	Positive
+115	115	alinje polinja trailer.. odiyan aakumo ?? 🤓🤓	Negative
+116	116	enddammo idh malayala film thanne aaano onnum parayanilla mass	Positive
+117	117	ekka @ madhura raja and lalettan @ lucifer... 2 padam iragan pokuvane...oru tight competition prethishikkunnu	unknown_state
+118	118	eee trailer kandittu siddikhinu 90 kalil ninnu vandi kittiyitilla ennu thonniyathu enikku mathramaano...?	unknown_state
+119	119	shylock naale release cheyyaanu‍ saadhikkumo??? pattilla alle???? 🤔🤔🤔 mass ennu paranjaal pora athukkum mele mamangam running successfully	Positive
+120	120	inii mookkathikku vendiyaano maamante angam( mamangam)	unknown_state
+121	121	annum innum malayaalikal aagrahikkunna kompineshan vois  mammookka&keey.jeey. yesudas.kaalangal ethra kazhinjupoyaalum daasettante iii voy‌sine vellan aarumilla iii paatt‌ kelkkumbol thanne enthaa oru vois enthaa oru feelings pinne koode mammookayum ullappol athimanoharam	Positive
+122	122	ithupolathe paatt evidunnu kitti. avide thiranju ivide thiranju. inii alamarayil thirayu. kittum.	unknown_state
+123	123	ikkayude mamakam malayalathinte abhimanam  ettan faninte support	Positive
+125	125	2countries okke pole kurch ayuse kuttan pattiya cinemaaaya mathi	unknown_state
+126	126	#mammookka    aa peru m	Positive
+127	127	aarokke enthokke paranjaalum malayaalam sinimayil dileepetta daa sthaanam arcum illa	Positive
+128	128	13.6.19 ippozhum eee paatt kellu‍kkunnavar undo	unknown_state
+129	129	cinema kandu related scenesonnum filmil illa means trailarilulla	unknown_state
+130	130	im not a mech...but ith ethra kanditum madukunila...kidu trailerpennu aano..aval venda	Positive
+131	131	comadey aguuum  realse aytuu paryaaam	Mixed_feelings
+132	132	ittimaniyil... love und.... action  illa....drama und... movie bore adipikilla..poi.. kandu.. istapetu...	Positive
+133	133	nammalude classile jaison ille avan ninne odukathe nottaam aanu  powlicha dialogue	Positive
+134	134	dear #mammukka thangalude manam polum thangaleyoru  vargeeyavaathiyaakkum.. . mattullavarkk enthu pattiyaalum vaa moodi ketti mindaathirunnavarodu‌ naale ningalkkum varum oru divasam appol maathrame ithellaam ningalkk manassilavoo... mahathmaakkal chora nalki nediya eee manninu mukalil nenchu virichu nilkkumbol oorkkanam nammude sahodarangalum santhoshathil aanoyennu... #mammukka prathikarikkuka,  #caa2019 #caaprotest	Negative
+135	135	sambhavam oru puthanpanatthinte  touchund.  pinne samvidaayakante muun sinimakal ishtamallaathathu kondu valia amita pratheekshakalum illa...   pakshe mammookkayude energy  vere level   ithenkilum phaans‌kaaru kandu vijayippichaal mathiyaarunnu...  all the best for team shylock mammookka	Mixed_feelings
+136	136	enth potta trailer aanu... chumma mass ennu paranjittu karyamilla.... trailer verum waste. cinema enkilum nannaya mathiyarunnu	Negative
+137	137	mookkutthi ente kaiyyil kittiyittundu ...so ellaarum pirinju pokendathaanu	unknown_state
+138	138	evideyokkeyo oru raakshasan olinju kidakkunnapole thonniyavar ivide camon	unknown_state
+139	139	oru rakshayum illa ... adipoli . katta waiting	Positive
+140	140	ella lalettan chunkum oru like adikoo ivide.....pinne ee chanelum onnu subscribe cheyoo	unknown_state
+141	141	kalath chaya kudikkunnathinu munpu trailer nokiyavar arokke?	unknown_state
+142	142	padam kandu kazhinju kaanaan vannavar aarokke?      ennulla kamant‌ vanno shakunthale	unknown_state
+143	143	njan mathram ano padam kand vannu veendum trailer edth noki veendum padam kanan poyathangane poyavaru‍ adii like	unknown_state
+144	144	uyiril thodum thalir  viralavane nee … arike nadakkane alayum  chudu kattininu koottinayay naamoru naal… kinakkudilil  chennanayu, miru nilavalayay  aarum….kaanaa… hridayatharamathil  uruki naamannaarum kelkkaa…pranayajalakadha palavuru parayumo?  uyiril thodum kulir viralaayidaam njan arike nadannidaam alayum chudu kattininu koottinayay  naamoru naal kinakkudilil chennanayu, miru nilavalayay  aarum…kaanaa… hridayatharamathil uruki naamannaarum kelkkaa….pranayajalakadha palavuru parayumo?  vazhiyorangal thorum thanalayee padarchilla nee kudayay nivarnnu nee novaaraathe thoraathe peyke thuzhayolangal pol nin kadavathonnu njan thottu melle  kaattee chillayithil veeshane kaare ilayithil peyyane melle theeramithilolangalolangalay nee varoo….  uyiril thalodeedum uyirayidum naam…. naamorunaal kinakkadalil chennayumiru nilaanadiyay  aarum….kaanaa… hridayatharamathil uruki naamannaarum kelkkaa….pranayajalakadha palavuru thudarumo?	unknown_state
+145	145	joshi saarinte mass nuu vendi waiting	Positive
+146	146	uae yile ettavum valia puthiya tunnel onnu kandu nokkoo....	unknown_state
+147	147	vineethettan hero aadaa hero !  ,,, ee padathint kadha enthaavumenn aalochich kili poyi irikkuvaaanu	Positive
+148	148	ividuthe krama samaadhabam nashtappeettu......ee mookkuthi therayunnathaan ee cenimayude kadha .saadhanam british kaarude kayyilaan mammootty ath vaangikkan vendi poyathan .athanu mooppare kaanaathath	unknown_state
+150	150	ramesh ettante first padam oru feel good movie aayirunnu ethum angane aakum enn karuthunnu	Positive
+151	151	fight vere level teateril paper kure keerendi varum ichayoooo	Positive
+152	152	music kelkkaan vendi triler veendum kaanunnavar aarokke?	unknown_state
+153	153	oh nice nice nice nice nice padam super hit orap	Positive
+154	154	hey eth nth maayam ennale like koranjuu dhe eppa dislikeum koranjuu...	unknown_state
+156	156	pullikkan stara pole undu trailer..powlikkane pisharadi eatta...thank you	Mixed_feelings
+158	158	pokkiraja pole full masa entertainment allann thonunnu..nallaru storyum ullath pole 🥰	Positive
+159	159	super star aakan pattiya aaal.  tovi the mass	Positive
+160	160	eee paatt erangiyathinu shesham oru paadu pennungal mookkuthiyathaayi    kandu	unknown_state
+161	161	manju warrier, gopi annan  vere levelaakki kalanju	Positive
+162	162	nivin poolii enna nadante oru onnonnara thirichuvaravu	Positive
+163	163	ee trailaril ake oru bore ullu.....shajoninte oru shot....pulli kattil appiyidan irickunna oru feel...........	Mixed_feelings
+164	164	lalettante  mukathu no expression.. enda ingane?  full chalee komediyum 🤒	Negative
+165	165	hevi orupaadu naalkk shesham aanu oru kidu thriller sinima erangunnathu	Positive
+166	166	srinath machaane marakkalle broze,  ellaarum shine,  sabin,  fahad maathram parayunnath kandu...	Positive
+167	167	l a l e t t a n   rajuvetta making oru raksha illya... can't wait......!!!!!!!!!!!!!!!!!!	Positive
+168	168	youtube hang aay pandaram.... eee pull load avanilllaaaaooooy....	unknown_state
+169	169	e filim hit akanam  ethu malayala cinimaykku  puthiya energy akum	Positive
+170	170	eee padam bann hit aakatte from die hard mamookka faan	Positive
+171	171	entho , manass niranjilla kandittu .  kurachokke pratheekshath kondu aavum . cinema kidu aavumenn pratheekshikkunnu	Mixed_feelings
+172	172	ravi sir : oru yorker vannal nee enna cheyum reply : keri irikkan parayum🤣 ...... padam kandu super aayittunde...  ella charactersum chrippikkunna simple nice movie....	Positive
+173	173	ithilum thumbiye kondu oru looad kallu eduppikkumo	Mixed_feelings
+174	174	oru rakshem illa pwoli!!!! pwoli!!! pwoli!!!!!	Positive
+175	175	naalu bengaalikal vijaarcha theerunate ullu ninte japan epic!	Positive
+176	176	ena edhu irakune... kure nal ayelo idhu	unknown_state
+177	177	kandittt kadhayulla film ahnn thonnunnu... 🥰	Positive
+178	178	dislike adikkaan vanna naayinte makkale \r ningale kaath naadanbombinte kamaneeya shekharam stejinte pinnaamburatthundu	Negative
+180	180	uyiril thodum thalir  viralavane nee … arike nadakkane alayum  chudu kattininu koottinayay naamoru naal… kinakkudilil  chennanayu, miru nilavalayay  aarum….kaanaa… hridayatharamathil  uruki naamannaarum kelkkaa…pranayajalakadha palavuru parayumo?  uyiril thodum kulir viralaayidaam njan arike nadannidaam alayum chudu kattininu koottinayay  naamoru naal kinakkudilil chennanayu, miru nilavalayay  aarum…kaanaa… hridayatharamathil uruki naamannaarum kelkkaa….pranayajalakadha palavuru parayumo?  vazhiyorangal thorum thanalayee padarchilla nee kudayay nivarnnu nee novaaraathe thoraathe peyke thuzhayolangal pol nin kadavathonnu njan thottu melle  kaattee chillayithil veeshane kaare ilayithil peyyane melle theeramithilolangalolangalay nee varoo….  uyiril thalodeedum uyirayidum naam…. naamorunaal kinakkadalil chennayumiru nilaanadiyay  aarum….kaanaa… hridayatharamathil uruki naamannaarum kelkkaa….pranayajalakadha palavuru thudarumo? ~beans!	unknown_state
+181	181	maappilamaare apamanikkaanaa ivar eee vesham kettunnath.	Negative
+182	182	shedaa..... ithippo jimikkeem kammal aarunnel ninte appan kaattond poyathaanennu parayaarunnu....!!! ithippo nammal ennaa cheyyana...!!!	unknown_state
+183	183	ikkaye kondu pattunnath pole   cheythittundu..........cleen shave cheythirunnenkil polichene......	Mixed_feelings
+184	184	oru rakshayum illatha film. film kanda manassu nirayum , athra perfect film. fahad ikka oru rakshayum illa, character complete aaki. shine . soubin ,🥰 emotions abhinayikka alla jeevichu kanichu. sreenath baside kazhil aa role perfect aaki . oru vakk polum parayand attitude perfect. kunjaniyan  . super film 🤩🤩🤩🤩🤩	Positive
+185	185	murali gopi ningalude dialogue pwoliyaanu. ..mwthe	Positive
+186	186	kalaparinju sheenicha karshakanu ini visramikkam	unknown_state
+187	187	swnthamayi after effectil titile undaakuuu ,,,,tutorials unde,,,endhaa nigaloodokke paryaaaa	Negative
+188	188	itharayum alinja oru bhasha parama boraavum	Negative
+189	189	samyam kituvane ah mammoninodu onnu para pandaram mamakam kandu kali theernatila oru mamooka fante rothanam annu ithu	Negative
+190	190	mamangam ikka ithre vendu katta waiting	Positive
+191	191	chali illatha nice comedikal aannu padam porikum	Positive
+192	192	trailer kandathode ittichante kaaryatthil oru theerumaanamaayi	unknown_state
+194	194	eee triler  namakk 1m aakanam,,  ellaarum koodi onnu aanju pidiche.... ellah xmas release sinimakalude triler kall 1m kazhinju....	unknown_state
+195	195	aan maria kalippilaanu enna sinima moss aandu kaatt sinimayil mixes cheythu irakkiya thattikkoott aittam...dileepinte shabdam thanne booar aanu...	Negative
+196	196	teaser releasinu munbu unlike adicha 201 koolani vaanangalude chevidatthu adichu prathishedhikkaan ulla nool....	Negative
+197	197	enna  poli padavanne , super oru rakshayumillatto, all cast and crew  polichhhhhhh	Positive
+198	198	ipoyum ivde thanne chuttipatti nilkkunnavr undo	unknown_state
+199	199	ijjadhi kola mass trailer	Positive
+200	200	joju chettan polikkum ennu urappullavar  button adichittu poyekk	unknown_state
+201	201	2019 joolaiy  aarenkilum  undo...	unknown_state
+202	202	nalle bengali sidill ninee valichaa tiranuluu ninda japan 🤣	unknown_state
+203	203	arudeyum kaneer oppan vannadhalla njn... !! pakshe karayikunnavarude thala njn adichu pwolikkum🤙 full on full power	Positive
+204	204	padam nannavuum ennu thanne expect cheyyunnu	Positive
+205	205	kaanaada kaanaada kattakk kattakk suraj pritviraj	Positive
+206	206	varkki ennaano peru ellah edavakayilum kaanum	unknown_state
+207	207	abhinayam kandu chiri vanathu enikku mathram aano nimbolide..hindi parayuna scene okke navasudin siddique ye copy adikan nokki bore aayitundu	Negative
+208	208	53 55 sec repeat aduchu kandavar evde like	unknown_state
+209	209	njan oru lalettan fana ennalum enikk teaser ishtappettilla	Negative
+210	210	ammayude snehathinu pakaram nalkaan ammakk maathrame kazhiyoo.prekshakarude kannu nirachu manassil kayariya kudumbam.	Positive
+211	211	putthan palali jose  kaattaalan porinchu  phaans like adikku	unknown_state
+212	212	sushin syam  shaiju khalid  midhun manual	unknown_state
+213	213	sunny chachi ne kaanan trailer kandavar like adi	unknown_state
+214	214	dislike adukunna pooo maklkekk anta veral gift	Negative
+215	215	trailer kandale ariyam lalapande adutha padakam....	Negative
+216	216	lalettan phaans‌ onnu like‌ adichitt poya mathi please	unknown_state
+217	217	trailer kanditt padam polikkum ennu thonnunnu	Positive
+218	218	salute  mammookka  mukkoothi  gaanam manoharam,   chithreekaranam athi manoharam,  music manoharam,  kathinum manassin  nalla mukkoothi, nrithasamvidhaanam  sundaram,  mamangam pratheekshakal koodukayaanu,  ishttam  ashamsakal mamangam team	Positive
+219	219	nik thonnunat ee pattil  oru suspense undannanu..pazhayakala cinemayile pole mookuthi adichumattan varunatho angane nthelum..karanam ellarum mookuthi  etitund..	unknown_state
+220	220	eattan fansukaar undekil adikkmone like ....malayaala sinimayil pakaramveykkaan pattaathaa avatharam.....	Positive
+222	222	shreya.. paadiyathinal.. oruvidham.. nannayinnu.. parayaam.. lirics.. very.. bore..	Mixed_feelings
+223	223	aii pii chettan aaa panneene njaan kollum  josporinchu	unknown_state
+224	224	ithu njangalude swantham charitra purushan...chanthuvaayi, pazhasshiyaayi, ambedkaraayi charithram srish‌ticha mammukka mamaankatthiloode veendum nammale vismayippikkum..	Positive
+225	225	ithu charithram rachikkum..... iii vijayavum... ikka uyir	Positive
+226	226	mattu bhashayil engane aano entho eee pattokke irakkunne. moshamakaathirunnaal mathiyayirunnu.	Mixed_feelings
+228	228	filim trailore different athum koodi undairunagil powlichanaee	Mixed_feelings
+229	229	raja raja raja...madhura veera raja	unknown_state
+230	230	ikkaa vere levelaaaa.. masss ka baap	Positive
+231	231	kadutha mohanlal fan aayirunnu njaan pazhasshi raaja kaanunnathin munpu orikkal polum mohanla ll  noppam mammootty eshtappettirunnilla.... pinneedu ellah pazhaya mammootty padangalum thiranju pidichu kaanaan thudangi.....  pulimurugan polulla padangal ellaavarum kandu vijayippichapol mamangam poloru philim degrade cheythu kandathil valya vishamam undu. ithoru classic‌ moovi ithu ishtapedaanum aaswadikkaanum oru nilavaaram venam	Positive
+232	232	ippom itharalum kannan vanno vannavar like button adichooo	unknown_state
+233	233	makale ith polikum ikkaaa love you	Positive
+234	234	which is better trailer like__under wold comment__ helen	unknown_state
+235	235	dislike adikkunna thendikal sunny leone paatt aayirikkum isttam	Negative
+236	236	ikkaa ingalu oru jinn aanu ttaa....	Positive
+237	237	aarokke enthokke paranjaalum paatt suuppar aanu oru rakshayilla pazhaya paatt aavumbol inganeyulla thanne undaavum pinne laalappan maarkk pattiya paadu undaavilla avarkk pattiya paatt njaan paadano kandoloo kandoloo t.n. enthaa paatt paatt ithra nalla paatt paadi athu pazhasshiraaja paatt nalla paatt suuppar hitt paatt mammookka fancinu oru nalla vijayamavum	Positive
+238	238	nivin bro oru kidilam thirichu varavakum	Positive
+239	239	ente ponno our reksha illa ...  nammade ettan powlichu	Positive
+240	240	pattikkan vendi aanelum inganonnum idaruthu ennu parayaan parayanam mr abrid shane  hollywood level item	Positive
+241	241	pinne ingade mookil kidakkunnathu kammal aano penne	unknown_state
+242	242	immanuvel pokan pokunna item kikidu hbd mammokka	Positive
+243	243	fucking awesome mahn... latettan poliiiiii.. rajubhai chathikikllaaa.. waiting for lucifer... odukathe trailer ayi poyi monneeeeeeeeeeeeeeeeee	Positive
+244	244	raajayum pillerum triple strong ennu teaseril. prithvirajinte oru cameo manakkunnu.	Positive
+245	245	poraa.... poraa.... perambile mammookaye vellan aarum illa.	Negative
+247	247	ente channel onnu subscribe chayyammo	unknown_state
+248	248	mammookka uyir  mega****mammookka fan	Positive
+249	249	ikka de carter hit aavm maamankam ennathil oru samsyavum vndaaa	Positive
+250	250	ithokke school pillerodu pooyi para saare......shailokine udeshichaano	unknown_state
+251	251	wokinu edayilum vannu trailer kanunna arokeyund	Positive
+252	252	strike cheyyunna mukham serikkum manju chechiyalle	unknown_state
+253	253	dislike  adich madkununindal9 mohanlal fanz	unknown_state
+254	254	ichayan fans pinne mmade ettan fansm ivde oru like idadey ith nanjankottayile raajavu	unknown_state
+255	255	nanmayum nanmayum thammilalla yudhamthinmayum thinmayum thammilaa yudham	unknown_state
+256	256	maranna mass  2019 july thudarchayayi patt kettavarkk like addikkan ulla sthalam	unknown_state
+257	257	appo lucifer  theernnu.lalettaa varunnathu raajayaanu mega star mammoottyude madhuraraaja	Positive
+258	258	gopisunder pulimurukan eduthappozulla music padangal onnum marnnittia...engu rajayil eathinilkumbazum..elllam oruikalkudui avatharippikunnondu	Negative
+259	259	trailer vere level ayittum response pora	Mixed_feelings
+260	260	traileril...onnum karyamilllla....ennnalum paraya oru punch illathapole..	Mixed_feelings
+262	262	dileepettan jailil pokatha oru padavum ippol irangunnillaaa... irangunnathokke super hitum	Positive
+263	263	thottu ikka ikkante munnil njan thottu	unknown_state
+265	265	chackochante ettavum big hit aaakatte eee movie.....	Positive
+267	267	oru guppy pheel evideyokkeyo eee paattil ullathu pole...	Mixed_feelings
+268	268	variety cinemayude rajav  mammooseeee ikkaaaaaaa	Positive
+269	269	cinemal ulla ellavaradaum abinayvum kollam enikk ettavum ishtapetta characters jaison chettanum, joyson chettanum	Positive
+270	270	ente makkale egeru vidum vidum aradhakare. kollanalloooooo	unknown_state
+271	271	oru second aa mookothu onnu thotu nokiyirunenkil..	unknown_state
+272	272	inii padam kaananamennilla mothatthil manasilaayi enthaayirikkumennu	Negative
+273	273	veendum veendum kelkkumbol ishttam koodi varunna oru jayachandran majik... mookkutthi	Positive
+275	275	appa ithaanalle eee thrissoor bhasha........ muuu..... kozhappamilla.... positteev kittiya rakshappedum.... muttandathu achaayanodaanu.... pinne rajuvettanum nalla katta strongaanu.... aantaneede maaraka thallu maathram aakaandirunnaa mathi...... all the best team ittimaani.....	Positive
+276	276	kashtam thanne..malayaala sinimayil gaanangalkk ithrem daaridryam aayi.prathyekichu oru variyum illaathe samgeethavum illaathe oru aittam song ennu maathra aayi immi gaanam..inii kaayamkulam kochunni luu ulla kondu ottum kurakkenda ennu thonniya kondaavum rund perum koodi chernnu aittam aayikotte enna nirmmaathaavinte pinne samvidaayakante nalla manasinu nandi..	Negative
+277	277	eeswara ithippo manju warrier mammootty maamaankathinu punny kodukkum enna thonnunnu	Positive
+278	278	poo muthole enna songinu shesham adiktta aaya mattoru kidilan song	unknown_state
+279	279	geethu mohandas , oru gundu edukkatte,	Negative
+280	280	nta ponnu muthu maniyeeee  lalataaaaaaaaaaa	Positive
+281	281	simham thane romanjm nte ambho ndh manushyana ith	Positive
+282	282	ente naatil nikana athe oru feel aarnnu theatril irunna time athrayum.. #soubin#fahad#shane athukkum mele.. ellavarum polichu	Positive
+283	283	ithinidakku oru  adaaru teamine kandaayirunno.? nammude karuthamuthu i. m vijayan	unknown_state
+285	285	mookkutthi kandilla  2 vada kandu🤓	Negative
+286	286	pwolli item mammukka bgm uff no words katta waiting	Positive
+287	287	ooro secondum mmakkayude entrik vendi waiting aayirunnu	Positive
+288	288	kilichundan maambazham sinima oormmavannavar like‌ adii	unknown_state
+289	289	wtng laletta...	Mixed_feelings
+290	290	edo  prashant‌  thanta  koottukaaranu  line indo..... silent killer song addicted  to this song and shine nigam.... true love onnum out of fashion  aayittilla .... boony  parayaan  paranju	unknown_state
+291	291	38k views 20k like polichu	Positive
+292	292	0.44  .. angane athine kondu oru upayogam undaayi .. kottayamkarke manasilavoo..	unknown_state
+294	294	oonam vinner aavaan vere  aarenkilum undangil kurachu onna maari nick	Positive
+295	295	ee padam pottum enn thonunnavar ethra per???	unknown_state
+296	296	oru raksha yil laleetan polichuuu rajuettan nega vare level annuuuu	Positive
+297	297	oru katta mammookka phaan aaya njaan mukkutthi enna gaanam ningal eavareyum pole thanne kaathirunna kanda gaanamaan. pinnale kure faansukaarude karachilum kettu .mukkutthi avide kandilla . ivide eduthu ,ellaam paranjukondu .. oru looad puchham vaarivithari kondu oru kaaryam ningalude oormmayilekku dharippikkan aayitt aagrahikkukayaan. kaaranam ningal ethra perr mookkutthi enna kalaaroopathekkurichu kettirikkum ennariyilla .angane oru kalaaroopam ivide undaayirunnu .kurachukoodi eluppathil paranjaal aaa kalaaroopathinu oru modified roopamaan innathe mohaniyaattam. churukki paranjaal annathe kaalatthe baar dance thulyamaaya oru kalaaroopamaayirunnu mookkutthi. nritham cheiyunna nirtthaki ente mukkutthi poyennu parayunnu. avide madyapichu kondirikkunnavarude aduthu pooyi nokkunnu .avarude dressukal maatti nokkunnu .ithaayirunnu annathe kalaaroopathinte hailait. anyam ninnu pookumaayirunna aaa mookkutthi enna kalaaroopathe vallathol thirichu pidikkaan shramichu . athinte bhagamaayaanu mohiniyaattam roopamkollunnathu polum. onnu aalochikkendathu eee sinimayude bhagamaayi varunna oru paattil ethratholam patanam nadathiyathinu sheshamayirikkum aaa mookkutthi enna kalaaroopathe thirichu konduvaraan sramichurikkuka. enthaayaalum orupaadu abhimaanam thonnunnu .orupaadu pratheekshayum.. iniyum mookkutthi poye, mookkutthi kandilla ennu parayunnavarodu onne parayaanulloo. chemmeen chaadiyal muttolam pinnem chaadiyal chattiyolam  otta kaaryam parayaam.   maamaankatthiloode industry hitt‌ allah avante appante hitt‌ nammal adichirikkum	Positive
+298	298	enthinaa chettaa ingane thala vetti vekkunnath . mammukkante thala vallavanteyum kazhuthinu mukalil vekkumbol	unknown_state
+299	299	:36 second kanikkunnathu sunny wayne aano	unknown_state
+300	300	asuran ennu paranjaal ithaanu asuran...... rakshasa chiriyumaayi vanna avan sriramadevan allah...... raavananaan asuranaaya raavanan  #shylockteaser chumma verithanam	Positive
+301	301	nammude ikkaane snehikkunnavar oru like adichittu povuka	unknown_state
+302	302	ithaanu njangade muthu lalettan oonam inii laalettande koode. adii makkale nammude chankinu kidilan like‌	Positive
+303	303	80 vayassil nammalekke vikki vikki samsaarikkumaayirikkum... eee shabdham.. # dassettan malayaaliyude swakaarya ahankaaram..    living legend.. !!	Positive
+304	304	oola padam nthina itra pokkunathna nokkumath	Negative
+305	305	phaan enna hindi sinimayude remuck  pole	Mixed_feelings
+306	306	aaroo oraalalla njangalude eattan lalettan	unknown_state
+307	307	natmmooo. oru raksemm teaser ulla problems oke ozhivaki	Positive
+308	308	aa chekkanu jishnuvinte chchaya  thonniyavar undo	unknown_state
+309	309	ithu mech ile pillerude aaraattu...,	Positive
+310	310	kanjaavu business nashtathilaayappol daddy girija kallavaattu business thudangi.	unknown_state
+311	311	5 million ayo ne nokkan vannavar ethra paru nde	unknown_state
+312	312	spadikam thott ullata ee amma makan combo	unknown_state
+313	313	sharikkulla malayaleezine kananamengill link click cheyyu	unknown_state
+314	314	vineet srinivasan  undengil  padam  poliyaavumallo	Positive
+315	315	ikka vera level... ithu 500 cr kerum100%sure	Positive
+316	316	new gen soong‌shh iny...  kuttam parayunnavar...  eee pattu kettittumundaavumo...  naise song	Positive
+317	317	paatt kelkan vanna njn ..paatt theernnath polum arinjilla .. 🤣🤣🤣 cmnts vaayich vaayich  oru paruvamaayiii ...  🤣🤣  yenthu vaadeyy ..yentharu theppadeyy	unknown_state
+318	318	kyapttan marvelil maathram alladaa ittimaaniyilum undadaa njangalkk poocha :d	unknown_state
+319	319	track suuppar. mattiya track othiri suuppar....	Positive
+320	320	teaser kaananulla bhagyam kitti.. ijjati aittam  megaastaar aattam complete mammookka shhow	Positive
+321	321	kurbbana koodi semitheriyil praarthichu inii rund kiloo potherchim vaangi veettil ponam.....   lalettan... 🥰🥰🥰	unknown_state
+322	322	pakka poli nigal entha manasilakiknath keraliyar k buthiyillalae thani thedrit pakka fillm thani poli film	Positive
+323	323	ikka kku nalla age feel cheyuunuu	Mixed_feelings
+324	324	basha ketapol basheer bashiyude mashudhaye orma vannavar like	unknown_state
+325	325	2019 ll enikku ettavum ishtappetta pattum cinema.......	Positive
+326	326	ikka.......trailer powli..  frm a10 fan	Positive
+327	327	4million views 300k likes record breaker ettan da	unknown_state
+328	328	mammokka kali tudagan pokukukayanu makkale ahaaa adhas.song polichu iniya yude koode dance kalicha nayikaykk ethoru hight anu pullikkariyude aduth iniyaye kanan polum illallo ( negative ayitt parajathallatto)	Positive
+329	329	ikkayude aattavum dhaa saarinte shabdavum ooo oru rakshayilla suuppar	Positive
+330	330	unni mukundhantea oru dialogue kelkan aaaagrahichavarundo	unknown_state
+331	331	velluvili  aanennu  koottikko  eee roll  dhairya poorvvam  cheyyaan  oru  nadan  malayaalathil undo???	Positive
+332	332	0:46 shaine  charinju ninnu thalayaattunnath kandaal... oru nadane oorma varum aaraanath	unknown_state
+333	333	uyirinte uyiraaya mammukkaade shailok mooviyude  tray‌larr kaanaan  veyitt cheythu  nilkkunnavar  ivide like cheyyoo	unknown_state
+334	334	2.36-2.38 aa building ethaanenn aarelum onn parayaamo?	unknown_state
+335	335	tvm massive thirichuvaravanalo	Negative
+336	336	1 milyan views aayo ennu nokkaan vannavarundo	unknown_state
+338	338	njan ikka fan aa	Positive
+339	339	onnil kooduthal pravashyam kandavar like‌ adii......	unknown_state
+340	340	ivide ethra perkku manassilaayee aaa thalapavum vechu nadakkunna chengaayi mammootty aanennu	unknown_state
+341	341	ente ponno roshan cgettante kalippu lokk ufff ejjathi.....	Positive
+342	342	ntemmo director aranen njn ipazha arinjepakachpoi	unknown_state
+343	343	hype kurakan samthikoolla alle?   ijjathi ittems oke irakiyal engane hype illathirikum.	Positive
+344	344	kandu njan kandu sunny chechiye njan kandu	Positive
+345	345	ella changayi ingalenthu padam cheyyaathe tovi okke aazhcha vechu padam release akkuva ingalu bollywood kandittu athu pole kalikkaanu ...	unknown_state
+346	346	oru pakshe yennum oru thavana yenkilum minimum ellaarum kaanunna trailer ithaayirikkum ..no doubt.....	unknown_state
+347	347	tovino machanzz oru rakshayumilla waiting for  kalkki	Positive
+348	348	aaa mookkil kidakkunnath pinne paadasaram aano pennumpille...	unknown_state
+349	349	ival mookkinte randu sidelum mookkutthi idunna sais aanennu thonnunnu	unknown_state
+350	350	ente ponnoooooooooooo nammude sontham ichaka mamoookkaaaa ummma cinima kanan kothiyakunnu	Positive
+351	351	adhikam hype venda	Negative
+353	353	trailor kand 8 nilayil pottum enn thonunnu mumbathe pole tholvigal vaari kootan thudangunnu	Negative
+354	354	where is raju ettan ... angeru illandu enth padam  ..	Mixed_feelings
+355	355	uyante mone.......!!!!!! ith eeeeth lookkaa mammootty ....... vere level.....	Positive
+356	356	nalla soong. nalla perfomance. ithineyaano chila vaanangalu kaliyaakkiyath. anthassundoda ninakkokke	Negative
+357	357	padam verum oru below average lucifer like oombiya padam aakum enn orappullavr c'man!!!!	Negative
+358	358	oru mookkutthi kaanathaayathinaano eee attamellam? enthu prahasanamaan saji...	unknown_state
+359	359	ithu mass alla marana mass adipoli kumba konam....odiko heaters thirinjum marinjum odikkoooo	Mixed_feelings
+360	360	_ninakk inii malayaalam industrial kidannu polaykkaan  pattumonnu thonnunnundo bosse _ polaykkuvalla  koothaadum 🥳	unknown_state
+361	361	0:40 - njangalude naattile petta  - shylock - loading	unknown_state
+362	362	ithu takarkkum,urappu .  laalettante adutha suuppar duper  hitt‌  ready aayittund‌ makkale,  dayavaayi kshamayode kyoovil nilkkuka,  chilappol 100 divasam eduthennu varaam ticket kittaan.	Positive
+363	363	honey rose‌ okke undallo??appo nalla ookku‌ ayirunnirikkum	Negative
+364	364	pratheekshakk valia vakayilla pratheeksha bradezhs day	Negative
+365	365	movie katta waiting lalettan fans ee video koodi onn like chey tamil nadu koodi ariyatte  link:	unknown_state
+366	366	ithrayum kazhivikal ulla artistukal malayala cinemak mathram swantham.. superb film	Positive
+367	367	ellarum like adikkee eniit share cheyee	unknown_state
+369	369	njagade lalettanum manju  chechiyum kolamass jodi annu.	Positive
+370	370	un like adicha yalavarakum nadu viran namasakaram	Negative
+371	371	0:06 gajam enna aalbathil chiraykkal kalidasan nadannu vanna aaa sthalam pole undu ithu  gajam viidiyoo link :-	unknown_state
+372	372	poli pattu e kalkumpozhu intaa monjatii orma varum	Positive
+373	373	ikka& unni fans onu urjathode pravarthichal 24 hour's kond 5 m adikka	unknown_state
+374	374	aadyam oru jimmikki kammal,  ippo mookkuthiyum  kaanathaayirukkunnu.. mukhya mantri raaji vekkuka.	unknown_state
+375	375	ithu polikkum mamangam oru 200 cr pratheekshikkunnu. cinima etayalum theateril poyi kandirikkum	Positive
+376	376	ikka scene vere level	Positive
+377	377	hpy bdya ma lovely ikka	Positive
+378	378	oru rakshayumilllaaaaa  katta waiting for the movie	Positive
+379	379	joby annan shainnayittoru  dialogue  kuthikkettiyathaa.enthaayaalum valiyaperunnalile dayaloginte  athrem varilla.valiyaperunnaal	unknown_state
+380	380	nammude thiruvananthapurathe rund ponnu muthukal adipoli	Positive
+381	381	kgf movie kanda pola oru feel..... endhayalum laleta kalakki	Positive
+382	382	nalla oombiya bgm tuu ttu tuu ttoo...	Negative
+383	383	suhruthaayathu keandu parayuvalla sudhi keppa maneharamaakki.orupaadu ishtamaayu	Positive
+384	384	hang ayo youtube? views no updating	unknown_state
+385	385	heavy ennu paranja pora.. athukkum mele...	Positive
+386	386	ente aliyaa oru rakshayilla.dileepettey ningalu‍kku pakaram vaykkaanu‍ lekathaarum kaanoolla.lakshathilu‍ onne kaanu ithupealearettam.	Positive
+389	389	onnum parayanila. ..nte ponno ...katta waiting march 28	Positive
+390	390	ingalu itra nal aayitt inganatha padamgal irakkanjath enthan bhaii...	Positive
+391	391	shine nigam oru hevi rench nadanilekku uyarnniriykkunnu....!!	Positive
+393	393	angane varatte.... malayaalathil nalloru thriller vannittu kaalam kure aayi	Positive
+394	394	nayakanaaya aaktare jeevanu thulyam snehikkoonna phaan thaan sinimayil kanda aaktare allah jivithathil ennu thirich ariyumbol ayaalkkethire thirinj villanaakunnu  phaan enna shaarookh padatthinodu evidayakkayo saamyam thonnunnu  enthaayaalum raajuvettanalle polikkum.. vaitting....	Positive
+395	395	15 thavannayil kooduthal kettavar undo ivide	unknown_state
+397	397	innale 7 mani muthal kath kath ninnu trailer nu vendi.....thakarppan trailer .... love you mammukkaaaaaa	Positive
+398	398	uyiril thodum thalir…. viralavane ni…. arikil nadakane.. alayaum… chodukattinu kootenayayi.. namoru naal…kinaakudulil… chennanayu..miru..nilaavalayayi… aarum…kaaana… hirdhyatharamathil… uruki….naamannarum…. kelkaan….prenayajaalakadha… palavuru..parayumo…? uyirilthodumkulir….. viralaayidam njn… arike….nadannidam.. alayum…chudu kaatinu kootinayayi… namoru naal…kinaakudulil… chennanayu..miru..nilaavalayayi… aarum…kaaana… hirdhyatharamathil… uruki….naamannarum…. kelakaan….prenayajaalakadha… palavuru..parayumo…? vazhiyorangal thorum…. thanalaayipadarchilla ni… kudayayinivarnnuni.. novaarathethorathepeyke… thuzhayolangal pol nin.. kadavathonnunjnthottumelle… kaatechillayithilveeshane…. kaare ilayithilpeyyane…. melle.. theeramithilolangalolangalaayi.. niii…varu.. uyirilthalodidum… uyirayidum naam…. namoru naal…kinaakadalil… chennanayu..miru..nilaanadhiyayi… aarum…kaaana… hirdhyatharamathil… uruki….naamannarum…. kelakaan….prenayajaalakadha… palavuru..parayumo…?	unknown_state
+399	399	paatt suuppar aanu. aavathe irikkunnathu enganeyaa paadiyath nammude swantham shreya ghoshaal alle.....	Positive
+400	400	ithoru maas thriller sinimayalla. njaan eee sinima tiffle kandu. ningal oru klaas sinima premiyaanengil anubavichariyanda oru cinema thanneyan..malayalam industryil thanne ettavum mikacha oru sinimayaanu. kathaa sandarbham thikachum vyathyasthamaan. ithoru maas aakshan sinimayaayirikkumenn pratheekshikkaruth. ithoru suuppar klaas dramayan.	Positive
+401	401	yesu nammakku ariyatha aalonnumallallo... wat a dialogue	unknown_state
+402	402	ethukandalariyam e padam padakkam pole pottum	Negative
+403	403	7 minute kond 8.3 k view🤩	Positive
+404	404	kaanunnathinu munne comments nokkunna aarelum undo	unknown_state
+405	405	evideyo oru super star  janikunathu pole	Positive
+406	406	muriyandikal pannikuutatam pole thurimezhukuvansllooscenes are rememmbering pulimurugan	Negative
+407	407	peranbilum yathrayilum ingeru ithengana abhinayichu....maassinu maassum claassinu claassum ....ikka vere level thanne....	Positive
+408	408	@ 1:59	unknown_state
+409	409	anuu chechiye... onnu... kaanaan... #katta #waiting	Positive
+410	410	oru feel good movie aanu.. western style bgm	Positive
+411	411	daivame pottathe nalloru vijayam aakki theerkkane....	Positive
+412	412	oonam ittimaani kondupokumennu urappichavarkk ivide like adikkaam...	unknown_state
+413	413	ini varan ullath avana sugunan 🤩	unknown_state
+414	414	ikka fans like adichittu poya mathi	unknown_state
+415	415	torrento philim festivalil ethiya malayaala sinimayude abhimanangalil onnu  pirannaal ashamsakal achaayaa	Positive
+417	417	ippo sarikkum njetti...!kiduvey eppozhaa release katta waiting....!	Positive
+418	418	ooroo idikku sheshavum eattanu tummal varunnundannu thonnunnu  🥴	Negative
+420	420	mattoru chaina taunn aano ennoru samshayam dileepinteyum jayaraminteyum kuravundu	Mixed_feelings
+421	421	aarada ethavanaada eppolaada paranje achayanu acting ariyillaannu	Positive
+422	422	avide thiranju nadakkaathe ivide vannu oru like adicholoo  ikka	unknown_state
+423	423	belari raja pazhashi raja rajadhi raja pokkiri raja madhura raja  ee raja ena peru ushirulla aanpellerkru paragitullatha	unknown_state
+424	424	ithinte thalakk valla oolavum undo pinne paadasaram aano mookkil vachathu	Negative
+425	425	nalloru mookkutthi kalanju pooyittum penninu enthaa santhosham...chirichondu thappi nadakkunnu pennu...	unknown_state
+426	426	ee trailer nu ento problem und...etra kanditum mathi aavunillaaa	Positive
+427	427	katha traileril thanne undallo. suraj prithi combo kidilan aakatte	Mixed_feelings
+428	428	januvari releasile thattupolippan masala moovi shylock aanennu urappaya sthithikku... inii vendathu oru kwaalitti thriller mooviyaanu....athu  bigg brother  ayirikkatte ennu aagrahikkunnu	Positive
+429	429	rajuvettan lalletan hit kazingi ini rajuvettan mammoka hit rajuvettan ishtam🥰	Positive
+430	430	daasettante aalapanam hoow orurakshayum illa	Positive
+431	431	nanayitunduuu...... trailer kurachu koodi nanakam ayirunu	Mixed_feelings
+432	432	ningalk enthenkilum urjam tharunundo aa bgm.undenkil adi like	unknown_state
+433	433	trailerinu ottum impact illaalo.. evideyo entho mistake..	Mixed_feelings
+434	434	njangade joshi saaru thirichu athiyathu chumma perinu allatta... eee pooram ingi bigg screenil kanatta..... ( njaanum juuniyar aartist aayi abhinayichittundu eee sinima yill)	Positive
+435	435	nte laletta  idikatta waiting aaa..... ummah. theatre pooraparambha urappaa	Positive
+436	436	pakshe padam villain movie pole aanuna kelkune emotional thrilling movie aano	Positive
+437	437	padam kandu kazhinju evdae vannavar arrokkae und...	unknown_state
+438	438	swarna mookkutthi  kalanju kittiya  ippo aarum tharillapengale entha vila svarnnathinu	unknown_state
+439	439	sinima kandu manju chechiyude abhinayam thakarthu .kathayum kathaapaathrangalum valare vyathyastham  roshen antru saarinte villan kathaapaathram kidukki manju chechiyude abhinayam parayaan vayyaa	Positive
+441	441	vineethettante ellaam njaan kaanaarund ningalu poliyaanu brow padam njaan kandirikkum	Positive
+442	442	cheriya pulli ala avan  padiche kalana.. laleatttannnnnnnnnnn....	unknown_state
+443	443	nalla oru police movie kanan orungikko	Positive
+444	444	kunjikka faansinte ellah supportumm undaakum . laalettante adutha 100 kodikku‌ waiting.....	Positive
+445	445	shine oru nalla allah mikacha nadan thanne aanu	Positive
+446	446	kovalaji padam theatre pooyi kaannil ennu  prathinjja eduthirunnu but eee padam release divasam pooyi thanne kaanum	Positive
+447	447	odiyanu shesham adhe jodi manju &lal	unknown_state
+448	448	kali bwendaa mwonee ikkka mess daa	Positive
+449	449	jelli kettinte trailer bgm pole ind	Mixed_feelings
+450	450	ee boss varunnad verudeyalla boxoffice kidilam kollikkan tanneyanu sure	Positive
+451	451	pariyile trailer, pirates of the caribbean sinimayude bhagangal vettikkayattiyundaakki koppile trailer. abhinayikkunnathu ellaam thikanja ponnathadiyan ,	Negative
+452	452	traileril thanne phul storayum paranju thannathil santhoshameyulloo.inii ithil komadi undo illio ennu nokeettu padam kaanaam	Mixed_feelings
+453	453	ningalkk ettante enthaanu ishtamaayathu?  enikku aaa thadiyaanu. lalettan mass	unknown_state
+455	455	dileepettaaa...last dialogue karayippichallo... .5 second  lalettan kazhinja dileepettan aanh full senti	Positive
+456	456	montak onnukoduthu kannaadi eduthu kanikku ..vayalar ezhuthuvo  ingane..	unknown_state
+457	457	mass ennu paranjaal patoolla kola mass aanu lalettan and prithi	Positive
+458	458	ikka pwoli bgm oru rakshayum illa	Positive
+459	459	ithe e varesham vallo irangumo...... 🤔🤔	unknown_state
+460	460	from tamilnadu mamukka fan vera level	Positive
+461	461	ee padam release day kandath njan mathramano. chumma thonniyappam poyi kandatha 1st day enthayalum othiri ishtapettu padam kidukki....	Positive
+462	462	njaan manassil kandappo, nee saamaanathil kandoo !	unknown_state
+463	463	ikkakk..valla  mass padavum cheythude....ithorumaathiri senti...cop	Negative
+464	464	eethe tendikalada....  dislike adikyan varunne.	Negative
+465	465	ee movie aduppichu pinnem kandavar like	unknown_state
+466	466	inger eathu vesham aninjaalum enthaa stail  ikka  innathe youther polum oru pidi baakkil nilkkanam ajjati monchan  annum innum ikka maassaan	Positive
+467	467	chembanum jojuettanum marikkendaayirunnu.ente valyamma marichit vare njaan karanjittilla.pakshe inn njan karanju.	Positive
+468	468	kollaalo trailer vannappol aanu story entha ennu manassilayathu ini ponam	Positive
+469	469	laletta polliku full support annu	Positive
+470	470	muzhuvan ipo kanikunila. baki theatril kanaam	unknown_state
+471	471	lucifer trailerinu akshamayoda kathirunnavar like here	unknown_state
+472	472	kidilan....nivin poolii ningal nalla oru nadan aayirikkunnu	Positive
+473	473	adipoli trailer.......   parayaan vaaakkilaa  lalettan fans like here	Positive
+474	474	avade monthakku onnu koduthittu aa kannadi eduthu kanichu kodukku.appo kanum mukkuthi	unknown_state
+475	475	ee thadiyanano nammale kunjali marakkar aayi abinayikkunnath ??? prithviraj or mammootty cheyyanda role aanu	Negative
+476	476	mammookaye pole dailog eathu salgilum prasant cheyyan kazhiyillannu ippo eniku manasilaayi	Negative
+477	477	waiting to watch.   ente resippikal koode kaanaamo...	unknown_state
+478	478	pulimurgan 2 adyam oralde thallu. pinne same kattil ottakkulla adi.	Mixed_feelings
+479	479	onam lalettan eduthu ennu parayan paranju	Positive
+480	480	eee padam kandappozha eee idakku oru padam erangiyallo . enthaa adaar lavu ooo angane oru chhaadanam athine kinattil allah(kinner naarum )eriyende kakkoosil ittu flesh adikkanam...  !aaa omar luluvinodu eee vazhi okke varaan para..	Negative
+481	481	kill bill pole thonniyavar like adi	unknown_state
+482	482	ith fan made aavum..dialog delivery maha bore aanu..priyadarshan atleast aa kalaghattathile bhashayekkurich padikku adyam...chumma lalettante pazhi kelppikkan... ee kolathilanenkil padam edukkanda...atleast listen bus conductor movie slang..1921 movie slang etc...	Negative
+483	483	katta dileep ettan fans um ee movie vijayikyum ennu ullavar adi like	unknown_state
+484	484	asooya nalla thaa laa makkale. marakkar arabikkadalinta sinha ooo nuu vere	unknown_state
+485	485	best wishes from a chekuthaante fan..	Positive
+487	487	ayee....orumathiri oru tamil kathii padam pole indu.....	Positive
+488	488	enthu‌ oola trailer aanu... cinema mechappettaal mathiyayirunnu	Negative
+489	489	shylock and big brother ...randum pottan nalla chance und  ..aarum ponkala idanda ende abiprayam paranjadha	Negative
+491	491	vivek obereku dub cheidhadhu rahman aanenu thonunu	unknown_state
+492	492	ittimaani ... mass aanu manasumaanu‌...	unknown_state
+493	493	fan made trailer aanennu thonnunnu orijinal allah	unknown_state
+494	494	nt ikka ingalu verm ikka allatto ponnikkaya  #romanjified	Positive
+495	495	ettante maargam kaliyil avasanam mudra pidikkunnathu enna perfect aanu... athu pole thanne maargam kaliyum 59 vayas aanu  muppark. pulliyude flexibility kaanumbol thonnilla..	Positive
+496	496	ithanu mamukka. mammuka thirichu vannunn poyi parayedaaa. lalettante level ipoooo	unknown_state
+497	497	300 crores next. ok alle	unknown_state
+498	498	nanam akile manushiya poyi nalla vella pani cheithude	Negative
+499	499	eee  triler  irakkunna  aalukalude  shradhaykku  sinima  mothatthil idaan  allah  paayunnath ...   randu moonnu   adipoli  seane  maathram  mathi  njangalkk	Mixed_feelings
+500	500	trailer rum teaser rum vidal cinema eganeya endho. chilayidathokke vellimooga feel kittyavarokke adikkeda like	unknown_state
+501	501	5 million akkumennu urappullavar adi like	unknown_state
+502	502	aaroo oraal allah ... enta eattan  my bigg brother	unknown_state
+503	503	ravananaya avane nerku neridan orru mahavadharam vendi varum	unknown_state
+504	504	that “vaadaa “ vili   ettan	unknown_state
+505	505	fahad ikka ningal oru valia polyatto	Positive
+506	506	sathya sandamayittu parayuva.. ethalle orginel acter, ee songil abhinayicha ellavareyum sredhikum. but chila nadenmar ottayku perform cheyyan sremikum.ellam pulliyude thalayil ennu karuthi. eee valiya nadane trollunnavarodu ninakoke lesham ulippundo. ninteyoke achanmarekal prayam undeda. avarku pattuvo ethoke	Negative
+507	507	laletan ennum anganeya pwolichadakkum athan laletan	Positive
+508	508	ithupole nammal adhikam malayalathil kandittillatha themes varatte. malayala cinema valaratte.	Positive
+509	509	kalakki... oh avasam sadharana enikku ishtapedunna typ comdy simpl mvie chyyn thodangi....   valiya cinemagal mass okke chyam pkshe athu mathrm ayipogorathu	Positive
+510	510	kandittu oola padatthinte lukk‌, siddikhinta kayyilullathokke theernnu poyathu  pole 🤔🤔🤔	Negative
+511	511	eee praayatthilum ithu poloru vesham cheyyaan mammookkaane konde pattoo...	Positive
+512	512	super trailer  ikka enth look aahnn	Positive
+513	513	whatsapp staattas videosinaayi ente chaanal onnu  sandarshikkamo	unknown_state
+514	514	iyaal ithu enthinulla purappaad aanu kandu ariyaam.. phaans‌ piller thalli thalali  mamangam oru moolakk athichu padam erangi kazhinjathinu shesham velluvilikal aavam allathe padam erangunnathinu munpe veeravaadam  muzhakkiyittu oru kaaryom illa samvidaayaakaan enthaanu uddeshichathu ennu screenil varumbozhe ariyaan pattu..  (phaan allaatha ikka snehi )	Negative
+515	515	odiyanile paatt kandu kaliyaakki ippam enthaayi.....   karma is a bitch baby 🤣	Negative
+516	516	vivek oberoikku best villainte award koduthillengilanu!	unknown_state
+517	517	ithil score cheyyaan povunnathu sushin shyam thanne	unknown_state
+518	518	kandittu  onnu koodi pranayikkaan thonunnu eee 14vare samayam undu kaathirikkunnu	Positive
+519	519	laletta eee oonam nammal aniyanmaar  polikkum	Positive
+520	520	mammuka evide evideen kannum nattu nokkiyirunnath njn matjramanoo?	Positive
+521	521	still trending #1 inn vaykeet 7 nn ee trending karikku piller edukko  🤩	unknown_state
+522	522	lolante lucifer kand kaananthooni  vannavar	unknown_state
+523	523	inii asurante varavaanu  ente ponno oru rakshayilla kidilam	Positive
+525	525	manju vaaryarude shakthamaaya kathapaathramaanu ithu. urappayi	Positive
+526	526	aaroo oraal allah ente eattan my big brother	unknown_state
+527	527	ee dislike adichavar ariyathe nekkipoyadha avarodu kshemikkanam	Positive
+528	528	eatho naattil irunnu bahubaliyil anush‌kaykku kannane urakkaam pinne athrakk onnum varillallo  oru mookkutthi	unknown_state
+529	529	ethra like & view aayi ennu nokkan vannvarkk like aanulla stalam..	unknown_state
+530	530	ikka   pwolikkum   bgm pwolichu	Positive
+531	531	jelli kettinte trailer bgm pole ind	Mixed_feelings
+532	532	josaf cinema joju josafin ishttappettavar ivide like cheyyuka	unknown_state
+533	533	ente ikka...ningalu oru sambhavam anu... enna look anu....powli	Positive
+534	534	kumbalangi nights   kaanaan  vendi kaathirunna sinima......  kaaranagal othiriyaanu. fahad,dileesh potthan produce cheiyunnu ennathu  oru kaaranam. prekshakare samthrupthipeduthunna taranira thanneyaanu pradhana kaaranam- fahad,sabin, srinath bhasi, shine ennivar  onnikkumbol oru sinima prekshakanu athu daaraalamaanu. shyam push‌karinte screenplay koodi aakumbol athu double treat thanneyaanu. sinima kazhinjappol pratheekshakal onnum thettiyilla enna aashvaasavum pratheekshathinekkaal kooduthal kittiya santhoshavum aayirunnu manassil. ithu fahad chithramalla, sabin chithramalla, shine nigam chithramalla marichu ivarellaavarum mathsarichabhinayicha nanma niranja sinima. oru nimisham polum kannedukkathe pidichirutthaan aniyara pravarthakarkku kazhinju  ennathu nenjil thottu thanne parayaam. sabin, shine, bhasi,maathyu thomas  ennivar sahodarangalaayi chirichum chinthippichum karayippichum prekshakare vis‌mayipichappol negatteev maanarisangalumayi fahathinte thattu thaazhe thanne ninnu. kumbalangiyude bhangi cameraman oppiyeduthappol sinimaykku anuyojyamaaya paattukalum, bgmumm thannu music director mikachu thanne ninnu.mothatthil koduttha paisa muthalayi ennu mathramalla athinekkaal kooduthal kitti ennu santhoshathode parayaan enikku kazhiyum.	Positive
+535	535	padam kandittu ivide vannavar undo	unknown_state
+536	536	ikka phaans enic oru sahayam venam enne subscribe cheythu sahayikkaamo	unknown_state
+537	537	ee vaga items okke kandu maduthade....oru maatavumilla.	Negative
+538	538	sathyam paranjo ithu hollywood padam dabbu cheyathath alle 🤔 ijjathi feel	Positive
+539	539	yaathrakale snehikkunnavarkkaayi ente production house  baanaril njaan aadyamaayi produce cheytha short film	unknown_state
+540	540	chattambi nadente oru cheriya oru koppi mathiri	Negative
+541	541	aamen sinima oorma vannavarkku laikkanulla kamant‌	unknown_state
+542	542	geethu mohandas malayaalasinimaykk muthalkkoottaanennu thonnunnavar onnu like adiche.  a woman director of this level  hats off	unknown_state
+543	543	ikkayude dance neeii kaliyaakkiya myranmaar onnu oorkkuka....  vere oruthan patti mongunna pole paattaanenn paranju mongumbol paattinte sruthiyum thaalavum cherthaano paadal ennu.....	Negative
+544	544	aadyam kettu eshtappettu pinne kettu ardhangal manasilakki kettu. like...	Positive
+546	546	eee sinimaante moojik  lukk misttar jayachandran alpam uluppu  pinne ettavum ishtappetta varii  seemanthika theyyara thakathom 🥺	Negative
+547	547	vadayum kaanichu thulli nadannaal kaanaathe poya mookkutthi thirichu kittumo teamay ??	Negative
+548	548	nalla oru malayalam padam kandittu kurenal aayi pratheekshikkunnu	Positive
+549	549	vallatha jathi trailer onnum pidikittiyilla prithivi brilliance	Positive
+551	551	mammokka ponnikka happy birthday  love you	Positive
+552	552	jojuvettan fans power kannik makale  like adikandath ivide !!!	unknown_state
+553	553	trailer kand  romanjam  vanna ettan  fans like adikn	Positive
+554	554	pullu ingerkku vere paniyonnumillee.mansushyare ingane thrilladipich kollaanaayittu..oronnu erakkikolum....	Positive
+555	555	35 yers  old   ikkaisam	unknown_state
+556	556	montak orennam kodutthittu kannaadi eduthu kaanichu kodukkada.. appol kaanaam isi (mookkutthi) maaru‍q‌... 🤣🤣🤣🤣	unknown_state
+557	557	ikka fans ivide onnu ujala mukkiyek	unknown_state
+558	558	entammo ....oru adaar triler ...... malayaalam triler ingane kaanunnath adyayitta ......kiduve	Positive
+559	559	dubay kaarude swantham. nyla... katta waiting	Positive
+560	560	2019 l aadhya malayalam film madhura raja 100 cr ittu eny 2019 aadhya film shylock 100 cr clubil idam nedum	Positive
+561	561	body 68 vayassulla oru manushyan	unknown_state
+562	562	thalkalam dq um rajum nivinum okay padanjarottu thirinjirinno	Negative
+563	563	padam kandathinu shesham trailer kaanaan aarenkilum vannittundo  ?    padam vere levalaanu , pacha mass	Positive
+564	564	paatt kandappol thanne ariyaam athinta klaaritti level ethratholam undennu... padmakumar nammal vichaarichathilum appuramaan ennu theliyikkum sinima release aakumbol	Positive
+565	565	versatile star jayasurya  mass kaa baap  pwoli item loading.......	Positive
+566	566	wow joju ,  chemban polikkum pinne  joshi...	Positive
+567	567	heroine aaa hani jadakkku pakaram vere vallo penpillerum mathiyarunnu	Negative
+568	568	1:07 eee chirikk kittum 100 kodi	Positive
+569	569	njan our ikka fan anuu paksha odiyan mass a  like adii	unknown_state
+570	570	chaaver thalavante koode naale muthal thiyettarukalil oru asuran	unknown_state
+571	571	onam lalettan eduthu ennu parayan paranju	Positive
+572	572	ithiloke vannu dislike adikunnavane okke namikanam	unknown_state
+573	573	2.1 dislike....  enthuvada ingane....  ith kandit engane dislike adikan thonunnu	Negative
+574	574	mookuthide director aan ee cinemayude director enn etre perk ariyam?	unknown_state
+575	575	peelithirumudikkettinnu maathalappoo thiruki  kuratthee maathalappoo thiruki peelithirumudikkettinnu maathalappoo thiruki  kuratthee maathalappoo thiruki neelakkanpeeliyil valittu kanmashi chaalichathenthinedee   kuratthee chaalichathenthinedee  peelitthirumudi.. peelithirumudikkettinnu maathalappoo thiruki   aavanikkaavile pooram kazhinjille aaa vazhi poyathenthe  kuratthee  aaa vazhi poyathenthe  aalum velichavumillatheyottayot aalumtharayilenthaa  kuratthee kavalppurayilentha  neram kezhakkuvelukkumumbenni kodi njorinjudutthu  kuratthee oolakkudayeduthu  thaazhamboovokke kozhinjittumenthinu cholakkadaviletthi  kuratthee njaalithodiyiletthi     peelithirumudikkettinnu maathalappoo thiruki..	unknown_state
+576	576	mammookayum unniyum ozhichal padathil eduth parayathakka thara nira illa	Mixed_feelings
+577	577	swasu uyir ellaavarum kudumba thodoppam eee nalla sinima kaananamenn abhyarthikkunnu 🤝🤝🤝🤝🤝🤝 aksfa	Positive
+578	578	mammukka verum vishayam engneru eth enthonn chyuvanentho prayam koodum thorum glamour koodunundallo daivame	Negative
+579	579	ithra simple aayi hindi parayaan pattumo  enikkonnu kandaa mathi	unknown_state
+580	580	the legend...wait cheyyaan vayya 🥰njan pooyi nara simham kaanatte cheriyoru samaadaanam🤣🤣	Positive
+581	581	aadyam ishttaayilla  pinne ishttapettu  shreya jii	Positive
+582	582	katta ikka fans ivide onn nokkitt poo	unknown_state
+583	583	traileril ulla pala scenum padathil illla   nnnalum padam kidu	Positive
+584	584	ith kanditte idi orma vannath enikku matramano??	unknown_state
+585	585	lal fans kurachu kashttapedu unlike adichuuu	Negative
+586	586	vettakku shesham chaakkochante kidilan thriller aavumennu thonnunnu	Positive
+587	587	suraajettante peru titilil vekku... editt cheyyu bhaay!   aaa kaanaada kidukki	Positive
+588	588	psycho acting ipo oru trend aayi maariyekkuanallo	Mixed_feelings
+589	589	mayiru padam kandu kazhinjappol muthal kaathirunna soong trollenmarkinnu chaakara	Negative
+590	590	udalaakeyum thiranjittum kandille, ennaalathu baath‌roomil kaanum.	unknown_state
+591	591	e padam polikkum allee  mammookkaa fans nammakullathaaanu e padam	Positive
+592	592	@ 1:07, rope upayogichitte illa.	unknown_state
+593	593	10 million views adikkumenn parayunavar like adikku	unknown_state
+594	594	aarum kaanaa hridaya thaaramatthil urukinamonna , aarum kelka  pranayajaalakatha palakurithudarumo	unknown_state
+595	595	massaanu manasumaanu ellaam aanu love u ettaa ..	Positive
+596	596	padam pvolichu joju, nayla, chemban, super acting .. rating4.15/5	Positive
+598	598	montak onnu koduthuthittu kannaadi eduthu kaanichu kodukkadaa appol kaanum  mookkutthi	unknown_state
+599	599	ikka ingalu polichu vere level	Positive
+600	600	neeyokke koode aaradhich aaradhich valarthiyittalla njaan nadan aaye......	unknown_state
+601	601	2019 ll keralatthile first day collection thiruthikkuricha 10 sinimakal	unknown_state
+602	602	teaseril pratheeksha kuranjegilum trailer polichu	Positive
+603	603	maranamass padam....padam kandittum njan thaa trailer kaanunnu	Positive
+604	604	eee chaattatthil mookkuthiyalla palathum kaanaathepokum..... hau enthoru dance	unknown_state
+605	605	jeethu josaf malayaalathile murugadas aakaan nokkuva	unknown_state
+606	606	aaroo oraalalla ente eattan  my bigbrother	unknown_state
+607	607	acchan ipozum pani edukunnu.. magan rand padam potty ipo moolakkirikunnu	Negative
+608	608	njan katta llaletten fana ikka ettente pilleru koodu  ekkante pillerekkode aaagoshikkkan	Positive
+609	609	innu pokum lucifer kaanan katta thrill aanu	Positive
+610	610	mollywood industrik oru otta pere ullu mohanlal	Positive
+611	611	nte ponne rajuvetta umma....  ithu minnikkum	Positive
+612	612	pattu   kanda  kondu theerumaanam  aayi... pada   kanand,  ennu	Negative
+613	613	nokiko makkale ee padam korachokke onnu oodi thoothu varum orappa	Positive
+614	614	laalettante mukham kandu vishamam varunnathu enik maathram ano	unknown_state
+615	615	janapriyan jail vitt vere kaliyillaa... all the bst tm	Positive
+616	616	vaada - idu mathi ivide like kondu nerayan.. l	unknown_state
+617	617	full time kanjaavu adicha ingane okke thonnum mookil irikkunnathu pinne kammal aano	unknown_state
+618	618	pirates of carbien aarum kanditilananu mone ninte vicharam	Negative
+619	619	sathyam paranjaal trailer kandit vella majjeyonnullalla	Positive
+620	620	kidu triler( 2:00 )vineet srinivasan expression	Positive
+621	621	peeli thirumudiyumaayi malayaaliyude swakaarya ahankaaram thirasseelayil vannappol sinima kottakal ilaki marinju...	Positive
+622	622	ee pattu kaanunna americans lyek adikk	unknown_state
+623	623	laalettante.. mappila dialogue kollaam.. kunhali marakkaarum inganeyaayirikkum parankikalodum mattumokke samsaarichath..	Positive
+624	624	oru onnonnara item varunnundu ready ayi ko makale...luving mammookka..	Positive
+625	625	vidyasagar sir nte  songnayi kathirikkunnu	Positive
+626	626	song ingane aanekil onnum nokkaan illa padam dobell hit aavum ennu urappaa eattan mass aanu	Positive
+627	627	oonam iii ittimaniyum pillerum ing edukkuvaa.	Positive
+628	628	ikkaaaaa masss enn vechaal ithaam masss	Positive
+629	629	pazhaya legends mikkavarum eeyide cheytha padangal kolithiyillengil , machaane joshi kku kaalatthinothu engane maaraam ennu nallavannam ariyaam .. \r salaam kashmeer , laila ooo laila , avatharam - 3 ennathinte ksheenam eee orotta trailaril pulli nikatthi	Positive
+630	630	aarkokke ee cinemayil idivettu sugunan'e kanan agraham indo evade like adikku.🤣🤣	unknown_state
+631	631	otta irippinu randu praavashyam  kandavarlaikk adiche	unknown_state
+632	632	aaroke parayunnu ee song ishq le song ne kaalum super aanenn	Positive
+633	633	malayathile raksasan loadingggg !!!!!!! hit likes if u agree	unknown_state
+634	634	sugeethinte sinimayaano ennaal manju moodiya hairench lokkeshan nirbandhamaa...	unknown_state
+635	635	sharafuddin aanennu thonnunnu eee seeriyal killer	unknown_state
+636	636	oru pratheekshayum  illa  but  postive aanenkil box ofice pinne  nee theernnada	Positive
+637	637	mammookkayaanangil porichene kunhali marakkar, laalettante dialogue punch oru gumm illa....	Negative
+638	638	kidu item myrole...onnum parayanilllaa....adipwoli...fdfs.    lockeddd .ikkkkkkkaaaa loveee uuu	Positive
+639	639	superstars enthu kopraayam kaanichaalum ivide kayyadikkaan fansund. ethra thavana yaanu eee paattil mammootty yude lipsink thettiyath. dance tholvi aanennu pinne ellaarkkum ariyaam. pinne enthinaanu ithine pukazhtthi vidunnathu	Negative
+640	640	malayaalam inds‌trick thriller shaamam illennu kaanichu kodukku angottu...	Positive
+642	642	mattoru puthanpanam vellathil varacha varapole aavaathirunnaal mathi	Negative
+644	644	freezerinullil 5 minutolam ninnal polum maravippanu. oru mc donalds crew.	unknown_state
+645	645	🥰 ikaaa.....waiting the mass....ikaaa fans likee adiii makkaleee....	Positive
+646	646	kidukkachi  laletta ningal mass alla kolamassanu	Positive
+647	647	inn lucifer inte 27th poster kand nere ingott trailer kaaanan vannu 1:34🤗🤗🤗	Positive
+650	650	veruthe oru pattu oru feeligum illa	Negative
+651	651	average padam....2nd half thalli neekkan petta paadu	Negative
+653	653	laletta.. eee praayatthilum ennaa orithaa !! #maargamkali  padam polikkum !!	Positive
+654	654	prithviraj double role ano? sharukh nte fan orma varunnu	Mixed_feelings
+655	655	ithu mass ennu paranja poraa..adkk meleee	Positive
+656	656	chemban vinodinteyum jojuvinteyum katta phaans like	unknown_state
+657	657	lucifer trailer enne vandi wait chayunnavr like	unknown_state
+658	658	ithu vere oru tharam charecter, ikka athbhuthappeduthunnu	Positive
+659	659	voice modulation kettu  bilal  ikkaye  oorthavarundo  ijjati  item	Positive
+660	660	ettante mukath oru expression um varunnilla..edaa patti menonee ninak vachitund	Negative
+661	661	padam kandukazhinju athinte hangover maarathe  veedum trailer kaanunnavar like	Positive
+662	662	asurane kaathirikkunnavar like‌ button neelayil mukki poikkoluu...	unknown_state
+664	664	paatt   kandittu padam  kandathu aaraa 🤘🤘	unknown_state
+665	665	oonam winner ittichaayan aanennu urappullavark maathram like‌ adikkaam	unknown_state
+668	668	triler kandu koritharichavar laikkadichaatt  poya mathi.	Positive
+669	669	eattan   & sarjaano	unknown_state
+670	670	mammokka rappakal illa athe look thonni	Mixed_feelings
+671	671	njanetha parayendath......... onnum parayaanilaaaaaaa..... laaaaalettttttttttaaaaaaaaaa.......ummmmmm aaaaaa	Positive
+672	672	ente laletta onnum parayanilla ningal mass anu..  ningale pole ningale ullu	Positive
+673	673	annum innum ikka marana massennu thonnunnar ivide  like itto	unknown_state
+674	674	maranamass trailer.....orupaad ishtamaayi.....lalettan prithvi combo pwolichadakkum....	Positive
+675	675	mamangam review pazhasshiraaja pratheekshichu aarum kaanaruthe  mamangam enna vaanijyamela.saamoothiri valluvanaadan kudipaka.chaaverukalude charithram. ithaanu katha .pinne oru saadaa prekshakanu anubhavapettath parayaam. kure parakkunna seenukal undu. yukthikk nirakkaattha standu. vaayuvil chavitti parakkunnathenganeyenn padam kandaal manassilakum. dialogue valare  lagging aanu .manassilakkaan kurachpaadupedum.pinne komadi illannu parayunnath thettaakum. kaaranam mammoottiyude sthree veshathilulla dance maathram mathi chirikkaan.potte vfx valare mosham. swabhaavikatha illaatha immathiri vfx,oru maathiri seeriyal pole closs up shottukal. cinematography ottum poraa... avasaanathe mammootty sidhikku vaal piet kaanaan marakkaruthe... katha parayunna reetiyum,  standum, seeriyal pole camera pidutthavum mechapedutthi oru aakshan thriller aakkiyirunnenkil nannaayene. maasmarika maaya mamangam ennokke enthinaavo parayunne... aaa odiyan sinimayil odiyanu athimaanushakathvam undennengilum parayaam., ithu enthu kandittaano sinima irakkiyathu. mudakkiya paisa pooyi kitti..	Negative
+676	676	views nokkaaan edakk edakk vannu nokkunavar like	unknown_state
+677	677	introduction scenil ulla aale manassilayavar undo	unknown_state
+678	678	sirichu sirichu chaavum !   enthuvaade ithokke kaanichu vechirikkunnath veruthe oru martial art nte peru kalayaan ayittu ooroo padam erikkikollum !  kung fu thalakku pidichu irakkiyathu ayirikkum  enthaayaalum vann vijayam aavatte	Mixed_feelings
+679	679	film inn release... arenkilum kandavar undoo??eganund????	unknown_state
+680	680	angane july month ile ende aadyathe leave njan angu edukuva july 5 nu	Positive
+681	681	last dialogue prashnamaaanu. parvathy ippo prathikarikkum.. movie release neetti vachu stay vaaangum	unknown_state
+682	682	pinnenthinaa muthe chettan jeevichirikkunna molde mookkutthi kandu pidikkaanu‍	unknown_state
+683	683	aduthedukku irangiya padam ellam koode cherthu oru saambhar paruvam..	Negative
+684	684	minimum 10 thavana kandavar maathram like adi	unknown_state
+685	685	iyaalkku veruppikkal nirthaaraayille , puthiya janareshan nuu vazhi maari kodukkaan oru uddesham illa.  ippol pirikam ezhuthi kannum ezhuthiyaa nadappu	Negative
+686	686	maheshinte  prathikaram  kandu ishttapettavark   ithum ishtapedum  theercha   ammathiri   padam   entammo   fafa  polichu   realysitic aaya philim kaanano   ennaa nere kumbalangi nettinu   vitto ellaavarum     koduthu kaash muthalavum	Positive
+687	687	ettan ee onam angu eduthu makkale‼‼	Positive
+688	688	maattam.... valia nettam .. malayalasinimayil varunna immi maattathinu irikkatte oru kuthira pawan	Positive
+689	689	katta waiting for malayalam psycho.	Positive
+690	690	ithu enne kondu pookukayaano njaan ithinte pinnale pookukayaano🤔 lahari	Positive
+691	691	katta ikka fans indangi like adichu pottiku	unknown_state
+692	692	padam kanidit trailor kanan vanna arelum undo padam heavy 100 % mass entrtainer rajuetta.. muthe	Positive
+694	694	lalettan masssda vyara lavala athukum myaley i love you laletta..	Positive
+695	695	pwoli shirtee..... track maattuu... wow... pakkaaa...	Positive
+696	696	dislike adicha oolakal odikooo.... heavy trailer!!	Mixed_feelings
+697	697	padam kandittu  vannavaradi  oru kidukaachi box office karakkiyadi  like	Positive
+698	698	oru malayaala raakshasan aakum ennu urappullavar like adikku...	unknown_state
+699	699	kandu thudangiyappo phaan made aanannaa aadyam thonniye,   expectations kuranjirikkunnathu eppozhum nallata	Negative
+700	700	ikkante mugham illathe thanne super mugham koode kanichenkil enthavum avastha	Positive
+701	701	swaasuvinte pmj nuu vendiyulla  katta waiting aanu njangal  love u swasu 🥰🥰🥰🥰 aksfa	Positive
+702	702	chaakkochan,bhasi,maathyu thomas,sushin  shyam,shaiju khaalid,mithun manul...pratheeksha vaykkaam....pinne big brotherinem,shailokkinem,trendingle ninnu thaazhekkirakkum mikkawar edit- karikku kondupoi trending	Positive
+703	703	character eakadesham same aaanallo vyshakh sir	Mixed_feelings
+704	704	131k   8k.    view 17k  🤔🤔🤔	unknown_state
+705	705	madhuraraja yude teaser ithinte ezhu ayalathu ethiyilla ennathanu satyam	Mixed_feelings
+706	706	ikka phaans‌ enta chaanal onnu subscribe cheyyo	unknown_state
+707	707	siddiquinu valla thoomba eduthu krishi paniku poyikoode ... undaki veycha image motham kalayan vendi veendum veendum oola padangal	Negative
+708	708	ente mookkutthi kandilla   leeii thorappan kochunni.. : deviye ithum ente thalayil aakumallo	unknown_state
+709	709	aadhyam lalettante kude lucifer...ippo mammukayude koode ith....rajuvettaaa	Positive
+710	710	sharikku paranjaalu‍ malayaalasinimayude suvaru‍nna kaalaghattam aanu 2018 and 2019	Positive
+711	711	nalla komadi padam ayirikkum ennu urappayi	Positive
+712	712	sathyam paranjaal trailer kandit vella majjeyonnullalla	Negative
+713	713	aaroo oraalalla ente eattan my big brother	unknown_state
+714	714	vyathyasthamaya sinimakal malayalikku sammaanikkunna samvidaayakan .. abrid shine	Positive
+715	715	ithavanekoodium hit illengil mammunni fansinte idayil nilkan kayiyilla hit kittiyillengil brithiraj ne ettan fans vechekilla	Negative
+716	716	oratta paisa polum mudakkaathe nirmmicha eee horror phileem onnu kandu nokkikke ....... ningalkkishtappedum athu theercha	unknown_state
+717	717	avasaanathe maargam kalii seane theeyattaril poorapparambu aakum urappu	Positive
+718	718	the christmas chronicles enna english padam kandavarundo.....	unknown_state
+719	719	4 varsham royal mech innu paranjau nadanannu, avasanam ethenkilum it company poi irikkum...phooo royal mech polum..oro koothra padam irakkunnoo...adhyam kerathil joli undaaku...avante oru royal mech...	Negative
+720	720	vannirikkum  first show backil njan ndavum	Positive
+721	721	jayasurya aaraadhakante vijayashamsakal  kunchako bobante vamban thirichu varavu	Positive
+722	722	ippozhum ee paattu kelkkunnavar undo	unknown_state
+723	723	trailer kandittu ivide ninnum pokan pattunnilla.  veendum veendum vannu kanunnu.   oru karyam urapp manju chechiyude thirichuvaravile ettavum mikacha kadhapathram ath madhuri thanne aayirikkum.   asuranukkum mele..  phars/worldwide filmsnodu orapeksha.  december 20 nu thanne uae yilum release cheyyanam.  athravare wait cheyyanulla kshama ippol thanne illa..  ppk teaminu ellavidha aasamsalalum....	Positive
+724	724	tovino look. & bgm vere level	Positive
+725	725	njaan kandu, aadyam thanne...  njaane kandulloo...  njaan maathrame kandulloo.....  ningal kandoo????	unknown_state
+726	726	ippo kaannuvr like adicho veendum veendum kandittum kothitheeratha oru muthal ufff	Positive
+727	727	ith masss ka baap alla masss ka bada baap	Positive
+728	728	ninakkini malayaalam industriyil kidannu polakkaan pattumennu thonnunnundo	unknown_state
+729	729	mookkutthi sanni chechiyude kidilan mixes song	unknown_state
+730	730	kola gandd le irukku mavanehh kollama vidamattehh... ijjathi goosbumbs🤓	Positive
+731	731	kannezhuthi pottum thottu -   manju kasari	Positive
+732	732	chaakkochante thanne vetta kku‌ mukalil athatte	Positive
+733	733	aaa glamour explosive‌ adiyum athyugran voys‌ modulation kandu antham vittu swantham h‌iroyude kolam manassil ariyaathe vannu poyavaraayirikkum kuru potti dislike‌ adikkunnathu.	Negative
+734	734	kaattaalan ennu erattapperu undayittum pachayaaya  manushyante yadhaartha swabhaavam  kaanicha kathaapaathram porinchu. climaxil aiyu‌pinte kuthu ettittum anangathe ninna aaa manas shareeravum aaa kathaapaathrathinte rench angu maari pooyi	Positive
+735	735	eee oru songil 2 penninteyum expression ithra bhangiyode edukkaan pattiyittundenkil.... mammookkante vere level aayirikkille....   i am waiting.......	Positive
+736	736	2 million + ennala undarunnu,epo  1.9 ethentha engane	unknown_state
+737	737	ore daivam... pakshe marannamila.....lalettan... eshtam...... stephen	Positive
+738	738	da eee parayunnavanik ithiri kanji kodukku.avan paranju kuzhanju.daaridryam vallaand pidipettirikkunnu.	Negative
+739	739	itupolulla avasarathi ee video ivde idunnate thettano ennariyilla	unknown_state
+740	740	annum ennum ennum ikka mass 🤩🥰	Positive
+741	741	karanakuttikk onnu kodutthittu kannaadiyil nokkaan parayada ...appo kaanaam mookkutthi innasent	unknown_state
+742	742	njaan veyitt cheytha tray‌laraanu ithu, polichu	Positive
+743	743	iwa... ijjati aittam  mammookka screen presensinu ... aaa bgm koodi vannappol... romancham	Positive
+744	744	brother  traileril olippicha suspensukal kandoo . padam  njettikkum	Positive
+745	745	16 k views  55 k likes	unknown_state
+746	746	mammootty apol guest role ann alle	unknown_state
+747	747	teaser edit daaridryaam...linto kurian parayichu...  kalyana video polund...	Negative
+748	748	shabd maathrame ulloo -mukham kanaan viidiyoo muzhuvan kandathu njaan mathramaano .	unknown_state
+749	749	iyaalithenthonnu manushyana 80 aam  vayassilum nthoru shabdam aaa .. dassettan	Positive
+750	750	kristhyani alledi avan?  yeshu namukk ariyaatha aalonnumallallo..	unknown_state
+751	751	onnum parayanilla.. ikka ee role polichadakkum enn sure	Positive
+752	752	oru belt vagan kashilatha veliya  nayakan  thumbnail	unknown_state
+753	753	ningal ivide mookkuthiyum thappi nadanno kalyaan silksil aadi seyil thudangi	unknown_state
+754	754	onnum parayanilla... 🤗🤗🤗  lalettane kanicha ella bhagathum adhehathinte mikavu karanam ente mughathinnu  chiri marittillayirunnu.. great great great	Positive
+755	755	pithaamahanile,, vikram  stail aanallo,,, caractor,,	unknown_state
+756	756	ikkante voice kelkumbo thanne romanjam.. bakki pinne parayannoo.... ikka ningal vere level annu	Positive
+757	757	ithu mahashinte parava parannu aamenil ethiya pele onnum nokkaanilla takarkkum .. fahad , sambin , baasi ishtam potthan maas aanu kalikkaan ariyya	Positive
+758	758	dislike adikan vanna haters ithe ningak patiya area alla ninteyoke rayaye kandam vazhi oodicha trailer aaan @£ucifer#loading	Negative
+759	759	dileepettane eshtappedunna chankukal lykkadichittu poyaa mathi .... hettezh‌shh please step back	unknown_state
+760	760	swati tirunaalu‍ ezhuthiya varikalu‍:  niru‍maalyam chithratthile pazhaya oru gaanam	unknown_state
+761	761	njaan 10 praavisyam kandu kidu polii sinima ikka kondu pooyi	Positive
+762	762	ivide palakkad jayettan fans club nnu ashamsakal!!! adichal romam ennikum athaanu thrissur pooram	Positive
+763	763	laleta pattunna kadhapathram cheeyy ningalk charithra cinema sheriyaakoola aa samayam 2 adipoli cinema cheyyan nok borayitund dialog	Negative
+764	764	ithu polikkum oru samshayavum venda makkale maas allah kolamas	Positive
+765	765	ufffffff ichayaaa pwolich ur die hard fan 4 ever	Positive
+766	766	katta ikka fans oru 369 like poratte	unknown_state
+768	768	kollaam treller.. pakshe ipman leeii  kurachu phaitt seenukal  undaalo....	Mixed_feelings
+769	769	mookuthi kandillannu padikondu nadannal unni mukundanu mathramalla.. ellarkkum deshyam varum.. padavum aarum kandillannu parayum	unknown_state
+770	770	bigg bradarnte nalla kwaalitti ulla oru tray‌larr irakkanamennu abhipraayam ullavar ivide like adikkoo....	unknown_state
+771	771	parayunnondu onnum thonnaruth ... enikku ottum eshtappettilla	Negative
+772	772	urumi valum adhu pande mammukeke paranjedha	unknown_state
+773	773	tray‌larr kandittu oru padakkam manakkunnund enikku mathramaano atho ningalkkumundo undengil adii like‌	unknown_state
+774	774	trailor  kandittu  cherumpadi  masala chithram  aanennu  thonnunnu. prith‌viraajaavinte  car kandu. inii  sthiram  jacket, thoppi,  thokku, itemdance. enniva koodi  undaayaal  mathi.	Mixed_feelings
+775	775	entho   oru   lahariyaan eee   paattinu   veendum veendum.. kelkkaan thonanu‌...	Positive
+776	776	enna friendship day ku oru cake vangich kodk	unknown_state
+777	777	siddiqe sir .sangi laalunniyey vechu padam edukkaruth kashttamayipoai ivan oru pidikkitta sangiyanu	Negative
+778	778	ithrayum nal nammal avarude padam kandu inni avar nammu padam kanatte #mammucka lovers	unknown_state
+779	779	pokirirajayil ninnum nala story ulla padamaanu ennu thonnunu.	Positive
+780	780	richie orma vanathu eniku mathram ano	Mixed_feelings
+782	782	adipoli feel gud trailer dileep as santa   dileepinu ee santa vesham nannayi cherunnundu  my santa kuttikalkku ishta pedunna oru cinema ayirikkum ennu karuthi.... athukondu ee cinema kananam ennonum indayirunilla.  but ento trailer kandappo vallandu ishtayi.....    dileepettan  magic	Positive
+783	783	tovinho fans like adii..... tovinho polichu	Positive
+784	784	kfc nte freezer yil helen pett povnnathaan kadha	unknown_state
+785	785	eee prayathilum ennaaa look ekka keee	Positive
+786	786	njan laalettan fana pakshe i love this movie	Positive
+787	787	pala chettakalum chelakkatte ith onnonnara padaman	Positive
+788	788	1:07 oo aa scene  istapetavar like adik makale	unknown_state
+789	789	eee palli evidaanu .. kure sinimakal shradhikkunnu..🤔	unknown_state
+790	790	6:00 pm manidey teaser kand erangi ethinde comments nokkan vannavar undo	unknown_state
+791	791	hey w8 cheyyunnavar onn like adikk	unknown_state
+792	792	mukkuthi kaanathathinu baaki ellathum ingane kanikkanoo	unknown_state
+793	793	komban misha avasan senti aaaa ha anthas	Mixed_feelings
+794	794	memorys kazhinju ithuvare malayaalathil ingane oru triler erangiyittilla....i am waiting	Positive
+795	795	prathviraaj	Positive
+796	796	shane nigam ishtam orupad naalukalkku shesham ishtamaayathum hridayathe thottunarthye nalloru song	Positive
+797	797	ithokke school pillerodu pooyi para saare	unknown_state
+798	798	ithil ee text kuthi ketiyavane onn kayyil kiti irunnel....lkg aaki🤕	Negative
+799	799	2:14  il glass vechukkune a kutti ottanottathil aparna balamuraliyepole thonnunile	unknown_state
+800	800	katta heroism kaananamenkil ividekku vaa	Positive
+801	801	padam click aavilla ennaanu vichariche. ithippo colour aanu... full comedy with polii climax pratheekshikunnu.. siddikh, lalettan combo	Positive
+802	802	trailer nte pokku kandattu valya pratheeksha illa..    nammade george ettans pole	Negative
+803	803	shaan muthu            ijju polikkum	Positive
+804	804	age is just an no.  proving video ikka vere level	Positive
+805	805	ente ponno vera level mammookkante energy body uff	Positive
+806	806	padachone ithu nammade aadinte directror thanne aano....	Positive
+807	807	mukkuthi..... gold aaano.....   anakil ... police ne vilikathe..paattupaadi nadakka.... laval	unknown_state
+808	808	eathu pheel daa nokeettaambo...  nalla maje aayinu	unknown_state
+809	809	valyettan okke ikka pandey vitta seena.....	unknown_state
+811	811	ore paksha malayalam moviela akalathaum ore adipowli thriller akum annu thonunnu trailer kandattu . dear fans negal ore karyam kuda manusilakanm mass seens kuduthal unde annu paranu movie nallathakunellaa	Positive
+812	812	mammokka kidukkum .. katta waiting	Positive
+813	813	my favorite actor surajetaan  dhamu annan fans like adik	unknown_state
+814	814	ikkaye kanan vendi mathram fdfs urapichavar like	Positive
+816	816	ikka faansinte vaka ittimaanikku ellaavidha ashamsakal nerunnu   ikka & eattan uyir	Positive
+817	817	ithiri late aayalum prithviraj koodi venamayirunnu	Mixed_feelings
+818	818	cinema virodhikal dislike aayittu ethiyalo.. nthado nannaavaathe.. ikkayeyum ettaneyum verukaan ngane pattunnu keedangale..??	Positive
+819	819	1.35 il rajuvettane etraper shradhichu.. back sidil	unknown_state
+820	820	aal kerala santosh‌ pandit faansinte ashamsakal	Positive
+821	821	rajuettan itherayum kalam abhinayikkuka aarnno atho direction padikkuvarnno	unknown_state
+822	822	puchham... ultimate puchham.,  (saiju kuruppu ...)	unknown_state
+823	823	eee gaanatthinte theeyettar experience ningal oohikkunnathinum appuramaan....	Positive
+824	824	woowww jojoooo gorge nyla  chembannnn	Positive
+825	825	mookkutthi ennathu orupaadu thavana aavarthikkunnath arochakamaayi thonnunnu	Negative
+826	826	nalla super trailer... cinema ithupole aavatte ennu ashamsikkunnu	Positive
+827	827	padam kandu kazhinju ithu kaanaan vannavaru aarokke....	unknown_state
+828	828	poster kandu malayalam aaanoo enn vilayiruthan abrid shine kandu nnitt vannatha ndappo	unknown_state
+829	829	mookkutthi eduthondu poya eathu malaran ayalum maryadakku thirichu kodutho.. illel chaaverukal erangum.. thala koyyum ellaathinteyum.	Negative
+830	830	unni r nte prethi poovankozhi enna book vayichirunnu   ini padam enganakum ennu kandariyaam  pandu ithupole oruthan odiyan eduth paranju nashippichathaa	Mixed_feelings
+831	831	yandho yavidayo oru rajadhhi raja feel.... the myuman nadan. aar paranju njaan njaan tanney yallaadey aar parayaana	Negative
+832	832	ikka kalakki super kidiloski trailer raja theatre poora parambu aakum	Positive
+833	833	#stephen nedumbally nte aalkkar ivde ndo ...  #oru like koduthe	unknown_state
+834	834	kuthiyirunn dislike adikkand ,poyi ayalkk oru 100cr padam akkikodukk guhan pans	Negative
+835	835	ente roshen bhaay.. ningal.... mass aanu	Positive
+836	836	anuu chechi eee dressingilaano padatthil	unknown_state
+837	837	twenty-twenty mammookka thakarkkumennu vishwaasamullavar like idoooo	unknown_state
+838	838	kannondu chollanu mindaandu mindanu panchaara panam thattha doore  🤭🤭aahaa anthas	Mixed_feelings
+839	839	polichu katta wait mamooka fans adi   like	Positive
+840	840	unni aah edutha mookuthi ang koduthek....	unknown_state
+841	841	trailer erangiyilla adhinu munpe pedich thoori dislike adikunna mammunnyolikal	Negative
+842	842	ivalumaarude kannilenthaa vella  poocha pettu kedakkuvaano. nattukaar motham kandallo	Negative
+843	843	aduthu kanda oru nalla padam.. ellaavarum polichu.. nalla thirakkatha. nalla samvidaanam. nalla paattukal. abhinayathil nokkiyaal ellaavarum pakshe sabin njettichu kalanju.. pinne rathrikku ithra sandhryam undennu eee sinima kandappol manassilaayi.. njangal paalakkattukaarkku vibhinnamaaya oru katha pashchaathalam..2019 leeii mikacha padam lucifer allah.. kumbalangi nights aanu.. sabinu oru award pratheekshikkunnu..	Positive
+844	844	lalettante margamkali oru rakshayumillaaa muth lalettannn	Positive
+845	845	bigg thayoli. india kathumbol thirinju nokkaatha thayoli sanki..	Negative
+846	846	suragaattadaa kidu luck   .   qatar biggest shopping mall  watch my chanall	Positive
+847	847	itheduthu troll ittavar enthu oolakalaanu.... thaarapariveshatthinte kodumudiyil nilkkunna ingeru ithupoloru roll etteduthu cheyyaan kaanicha dhairyam... nannayi thanne cheythu vachittundu..	Positive
+848	848	ie padathil ikka six pack	unknown_state
+849	849	trailer kaduppam odiyan pole akathirunnal mathiyayirunnu	Mixed_feelings
+850	850	mechilu mathram allada boys ullathu egotu va elathindayun kudiyill adichu veedum	Negative
+851	851	mamangam trailer troll video kananamenkil #rijasmoded	unknown_state
+852	852	paatt kandu drithanka pulakithar aayathin shesham eee chaanal onnu subscribe cheytaal  please	unknown_state
+853	853	gopichettante bgm um mammookayum ishtapedunnavar like !?	unknown_state
+854	854	decembril trance nnayi wait cheyyuna aarelum indo 🦋	unknown_state
+855	855	d gredu cheithavante okke annakkil thalli kayaty ... ho polichu mammookka super super	Positive
+856	856	pala padathilum kanda scenugal kooti kuzhucha padam athine kidu mass ennoke parayaan kure andam kammi fansugalum	Negative
+857	857	ithu polikkum vineet shrini kunjiraamaayanam pole	Positive
+858	858	makkale oru rakshayilla oru cheriya promo njan kandu trailerinte mass alla marana mass alla kolaa mass item loading	Positive
+859	859	eee song nuu wait cheythor ivide come....	unknown_state
+860	860	thrissur pooram trailer  hidden details	unknown_state
+861	861	trailer kanditttu nirasa thonnniya vere aaarelum ondo. teaser kandu nirasanayappol promising aaayittullla enthelum trailerl ondavum ennnu karuthi... but dissappointed.... enkilum pretheeksha vittittillla...nallla film aaaya mathiyarunnnu..	Negative
+862	862	charithra purushyan  living legend  mahanadanam megastar mammootty	Positive
+863	863	oru rakshayumilla lalettan and rajuvetta polichu	Positive
+864	864	2019leeii puthiya magics and tech veediyokalkku aayi ente chaanal visit cheyyu..	unknown_state
+865	865	nalla kidilan trailer. nalla oru family entertainer aanenu thonnunu	Positive
+866	866	sunny chechide kolam nokkan trailer kandavarundo	unknown_state
+867	867	shailok  teaser  kandu  rajamaanikyam  level  ikka  ningalude  manassil  minni  mariyum,	Positive
+868	868	ha samadanamayi vannallo eni agg mamanga maholsavam	Positive
+869	869	ellaavarum kuttappedutthiyathu kandeppol sankadam thonni, pakshe, ippo ithil vannu ellaavarum nallath paranjappol santhoshavum, mammukka ingalu supera	Positive
+870	870	eda naayikale... aa  urumi pazhashi raja vadakkan veeragatha baahubali songs okke kand padikyada pottanmaare	Negative
+871	871	ith pokkiri rajayude appanayitt varum enn thonnunnavar ivide like adi	unknown_state
+872	872	mamangam 200 cr clubil kerum ennurappullavar like adikk	unknown_state
+873	873	omar ikka paattukal ithinekkaal bedham 🥴	Negative
+874	874	300 cr adikkum ennu urappu ullavar like	unknown_state
+875	875	mohanlal fans  nte andi thayoli degraders	Negative
+876	876	katta lalettan fans etraperu undu evide like cheytholu....	unknown_state
+877	877	pappanum shameerum eee varavil ichiri serious anu	Mixed_feelings
+878	878	ithorumaathiri aale komali aakunna dialogue ayipoyi	Negative
+879	879	chakochanu eee padam oru vazhi thirivakatte.. mithun komadi maari ingane oru aittam cheiyumennu oorthilla.. vijayashamsakal ancham pathira	Positive
+880	880	kalikal kure kandittundu pakshe ithu polatthe kalii kandittilla vedikkettu batting	Positive
+881	881	ialettanu ithokke nirtharayille..  nalla producers um nalla stories  um onnum pullide nizhal kaanan polum pokillaa..   ennaalum thattikuutu padanngal irakum... apaaram tholikattii	Negative
+882	882	comment vaayichathu kondu video sradhikaan pattiyilla..athond veendum kandu ..ippo veendumini ethra vettam kaanumenn dhaivathinu ariyaam    edits:- ikka uyir	unknown_state
+883	883	@ubaid ibrahim _ athum njaan thannath	unknown_state
+884	884	mammukka yude unda kaaanan wait cheyunnavar like adikku	unknown_state
+885	885	ente answer sheet pole.. ore point aanenkilum thirichum marichum athanne ezhuthum.	Negative
+886	886	1:28  raees (laila main laila )	unknown_state
+887	887	average padam....2nd half thalli neekkan petta paadu	Negative
+888	888	ithinte  shooting  njaan kandathaa.. kottayatthu	unknown_state
+889	889	iyakku vera pani onnum ille !	Negative
+890	890	nirttham marannupoyo..... adipoli alle support cheiyunnavar like	unknown_state
+891	891	ithoru nalla trailer aanenn aarum parayum ennitum dislike sammathikkanam... mass +class	Positive
+892	892	adipoli ayitu undu....... nalla making ennu thonunu kanditu...... good luck to the team.	Positive
+893	893	poli moneeee ikka thakarthu	Positive
+894	894	poornamaayum baharinil chithreekaricha oru web series aanith kure adhikam parimithikalilninnukond thayyarakkiyathinte poraaymakalum undaakum engilum ningalude sahakaranam pratheekshikkikkunu ,please support	unknown_state
+895	895	vineeth sreenivasane kandapo thanne like adichu... sooper padam aayirikkum	Positive
+896	896	how ande ponno rameshpisharadi pani padichu varunnud  samvidhanam anna pani ee kanichathinel nannayal mathiyayirunnu ee cinima	Mixed_feelings
+897	897	ithil mookkutthi kandavar  like adii	unknown_state
+898	898	abhyarthana --------- mamangam palakuri kondaadum  enna gaanam titil song aayi ulppeduthaamo....  album :vasantha geethangal singer: k j yesudas	unknown_state
+899	899	songnekal pwoli comments aanu🤣🤣🤣 chiripich kollan aayit	unknown_state
+900	900	ndha ithu enik vayyaaaaaa kandu kandu mathi avanilla......	Positive
+901	901	shabdathinu gaambheeryam #sylock mammookka enthaa paraya oru kolla chiri	Positive
+902	902	kidukkaaachi trailer machoooo ...  katta waitingggg	Positive
+903	903	avasanam poomaram late aakkiyath pole late aakkuo? ithiri late aayalum problem illa nalla finished aaya oru film aayitt irangiyale nannayirikku. pratheeshicha vijayam labhchillenkil polum abhinethakkalk kooduthal avasarangal kittan ath upakarikkum. action okke okay aanu. abrid shine magic pratheeshikkunnu.	Positive
+904	904	jimmittoli vaangale ninte ammede poottil chekuthan keri ookkunnu poy dislike adi	Negative
+905	905	eee praayatthilum ingane oru roll cheyyaan ekkayallaathe vere aarund, shirt azhichu oru seane cheyyaan thanne mattu palarkkum pattunnilla	Positive
+906	906	ante mone	Positive
+907	907	naisil kament vaayikkan vanna dileesh potthanu like adikkaanulla kament	unknown_state
+908	908	mammookka orikkalum sinima yill abhinayikkukayalla jeevikkukayaanu,,,,, laal abhinayichu award, kenal padavikalum nediyengil...iddeham sinimayilum  jeevithathilum jeevichu kaanichu kaiyadi nedi,,.laal neeii pole kaashinu vendi chappu chavaru television programilum parasyangalilum... kayari koodi peru kalayaan ikkaye kittilla.. malayaalikalude swakaarya ahankaaram..... pakka pezhsanaality ,,,mammookka uyir	Positive
+909	909	enthu umbiya paatt ! ithu bigg badjatt charitra sinima aano atho seeriyal aano 🤣	Negative
+910	910	ikka oru rakshayumilla njangal ithu agoshichirikkum theercha	Positive
+911	911	trailer kandu njettippoyi,samvidaayakante peru kandappol athu maari,nyoo dalhiyude samvidaayakanalle, pinne ithokke enthu.	Positive
+912	912	ikkayude yudham mollywood kaanaan pokunnathe ullu	Positive
+913	913	1 year of as.  aarokke trailer kanan vannu 1 year aayath kond	unknown_state
+914	914	once upon a time there is a kallan & police  - hoow ! mammookka ennaa gettappaanne...	Positive
+915	915	ayyeee lucifer oru political movie athine copy adichu madura raja ee cinema director copy sundar  aano🤭	Negative
+916	916	pakaram vaikkan..ellatha prathibha....lal.... njan paranjathu sheriyalle...plse like	Positive
+917	917	njaan  veyitt  cheiyunnathu  fahad ikkaye kaanaan	Positive
+918	918	all kerala mammookka phaans‌ like adichu marik..	unknown_state
+919	919	ithu tamil oke kand kazhinna scene anallo bhai..	unknown_state
+920	920	enta ponney ijjathi item uff romanjam	Positive
+921	921	ee padam hitakkamo ennnariyilla   pakshe ee onam oru theatrill full cinemakkala	unknown_state
+922	922	1:37 woow awesome shot...  sherikkum oru hollywood look	Positive
+923	923	moy‌dheen mooviyile kannondu chollanu aaa soong pole thonniyavar like‌ adichee	Mixed_feelings
+924	924	surajettane kndappol ravanaprabhuvile varyar ammavane ormma vannavarundo	unknown_state
+925	925	shankar g de mattoru malayalam hit song .	Positive
+927	927	polii.....	Positive
+928	928	njaanum sinimayude munnaniyilo pinnaniyiloo undaayirunnengil cab onnum mind cheyyandaayirunnu.  ivarokke bhagyavaanmaar. raajyathe oru prashnavum oorthu vishamikkenda kaaryamillallo. pandu award tharunna aalu maariyappol pottitherichavarokke ippo evide?  iniyoru awar‍dd nashtamavaathirikkaan manam palikkukayaano? ippozhum sinimayude release, trailer, boxophies, kandinyuvittyum, reviewm okke hitakkaan kure saadhaaranakkaare kittunnundallo eee keralatthil!  athbhuthamaan eee saadhaaranakkaare oorkkumbol	Negative
+929	929	capable actress nte nirayilekk baby mol varumennullavar	unknown_state
+930	930	poli trailer .   feeling romancham	Positive
+931	931	prithwiraj pwoli iniyum prithwirajinte ithupolathe adipoli mass padangal irangatte	Positive
+932	932	trailor kolam ini padam varatte... vijayashamsakal ....roshan andrews...	Positive
+933	933	samshayam kond chodikkuva	unknown_state
+935	935	kalakkan movie..... fight & background music... okke vera level......	Positive
+936	936	ippol kaanunnavar onnu oppu vachu poagu.....	unknown_state
+937	937	pwli pwli entammoooo reksha illa marana mass ettan pakka masss	Positive
+938	938	kilavan ethiyallo veendum...kandittu chiri varunnu guhan	Negative
+939	939	unnee aaa mookkutthi eduthittundengil angu thirichu koduthekku	unknown_state
+940	940	nte ponno oru rakshayum illatta makinggg......polichu....mammookkaa	Positive
+941	941	ith oru oola padam aayirikum enn manass parayunu	Negative
+942	942	ettane kaanaan vanna ikka phaans‌ undo  undengil like	unknown_state
+943	943	mookkutthi kandu kittiyavar  athu thirichu kodukkendathaanu	unknown_state
+944	944	2019 ll rajaavaayi vannu anthyam kurichappol 2020 ll asuranaayi thudakkam kurikkunnu    katta waiting for shylock	Positive
+945	945	issath alla mohanlal izzath vech ketti borakki	Negative
+946	946	polichu ttoooee onam apoo onnonnara onam thanneyaaa	Positive
+948	948	midhum manuel thomas allelum pwoli aanu	Positive
+950	950	iniyippam oru kattan chaaya koodi kittiyal mathi     kattan chayayum  uzhunnuvadayum	unknown_state
+951	951	traileril joseph, amen, tamaar padaar ithokke evideyo thonniyenkil adi like	unknown_state
+952	952	ithano raju ettan paranja oru kochu chithram	unknown_state
+953	953	dubai hit96.7fm il 24 manikkurum nyla de vaga ithinde promotion kanumallo🤣	unknown_state
+954	954	theerumaanam undakka muthe adange iyyu‌ aadyam...	unknown_state
+955	955	eee tholinja komadi kandappo onnu manasilaayi,   #eee_oonam _ettanteyaa_raajuvettante	Negative
+956	956	ittimaani noorirattimani koyyum ennu urappu ullor like adiche...	Positive
+957	957	ithil kanicha oru scene polum filmil illaaaa	unknown_state
+958	958	traileril kaanikunne kore scenes onnm cinemayil illalo ?🤔	unknown_state
+959	959	ithilulla athika sceenum movie illa padakkam pottunnathum thallaan pokunnathum mechile pillere thottaal undallo ath movieil vere model aan	unknown_state
+960	960	ee dislike adichavanuu asooya allathe vere onum illlaa	Negative
+961	961	ee padam christmas winner aakumennu ente manassu parayunnu	Positive
+962	962	joishy sir thirichu varavuuuuuuu.     ithu polikkkkmmmm	Positive
+963	963	kaanaada haah kaanaam   dec 20	unknown_state
+964	964	172 k views youtube adichu poyo ??	unknown_state
+965	965	ichiri thugs of hindustan, ichiri pirates of the caribbean. like kall charaparaann ing porum.	Negative
+966	966	song kandapo padam fdfd kanan thonunu	Positive
+967	967	thelungu film bahubali release cheythappol ithu pole puchamundayirunnilla. malayalathil anganonnu varumbol abimanam thonnunnathinu pakaram athine puchikkuka. ithanu malayalikalude swabavam. kanunnathinu mumbe vilayiruthal kazhinju.	Positive
+968	968	sorry  bro pratheeksha illa. trilr irangum vare kurachokke pradheekshichu.but poyi	Mixed_feelings
+969	969	kamant‌ vaayichu rasichondu soong serikkum shredhikkaan pattiyilla 🤣🤣🤣	unknown_state
+971	971	ithu  thamizhil eduthaal  aare cast cheyyum.  nayntara, jyothika?	unknown_state
+972	972	prithvirajinte hollywood 9 panjikidan pokunna item	Mixed_feelings
+973	973	lucifer madhurarajayekkal ishtamayavar like . madhuraraja luciferineikal ishtamayavar comment nammukku nokkam aaru jayikumennu	unknown_state
+974	974	mahanadanam eathu  oru soopparstaarum cheyyaan  10 thavana alochic..  ivide eathu kathaapaathravum poornathayil ethikkaan vendi ulla marana prayatnam thudarnnu konde irikkunnu..  inii onnum aareyum prove cheyyaan illa..  ennaalum..  thaan marikkuvolam oru vidyaarthi aanu..  marikkuvolam poornathayilekku ethuvaan shramichu konde irikkum oru nadan enna nilayil ennu pandu paranjathu innum nenjil sookshikkunnu..  sinimayude technical vashathile  poraayimakal palarkkum maduppu undaakkiyittund..  pakshe kuruppachan  ikkaayude abhinaya edukalil swarnalipikalil thanne ezhuthi cherkkenda onnaanu	Positive
+975	975	1:30 ee song ethanu ariyavunnavr onnu paranju tharumo	unknown_state
+976	976	neela kanpeeliyil valittu kanmashi ennu thudangunna variyude eenam thuruppugulaan sinimayile madayana enna paattinte maadala malarambinte thamara ithalinte ennulla variyude eenavumaayi cheria saamyam ille...	Mixed_feelings
+977	977	eee panchapaavatthine aano ellaarum villan ennu paranje	unknown_state
+978	978	award wapasi fahad fazil...ini orennam kittiya vaanguvo	unknown_state
+979	979	trailer kandu kazhinjappozhekkum oru thriller padam full irunnu kanda feel	Positive
+980	980	ettante varavinayi kaathirikkunna aalappuzhakkar like‌ adii....	unknown_state
+981	981	thelungu katthi padam pratheekshichu poya ente chunk 🤔 onodokke enthu parayana llay..	unknown_state
+982	982	oru industrial hitil kurajath onnum pratheekshikunnilla	Positive
+983	983	fight scene marana maasss repeat  adich kanuva	Positive
+984	984	padam kandittu vannu trailer kandavar undo?	unknown_state
+985	985	enna njan oru kaaryam parayatte..ee padam pottum....odiyan avashtha aavum..mark my words	Negative
+986	986	ikka  mollywood king  uyir	Positive
+987	987	omg 10k+ dislike. shylockil oru 21k+ dislike idaan ivide aarum ille	unknown_state
+988	988	aa pokkamula chechiyanoo prachi...dance onnum oru menayakanillalla sajiii	Negative
+989	989	dis like adichaa ellavaarode ettanode vedaaa  murugaaa nee theernadaa	Negative
+990	990	suuppar philim.... kalakkum.... you love kerala..... you love malayalam... vaachu dreams kerala viidiyoo.... travelling.. sinima.. phudu‌.. most place....... vaachu &support chaanal....	Positive
+991	991	padam flop aakumenn  thoonunnavarkk like adikkanulla sthalam..	unknown_state
+992	992	oru mass political- family blockbuster hit aakatteyenn aashamsikkunnu	Positive
+993	993	rajamanikyam. rajathiraja. pokiriraja. maduraraja. manthryraja. 🤔oh mamooka oru rajav thanne?	unknown_state
+994	994	ebridnte different ayittulla presentation orupaadu ishttamaanu. padatthinu vendi katta waiting	Positive
+996	996	sthreekalude mukhachaaya onnupolum illaatha nalla kidilan mass teaser, the new face ikkaa	Positive
+997	997	mammookkayekkaal daasettante shabdam shradhichavarundo ....? theatre experience  dasettan  mammookka	unknown_state
+998	998	nalla kidilan sinimakal samvidaanam cheyyum pakshe abhinayikkunnathu okke  oru maathiri koothara paadangalilum ithilengilum onnu maattiyedukkumo jn shrini	Negative
+999	999	mass ennu paranja otta vakkeyollu ath mammookka!!!	Positive
+1001	1001	hambo ..vere level ..oru rakshayum illa	Positive
+1002	1002	polichu machane lucifer ellarum kananam .	Positive
+1003	1003	asuran kandu antham vittu pandaaramadangipoyi katta waiting for prathi poovankozhi  manju chechi mass	Positive
+1004	1004	0.30 daivame !!!!!! a10 fans like adikkanulla noolu	unknown_state
+1005	1005	onnum parayaanilla.. kidilolkkidilam... joou joou... ishttam.. katta waiting	Positive
+1006	1006	eee silmade shooting kainjo ? njaan 2-3 aazhchayaayi jolichechide veediyosinte purake aayirunnond shradhichilla	unknown_state
+1007	1007	ithu kandappo oru vellimoonga style thonniyathu enikk mathram aano.... ithonnu kandu nokku	Mixed_feelings
+1008	1008	ithinekalum valya pulli ini indavumo nammude lalettan allathe. ....!	Positive
+1009	1009	malayaala sinimayude pinnilum munnilum cheria cheria veshangal cheythu ippol malayaala sinimayude muun nirayil ethiya nammude swantham joju chettan	Positive
+1010	1010	da kannurkkare ningal kodungaloor kodungaloor enn kettitundo?	unknown_state
+1011	1011	hoow.. romancham..  ithu  kalakkum.. suuppar .. ! fdfs  njaanurappichu.. ningalo..? triler  kanda sheshamfdfs urappichavar onnu  like adikkane	Positive
+1012	1012	eee song nta aadyam shaininta expression	unknown_state
+1013	1013	koola kaandile irukk kollama vidamatteadii mone like	unknown_state
+1015	1015	jayetta katta fan....pakse ithonum oodathila ..oodilelum nalla cinema ayirnel kuyapolarnu..entho trailer kandite aa feelum varunila...anyway goodkuck	Negative
+1016	1016	katta waiting fans  like here	unknown_state
+1017	1017	enta ponna oru rashayum ila kidu padam	Positive
+1018	1018	lady superstar manju warrier veendum... immi padam hitt aavum urappu..	Positive
+1019	1019	film kandathin sheshavum trailer veendum veendum kanunnu ..hangover	Positive
+1021	1021	padam kandavar like adichitte podee	unknown_state
+1022	1022	mammokka nigalude hardworkinu nalla vijayam thane kittum	Positive
+1024	1024	aaha instaagraam stori undaakkunnavanaano editt cheythe	unknown_state
+1025	1025	aaa nazhsariktaavinte munbil vachu immathiri kaabare kalichathinu balavakasha commissionil cases kodukkendi varumallo...????	unknown_state
+1026	1026	ippo erangunn ella cinemayilum aju vargees indalloo	unknown_state
+1027	1027	adi powli dance , pattiyyaa vesham	Positive
+1028	1028	mamangam kandidu vannavarkk like adikkaanulla sthalam	unknown_state
+1029	1029	eid usharakkanam ..ithiri late ayalum nammal polikkum. mammukka sa	Positive
+1030	1030	bhasiyude kumbalangiyle jacket kandath njan mathramaano	unknown_state
+1031	1031	achodaa  paavam.....  arelum eduthittundangil  thirichu kodukkanam plzz  ninnu dance kallikkuvaannankilum  ullil nalla vishamam indu kandaal ariyaam.	unknown_state
+1032	1032	joshi saarinte padam alle polikkum.. ishtappetta orupaadu abhinethaakkale ulppeduthiyathil sandosham kooduthal ishtam ulla swaasika ullathu athilere santhosham. ellah aashamsakalum nerunnu. aksfa	Positive
+1033	1033	sweet spot of the movie ennu nisamshayam parayaavunna pattum ramgangalum ! athishayippikkunna mammookka eee pravishyavum thettichilla	Positive
+1034	1034	avan poyathalledaa pinnenthinaa avane talliye........ that.... scean...... masss	Positive
+1035	1035	ithinum maathram prathyekatha enthaanennu manassilavunnilla. paattin paadiya reethikondulla oolamallaathe onnumilla. cinema athu pole thanne	Negative
+1036	1036	ithu kaanumbo aanau triple strong okke edthu kinattil idaan thonnane.....lucifer	Negative
+1037	1037	inii bollywoodeennu aarr vannalum vineethettanu paniyayi	unknown_state
+1039	1039	alla njaan matramano itu veendum veendum kanaan varunnathu ?	unknown_state
+1040	1040	sunny chechi and ikka combo ishtappetta fans like adichittu poya mathi	unknown_state
+1041	1041	fanism baadhicha kore malaranmaar dislike adikkunnu...	Negative
+1042	1042	interesting name, shree pinaraayi vijayan jappanil vannirunnu , kaanande ???	unknown_state
+1043	1043	lov uuuuuuuuuu etttaaaaaaa  romajam vanu chavum	Positive
+1044	1044	ittimani kanaan arokke plan ittu.katta waiting	Positive
+1045	1045	ithilum nallath kurachu kanji edukkatte chodikkaamaayirunnu	unknown_state
+1047	1047	dislike adichavaru‍kku padam kandathinu shesham thirichedukkaanu‍ ulla avasaram undaayirikkunnathaan. kumbalangi naitts manoharam.	Positive
+1048	1048	voiceatokke ikka kasargod muthal tirupanantapuram vare	unknown_state
+1049	1049	helen aa freezerill kudungan karanam avlode onn allenn chodikkan paranjittutakum alle	unknown_state
+1050	1050	kandittu srk yude fan nte oru chaaya kaachal undengilum sachiyil oru pratheeksha undu	Mixed_feelings
+1051	1051	android kunjappan   kaanaan eee linkle click subscrib & support	unknown_state
+1052	1052	trailer kanan vanna katta lalettan fans undel like adikku machanmare.....	unknown_state
+1053	1053	maoist alla maoistnte apanae varee  nammal  putikum all the best mammoka  & unda movie team	Positive
+1054	1054	ente entra kali kandittullavananu nii	unknown_state
+1055	1055	last ikkede varavum dialogum  mass	Positive
+1056	1056	first adam jon trialer pole ndaynu .but bgm kidu	Mixed_feelings
+1057	1057	eppozhum abhinayikkan mohanlalum mamootyumea ullu new generation arummilla	Negative
+1058	1058	ho my god... soooooooooooooooooooooooooooooooper... dislike adicha pottimaanikal chankupottychaakum	Positive
+1059	1059	ettan fansil netti poya aarenkilum undo?    #maduraraja#waiting #	Mixed_feelings
+1060	1060	mookuthi kandupidikan varunna alayitanu edhil mammoty varunnadh...	unknown_state
+1061	1061	pwoli pwoli....vallathoru anxietyy....cinema kalakkum enn thonnunn🤗	Positive
+1063	1063	ithrem height ulla pennumpillede aduth bakkiyullavar nikkumpo karimpanayude chuvattil kaaraama nikkunnapolund . cheriya vallavareyum koottiyal poraairunno aavo	Negative
+1064	1064	mookutthi unni yude kayilundu ningal athum ariyilla	unknown_state
+1065	1065	deleep atta padam orappu maga hit	Positive
+1066	1066	1st day kandu eragunavar padam hit anu ennu paranjal pine..... thirinju nokkanda..... erakan vecha padam okay release date mattiko ennu parayandi verum.......	Positive
+1067	1067	ithil prithvi raaj villan caractor ayirikkum cheyunne2	unknown_state
+1068	1068	njaanu‍ baijuvine aanu shradhichathu luciferile pole ithilum laast seenu‍ masaco	unknown_state
+1069	1069	good song filma kanan sadhichilla.. njgade naatil ninnu film maari....	Positive
+1070	1070	we aduthu erangiya moonu thrissur padangalum hit  thanneer mathan dinangal porinju mariyam jose ittymani made in china	Positive
+1071	1071	i lik both lalettan and ikka  madhuraja kollam gud ishtyi trailer but lucifer vere level tanne anu	Positive
+1072	1072	mukuthi poya karyam chinta mol  arijillae?	unknown_state
+1073	1073	ithu njangal malayaalikal polikkum ttaa gadile	Positive
+1074	1074	4m views 300k likes trending 1 mollywood king  lalettan	unknown_state
+1075	1075	kolamass villian ayirikum ennu thonniyathu eniku mathram ano???	unknown_state
+1076	1076	arum trailar kandu padathine vila edaruthu...trailar nannayittu karyam ella ....padam eragumbol athu manasil akum ellarkkum....trailar alla cinima athu orthal nannu	Positive
+1078	1078	ahaaa #today #mamankham song , #kariku new episope aha ahaa lool	unknown_state
+1079	1079	zee music south channelinnu erakkiya mathiyayirunnu.... sunny chechide paatu irakkumbol engilum 🤗🤗🤗	Positive
+1080	1080	ipraavashyathe oonathinte kalakshan record ittimaani edukkanennu parayaan paranju  nissaram nissaram nammale kondu pattum laletta	Positive
+1081	1081	ith polikun nighal ath parayunnu polikumo illayo polikum akil like cheyu	Positive
+1082	1082	1:28 lailo o laila bgm nk mathram ano thonniye	unknown_state
+1083	1083	chaaveril ninnum asuranilekkulla parakaayapravesham.. chathiyan chanthuvil ninnum vaarunniyilekku  maariya eee mahaa prathibhaykku, njangade mammookkaykku ithokke poo parikkunna poleyaanu makkale..  mammukka  chankalla chankidippaanu...	Positive
+1084	1084	raju ettan  oru villan look	unknown_state
+1085	1085	eattan phaans‌ all kerala adikku like	unknown_state
+1086	1086	rand perudem mookuthi mathram kandilla baki ellam undallo bhagyam	unknown_state
+1087	1087	bigg brother ithu polikkum suspense vidaatheyulla trailer kidu	Positive
+1088	1088	nammal polikkum ithengikum onnu 100 ethikanam	Mixed_feelings
+1089	1089	ipo tanne 5 vattam kandu vallatoru trailer	Positive
+1090	1090	ente ettanalla njagalude eattan.... lalettan 🥰🥰🥰🥰🤩	Positive
+1091	1091	nalla subscribers ulla oru channelil ittudayirunu.... nthayalam katta waiting  mamooka	Mixed_feelings
+1093	1093	1979 tiger saleeda ennoru adeeppadathinte alpabhaagada kaananidayaayi vinsenteruda thaa mizhile manjulayumaayirunnoo annathil parayunnundaayirunnu hitmaker varkala joshi sadavidhaanada ennu pinneedu rakthata ithihaasada sandarbhada muhoorthada 11*30 newdahalhi tyanti trintrinti thudangi innuda ennuda hitt maker joshi !!!!!!!	Positive
+1094	1094	aa thalappav karantte nottam kanda ariyam ayalane aa pavam kochintte mmokkutti eduthenn	unknown_state
+1095	1095	ente ponno adaaar ite linto annaaa namichu mone   shylock	Positive
+1096	1096	nammude kunjunnimaaashine orma vannavar like adiche	unknown_state
+1097	1097	padma innaanu kande	Negative
+1098	1098	suraj ettane kandapoll ravanaprabuvile innocentchettane ormaa vannu	unknown_state
+1099	1099	kokonadu rajaavinte makkale onnu paranju tharoo .1 min ll 5 k okke aakunna aaa app    parayoo pls🤣🤣🤣	Negative
+1100	1100	pinne mookkil kidakkunnathu nellikkayaano.... mookkoothi kandilla polum	Negative
+1101	1101	mammookka uyir like adichu pottikada makkale	Positive
+1102	1102	daasettante aalapanam, mammookka on screen kidu kompineshan, maamaankatthile ettavum ishtappetta paatt ithaa	Positive
+1103	1103	aaraa aaa kuttiyude mookkutthi eduthathu ?	unknown_state
+1104	1104	eee  koora  paattinte  varikal  mosham  thanneyaanu  pinne  fansukaar  enthinaanaavo  kalaaroopam  ennokke  paranju  nadakkunnathu?  varikal shradhikkanam  thattathi  thankatthil  theertha  mookkutthi  kandilla  pinne  alamarayil  kandilla  thuniyil  kandilla  ennokkeyaanu  pinne  aaa  pennungal  thanne  mookkil  thottu kondu  kaanikkunnund  nallathaanel  nallathaanennu  parayanam  allel  allennu	Negative
+1105	1105	dayvu cheyth priyapettavare kanni akkaruth  over hype venda	Mixed_feelings
+1106	1106	mammukka	Positive
+1107	1107	dislike button il kurupottich karanju theerkkunna vaanangale orkkumbozhaa.... orungi irunno makkale ith asuravathaaram...	Negative
+1108	1108	entammo..... kidu item. oru rakshem illa.	Positive
+1109	1109	lucifer ini kandam vayi odedi varum	Negative
+1111	1111	school for scoundrells  inte oru vidoora saamyam	Mixed_feelings
+1113	1113	dialogue pooyi sariyaayilla athokke nammude mammookka onnara muthala	Negative
+1114	1114	orupaadu sinimakalil style veshangal cheytha super staar rajineekaanthinte aagraham trans jentaraayi veshamidaan appo manassilakkaallo aaa veshathinte rench	Positive
+1115	1115	aaa omar lulune iii padam kondu kaanippikkanam. pillere kondu matte varthaanam parayippikkunnath allah sinima.	Negative
+1116	1116	nivin poolii ennaa.. yadhaartha abhinaya nadan ivide  janikkunnu..... nivin thanne  aanu  ennu  vishwasikkaan  pattunnilla...	Positive
+1117	1117	eee trailerinu dislike adikaaanum oru range okke venam 🤦‍ kashttam  luv u ikka	Negative
+1120	1120	6 mani aayillenkil polum ippozhe wait cheyyunna katta ettan fans like adichittu poo	unknown_state
+1121	1121	ethra peru shradichu mammookkuk ithil shh  ennu parayaan aakilla poleef	unknown_state
+1122	1122	ingerude dance kandirikkaan thanne oru rasaanu.. kannu muzhuvan moopparilaayirikkum.. vere aarem shradhikkoolla..	Positive
+1124	1124	mammokka fans like adiche... mammokkaaa adipoli	Positive
+1125	1125	ith oru hit aavum ennullavar like	unknown_state
+1126	1126	njaan padam kandittaa trailer kandathu	unknown_state
+1127	1127	68kaarante poonduvilayaattam ennokke paranjaal ithokke aanu ,  fdfs fixed..	Positive
+1128	1128	fan fight alla malayaligalkulla abhimanam avattee	Positive
+1129	1129	ee thadiyanano nammale kunjali marakkar aayi abinayikkunnath ??? prithviraj or mammootty cheyyanda role aanu	Negative
+1130	1130	ittichaya aa pothirachi dilogue....... noominu angu bheshayi istaayii...anyway achayan marennu paranjal athu oru bhaagyama....	Positive
+1132	1132	nalla oombiya paatt... eee padam moonchum..	Negative
+1133	1133	onnu maatti pidichoode jayetta.. pandatthe kaalam aavishkarikkan aanu udeshichathu‌ engil pazhaya kaalatthe music poraayirunno.. shreya ghoshaalinu vendi undaakkiya paatt‌ pole undu... nalla eenangal pratheekshikkunnu... all the best....	Negative
+1134	1134	mattu naattukaarude kamant‌ kandu karanju pooyi  malayaalam sinima valaratte oppam malayaalavum	Positive
+1135	1135	santa claus international aayokkam  pakshe ninte aagrahangal athu local mathi ttoo	unknown_state
+1136	1136	mukkuthi mukuthi kandilla..... etu nthu patta nn sahoooo🤣🤣🤣	Negative
+1137	1137	review kaanan nilkkathe padam kaanan pokum ennullavar undo	unknown_state
+1138	1138	isl nu shesham oodi ethiyavar undo	unknown_state
+1139	1139	raju ettan vere level trailer	Positive
+1140	1140	sathykatha anthannu vacha kandittu angottu mathivarunnilla	Positive
+1141	1141	eee paattinte varikal kettappozhanu gireesh puthancheriyudeyokke vila manassilaakunnath. chithreekaranam kollam.	Mixed_feelings
+1142	1142	eee oonam ittichan angu edukkaavaannu paranjekku	Positive
+1143	1143	eth oru nalla cinima akan ashamsikkunnu	Positive
+1144	1144	yea aaa4 rahmaante subaida enna hindi chithratthilu kavita kyashnamoo4ththi ooo  tunilu orupaatt paadunnundu, ente thonnalaano entho	Mixed_feelings
+1145	1145	ithu ittichante vaka oru sample vedikkettu........... lalettan	unknown_state
+1146	1146	17k view	unknown_state
+1147	1147	yuvajanakammeeshan  addhyaksha chintha jerom  arinju kaanilla. ividoru mookkutthi  veenu poyath.  ...	unknown_state
+1148	1148	villan ennokka paranjappol pratheekshichathu abyyeei aanu pakshe kittiyath maheshettane.... but im satisfied	Positive
+1149	1149	katta lalettan fans ivide orre like🤙	unknown_state
+1150	1150	trailerum promotionum okke mechinum padam nattukaarkkum	unknown_state
+1151	1151	ssedaa... jimmikki kammal poyath pottu. dheey ippo mookkuthiyum. aaraada athu !!!	unknown_state
+1152	1152	ithano aa cheriya movie  pattikallae	Positive
+1153	1153	eee paattinte audiyo maathram mathi..... viidiyoo venamennilla🤦‍	Mixed_feelings
+1154	1154	eee paale thoori guhan enthu thenga aanu eee kaanikkunne iyaal kku pooyi chathoode	Negative
+1155	1155	mohanlal penvesham ittatu istamayilla baki oke kozhapamilla	Mixed_feelings
+1156	1156	5th mega hitte eannu urappullavar adii makkalle likebutton	unknown_state
+1157	1157	ith pwolikkum enn urappullavar adi like	Positive
+1158	1158	trailer atra pora . movie nannayirikumenu pratheekshikunu	Mixed_feelings
+1159	1159	avasaanamaayitt evideyaa mookk cheettiyathu 🤧 ?? avide onnu thappikkudaayirunno?	unknown_state
+1160	1160	paattinte nilavaaram vechu valia pratheeksha sinimayil vekkunnilla. mattoru oodiyan aavathirunnal nallath. ilayaraaja okke miss cheiyunnu. pazhasshiraajayile ilayaraaja - chitra team nte  kunnathe konnakkum  okke enthu nalla paatt aayirunnu. emm jayachandran - shreya ghoshaal compination  sarikkum maduthu  thudangi. eee same team nte thanne ennu ninte moy‌dheen , odiyan okke similarity eee pattinode thonnunnu.	Negative
+1161	1161	ethu polikkum pinnalla	Positive
+1163	1163	pulimurugan munbu oppam pole aavatte maraykkaar munbulla bigbradar	unknown_state
+1164	1164	abhyarthana --------- mamangam palakuri kondaadum  enna gaanam titil song aayi ulppeduthaamo....  album :vasantha geethangal  singer: k j yesudas	unknown_state
+1165	1165	ninakk okke pranthaano penpillere purake povan.  kurachu vaiykiyaalum kandaliyaa   oru rakshayum illa chirichu chirichu chatthu  🥰	Positive
+1166	1166	manjuvaaryar thakarthu......  aii aam waiting.....	Positive
+1167	1167	ippozhum oru freshness undu eee shabdathinu.  innathe paattukaarude shabdam ishtamaanengilum eee oru sukham kittunnilla.  gaanagandharvante shabdathinoppam mammookkayude presence koode  aayappol  vere level aayi..  i lv ths sng vry mch and lyrics too..	Positive
+1168	1168	sidhik sir. great performance. kalakki.	Mixed_feelings
+1169	1169	ithu kandu padam adipoli aayi ennu parayunnavar oru like adiche	unknown_state
+1170	1170	onnm parayanilla..gambheeram...oro malayalym oru thavanaynklm kandirikkenda chitram...degradum kett kaanathirunnal avarorkk thanne nashtam...	Positive
+1171	1171	padam kanditt trailer kaanan vannavar aarokkend... kumbalangi hangover	Positive
+1172	1172	mammukka fanzz  ividea vannu like adikkdaa	Positive
+1173	1173	nalla kidusong ithine troliyanaarikal verum oolakal enthaanu pheel polichu	Positive
+1174	1174	ithinnu enthinaa dislike adikunee ennan ennik manasilavathath	Negative
+1176	1176	lalettante adutha pottapadam...laletta ithokke mathiyakkan aayinnu ...please	Negative
+1177	1177	houseful shokalude perumazhakkalam  kookki vilichavare kondu kayyadippichu mamangam  padam veezhum ennu karuthiyavarkku thetti ethir pakshatthu etta kurachalukal eare kanda megaastaar aanu..  ithu charithram  christmas first choice mamangam	Positive
+1179	1179	enthuvaadey ithokke oru charitrasinima inganeyaano ?	Negative
+1180	1180	joshy sir, joju chettan  idh polikkum katta waiting....	Positive
+1181	1181	ithu theattaril irunnu kandathu thanne mathiye.......	Negative
+1182	1182	mammukka verum vishayam engneru eth enthonn chyuvanentho prayam koodum thorum glamour koodunundallo daivame	unknown_state
+1183	1183	aaa dislike adikkunnavanmar verarumalla complete actorinte sperm	Negative
+1184	1184	nte ponnikkaaa inghal enthinilla porappadilaaa nte ammooo poli	Positive
+1185	1185	last drum set kond kidu akki	Positive
+1186	1186	2:33 dheey mookkukutthi kandu pidikkaan poya aal mookkuthiyum kondu   vannittundu pettennu athu thirichukoduthu aattavum pattum nirthanamennu abhyarthikkunnu.	unknown_state
+1187	1187	rashtriyam	Negative
+1188	1188	poraa pratheeksha illa.. tovi voice rendering sradhichitilla..... camera	Negative
+1189	1189	lalettan fans ::::: like adiiiii .....	unknown_state
+1190	1190	nivinaano ennu samshayichupokum ejjati abhinayam oru awardinu vakupp ille ennaaru thonnal	Positive
+1191	1191	padam 1 st day kaanum athu urappu.	Positive
+1192	1192	urappaayum manasinu‌ kulirma nalkunna oru nalla pheel good moovi ayirikkum ithu‌	Positive
+1193	1193	teaser double strong ayappo trailer sarikkum triblestring ayi....	Positive
+1194	1194	ikka mass kolamass no raksha	Positive
+1195	1195	madurarajayil pritwiraj  undairnengil onnu koodi super avumairunnu	Mixed_feelings
+1196	1196	achayante katta fans ndoo aarenkilum,ennepoole,undenki like adikkooo achaayan’s brothers‼	unknown_state
+1197	1197	ee movie pottiyal njan pine malayalam movie kanoolaa...	unknown_state
+1198	1198	mookkikku oru kuthu kodutthittu aaa kannaadi aduthu kaanichu kodu,appo kaanum mookuthiyum nakuthiyum okke,allapinne (:)	unknown_state
+1199	1199	padam kandathinu shesham kaanaan vannavar likiko	unknown_state
+1200	1200	eee praayatthilum enna oru ithaa...	Positive
+1201	1201	fahadh fasil fans like adichu polikku makkale	unknown_state
+1202	1202	mookkutthi kittitta.....  vecan kanda sthalam. hoow.....	unknown_state
+1203	1203	panikk poona hindikkaran kootti padatthinu pokenda gathiyaanallo daivame..!!!	Mixed_feelings
+1204	1204	ayyo bhayankara vesha  pakarcha .... ellaam padavum vyathyastha bhaavum rupavum, so we are calling mammuka the king	Positive
+1205	1205	teaser kandappo itrakkum pratheekshichilla traler supsupsupsupsupsuper cinema pwplikkum	Positive
+1206	1206	anusitara undo... padam pottan ath mathy	Negative
+1207	1207	triler poraa. pakshe oru vyathyasthatha undu‌	Mixed_feelings
+1208	1208	ith oru onnonnara item aayrikkum	Positive
+1209	1209	ittimani mannikunnel ittimani uyir mannichayan loading just 8 minutes	unknown_state
+1210	1210	padam vijayipikkan fans associations nte avishamillane kanichu thanna  nadan...fahad fasil..	Positive
+1211	1211	kurachu kulamkutthikal undu lalettan fancil kulam mudikkaan vanna kuladrohi kall ekkaaryathil ikka faansine kandupadikkanam sharashari thaazheyulla mamangam sinima suuppar hitt akkunnu avar sinimaykkethire oru abhipraayavum kamantukal aayi idunnilla avar idunnathinu otakkettaayi prathirodhikkunnu  kulamkutthikal kandupadikkatte	Negative
+1212	1212	suuppar padam onnum parayaanilla chirichu edapaadu theernnu pookum	Positive
+1213	1213	ingalu puthu muga director aano rajuvetan	unknown_state
+1214	1214	mookkutthi kandillengilum vada kandallo. athu mathi enikku.	Negative
+1215	1215	ithu......kaanumbol 2016-il irangiya...... shahrukh khan abhinayicha hindi movie faninte oru cheriya cut undo ennu oru samshayam......	Mixed_feelings
+1216	1216	jimikki kammal kattond poyapol arkum oru paraathiyum illannu oru muukuthi poyapol enthellam parathikalaaa....	unknown_state
+1217	1217	sound  modulation  indian cinimayil mammookka athu kayinje vere aarum varathullu..	Positive
+1218	1218	2:11 jojuvettante irippu kireedam climax seenile lalettane pole undu :)	unknown_state
+1219	1219	entaponno ithu vere level trailer aanallo fdfs locked	Positive
+1220	1220	trailer atra pora . movie nannayirikumenu pratheekshikunu	Mixed_feelings
+1222	1222	katta mammuka fans undengil ente channel onnu subscribe cheyyane	unknown_state
+1223	1223	kungfu peru paranju vella rivenj kathayaayirikkum	Mixed_feelings
+1224	1224	oru rekshayum illa...kidilam kannu nananjupoyi	Positive
+1225	1225	nammude anuu sithara chechi ingane varunnathu nokki irunnu‌ niraasaraayi madangiyavar ivide come on....	unknown_state
+1227	1227	mammootty mahanadan ennu vivaram ullavar onnkoodi visheshippicha aaa *sthreevesham*.    virodhikal (mattu fansukaar) manahpoorvam editt‌ cheythu kaliyaakkiya aaa sthreevesham   virodhikal polum rahasyamaayi namichupoya aaa sthreevesham	Positive
+1228	1228	1:47 - ee tune ishtapadunnavar mathram like chayuka.	unknown_state
+1229	1229	padam kaanaathavarundangil innu thanne pooyi kandoo makkale, ajati	Positive
+1231	1231	mookkutthi mookkilundu makkale pooyi kannaadi noock kaanam , illankilonnu thappinokku	unknown_state
+1232	1232	lalettan phaans‌ like button otta samghya aakki vakkuka mammukka phaans‌ like button eratta samghya akkuka	unknown_state
+1233	1233	ethra kandittum mathiyavunnilla ithippo naalaamathe vattama  shane	Positive
+1234	1234	1m aakaan  kaathirikkunnavar  like  adichittu  pokkolu	unknown_state
+1235	1235	unlike cheiyunna machaanmaar kamant cheythe onnu veruthe kanana	unknown_state
+1236	1236	maamaankathinu oppam release cheyyaan kaanicha aaa dhairyam sammathichu enthaayaalum vijayashamsakal	Positive
+1237	1237	ithilum valiya verupikal padam swapnagalil mathram	Negative
+1238	1238	prithviraj oru guest role ayelum varam.. yene agrahikunavr undo..??	unknown_state
+1239	1239	evde asif ali evde... kandavar indo?	unknown_state
+1240	1240	soong idunnathinu 2 manikkoor munbe 11 duranthangal anlaikk adichirikkunnu	Negative
+1241	1241	ithu njaan avidayo.............  thugs of hindustan	unknown_state
+1242	1242	shedaa.... ennaalum  eee mookkutthi  evide pooyi kaanum 🤔🤔	unknown_state
+1243	1243	engil eee  chechikku kanninu entho kuzhappam undu athaa  mookkutthi kaanathath	unknown_state
+1244	1244	aake oru peshaku.. varikalum, musicum, item dance pole ulla thullalum. aa kalanju poya mookuthi alle mookkil irikkunne? ithu trend aaka aanalo, like the song in kochuni, producersinte vaka ulla song aayirikkum.  still believe director sajeevinodu cheythtahu chettatharam aanu. hope they turn this into a good picture.	Negative
+1245	1245	oru polii horror psychological suspence thriller loading........	Positive
+1246	1246	pora edum kayyinu pokunna lakshanam anu	Negative
+1247	1247	soubin achanod vazhakakakunu...achanu sahayathinu robotine soubin set akunu...robotinte koode jeevikuna achan parishkari akunu...achanum makanum onnikunu...subham	unknown_state
+1248	1248	sinima kandu kazhinju trailer veendum kandavar... aarokke	Positive
+1249	1249	climax scene kandit ithinu oru second part venammenu agrahikunnavark like adikanulla coment.	unknown_state
+1250	1250	daasettante shabdam. mahaanadante mahanadanam. aahaa anthass. 🤩  eee soong kaanunna ellah prekshakarum eee cheria troll chaanaline koodi support cheyyanam ennu apekshikkunnu	Positive
+1251	1251	neeyonnum aaraadhich aaraadhich allah njaan nadan aayath	unknown_state
+1253	1253	ee film vere level aayirikum nivinte oru different experience film heavy movie aayirikum	Positive
+1254	1254	padam flop aakumbo ee comment like cheyyaneaa.....  ith ivide kidakattea..	unknown_state
+1255	1255	kodumkaattil aanaa paaripoyappala ningade conom paariya katha  yeduthondu podey	Negative
+1256	1256	eee oonam ittichan eduthu ennu parayaan paranju...	Positive
+1257	1257	dislike adicha makkale.... nighakkula vadem chaye pinne tharaatta	unknown_state
+1258	1258	tovino ishtam tovino fans like adi aandu support me	unknown_state
+1259	1259	eattan phaans‌ enta chaanal onnu subscribe	unknown_state
+1261	1261	edakku oru hollywood movie scene keri vanna pole ennikk mathramano thonniyath....?	unknown_state
+1262	1262	ith hit aavattee.... manju chechi orupaadistam	Positive
+1263	1263	vada..  ithu kettu romancham vannavarku likenulla coment	unknown_state
+1264	1264	lalettante face kandittu sankadam maatram ennalum ente stree kumara menone naari	Negative
+1265	1265	nte ponno... kidilam... marana waiting	Positive
+1266	1266	kaliyaakkiyavarokke ithonnu muzhavanum kandu noock ethra manoharamaayittaan aaa vesham mammookka cheythathennu manasilavum   maamaankatthil aake ishttamaayathu ithokkeyaanu ...	Positive
+1267	1267	dialog  bora ettan .saatha dilogu matre pattu .dileep .mammoka  dilogu suppera	Negative
+1268	1268	madhura raja theme 8d bgm  and share a katta mammuqa fann..	unknown_state
+1269	1269	haters  oodaan ulla kandam ready aakki vecho  #shylok loading	Negative
+1270	1270	odiyan = mamangam  lucifer  = shailok | vann ? 🤔	unknown_state
+1271	1271	sharikkum mechinu ..etra highp undo ??	unknown_state
+1272	1272	eee padam pottum enn abiprayam ullavar evde like cheyuka	unknown_state
+1273	1273	uyiril thodum thalir  nizhalakaane nee  arike nadakkane   alayum chudu kaatinu kootinayai  naamoru naal kinaa kudilil  chennanayunirunilaa valayaai   aarum kaanaa  hridaya thaalamathil urunginaamenn  aarum kelkaaa prnaya jaalakatha   palavuru parayumo.......   uyiril thodum kulir  viralaayidaam njaan  arike nadannidaam  alayum chudu kaatinu kootinanyaai  naamoru naal kinaa kudilil  chennanayunirunilaa valayaai   aarum kaanaa  hridaya thaalamathil urunginaamenn  aarum kelkaaa prnaya jaalakatha   palavuru parayumo.......   vazhiyoranghal thorum thanalaai  padar chilla nee  kudayaai nivarnnu nee  novaarathe thoraathe peythe  thuzhayolanghal pol nin  kadavothonnu njaan thotu melle   kaate chillayithu veeshane  kaare ilayithalin peyyane  melle theeramithilil olanghal olanghal   aayi nee varu...   uyiril thalodidum uyiraayidum naam  naamoru naal kinaa kadalil   chennanayumirunila nadhiyaai   aarum kaanaa  hridhaya thaaramathil urunginaamenn  aarum kelkaaa pranaya jaala katha   palavuru thudarumo	unknown_state
+1274	1274	bgm kalakki nalloru crime thriller aakumennu pratheekshikkunnu& best wishes for this movie	Positive
+1275	1275	serikkum njettichu kalanju.. its looks like a hollywood movie.. all d best to entire team..	Positive
+1276	1276	ittichante vaka oru sample vedikettu koodi	unknown_state
+1277	1277	nale oru blast undakumallo... katta waiting..	Positive
+1278	1278	shuger raja fance onnu virachu alle.ithokke endh varan pokunnathanu mone pooram	Negative
+1279	1279	supper mamooka mamooka pakaram mamooka mathram	Positive
+1280	1280	waiting for mass... but... puthanpanam2 pole thonniyathu enikku maathram aano	Mixed_feelings
+1281	1281	nivin achaayanu pirannaal ashamsakal moothon takarkkum	Positive
+1282	1282	dis like adikkunnavanmark ethire like adikkan button	unknown_state
+1283	1283	i am from karikkottakkari... but iam a big fan of mammoookkaa	unknown_state
+1284	1284	mamangam trailer kandittu ivde vannavarku like adikanulla comment	unknown_state
+1285	1285	angaadiyil koyitharam kaanikkumbol eee sinimayude posttarinte munnil pooyi nikkathirikkaan sramikkuka	unknown_state
+1286	1286	potta  patta padam...mohanlal engonuru film abiniyakadayirunu..ethryum prashthiyulla allale ningal...film ne kurich nalla arivum ..sharik script vayichitu thaneyano e film ne commit cheythe?interval ayapo enganeyenkilum irangi poya mathinu ayirunu...athraku worst padam...pinne kuree mohanlal fans undond e padam pottula...avar ettadathu vijayipicholum..bt  sense ulla arkum e padam eshtavilla	Negative
+1287	1287	kitti njangalak njagade aa pazhaya lalettane thirichu kitti	Positive
+1288	1288	eee varunna aaraam theeyathi ettante vaka oru sample vedikkettu undu.... # ittimaani loading boxes oafees njangal edukkuvaa	Positive
+1289	1289	mohammed sireee ninga vere level aan ketta nd nebi too	Positive
+1290	1290	katta lalettan fan  but  waiting 4 mamangam	Positive
+1291	1291	machaa.......aa bgm ente manasill angottu keri polipolikukayaanu	Positive
+1292	1292	ithokke aano abhinayam .......         jeevichu kaanikkuvalle pahayan maar ellaarum kidu shahn ,sabinum malsarichu thakarkkuvalle fahadikka vere level padam mothatthil polii	Positive
+1293	1293	rund mookkutthi undaayirunnu , valath   bhaagathe mookkuthiyaanu  kaanathaayath ennu thonnunnu	unknown_state
+1294	1294	laletta.. ningalekkurichu pukazhthiparayan onnumilla. kaaranam athukkum mele aanu,  bigbrother	Positive
+1295	1295	ithu kola maas allah double maas teaser	Positive
+1296	1296	kandapol puthanpanam orma vannavar ivide like	unknown_state
+1297	1297	vere feel ane mone e  song	Positive
+1298	1298	degray‌dd‌ ivide vevilla.. otta kaaraname ullu ajay‌vasudev	Negative
+1299	1299	lucifer trailor 8.5 m pakuthi enkilum aavuo	unknown_state
+1300	1300	malayalam industreel kedann polakkaan kayyum thonnunnundo.... bosse.... ennaa chodyaa	unknown_state
+1301	1301	belari raja pazhashi raja rajadhi raja pokkiri raja madhura raja  ee raja ena peru ushirulla aanpellerkru paragitullatha	unknown_state
+1302	1302	daaaa uleee nalloru pattuu dance kondoyiii nashippichuu kalanjalooo... aaaa song super but megastar athu kolakiiii cheeee boarr	Negative
+1303	1303	delhi registration aano enna chodyathinum  finland enna utharathinumidayil oru extra timing issue ullathayi thonnunnu.	unknown_state
+1304	1304	ini mammotty mookkuthi kandpidichuu kodukkunathayrkumo kadha....	unknown_state
+1305	1305	28 k guhanloussssss ooyi bere vallla pani nokkdaa nayakkkkaley	unknown_state
+1306	1306	headset ondengi ellarum athil kekuvva. ikkayude bass sound uff	Positive
+1307	1307	ijjanti heavy  aittam... ente ponnu makkale... oronnonnara aittam ufff	Positive
+1308	1308	theatoril climax maathram kaanichal mathiyallo eny... any ways good trailor	Positive
+1309	1309	aaradaa aaa penninte mookkutthi eduthathu 🤔	unknown_state
+1310	1310	telugu padam pole aavaathirunnal mathiyaayirunnu.fight okke ethandu athupole thanne	Mixed_feelings
+1311	1311	mammukka fan aaan..but ee orotta paatil manassilaakkaam ee cinema enthaanennu...am waiting	Positive
+1312	1312	ittimaani fdfs kaanaan povunnavarkku othukoodaanulla nool	unknown_state
+1313	1313	chilarkk kuru potti thudangeettundu.pramukha phaans dislike cheyyaan thudangeettundu.	Negative
+1314	1314	laletta ...... !!   love you.... !	Positive
+1315	1315	eee sinima erangunnathu vare enikku sleepless nights aanu	Positive
+1316	1316	uyir aanu ikka.lokathile yettavum sundharanaaya muthachan	Positive
+1317	1317	eattan phaans‌ like‌ button neela mukkuka changinakatthu  lalettan	unknown_state
+1318	1318	eee kilavanu nirthaaraayille kalyaanam kazhikkaan nadakkal...	Negative
+1319	1319	mohanlaalinte dayaloginu enthoyirithu.........oru kallkadi.....ariyaathapani cheiyunnapole thonnunnu...	Negative
+1320	1320	dislike adikuna guhikolde oonum parayan illa	Negative
+1321	1321	mammootiyudeyum linto kurianteyum fans like here	unknown_state
+1322	1322	copy cheythathu moshamayi poi chethatho cheythu korachu nannayi cheyyamayirunnu	Negative
+1323	1323	kooduthal pratheeksha nalkaathe ennaal ottum pratheeksha kurakkaatheyulla oru trailer	Mixed_feelings
+1324	1324	soubin aa pennineym kunjineym vanjiyil kooti varunna scene...uff what a scene🥰	Positive
+1325	1325	laletta polichu ... super  oonam ittimaanikkoppam... waiting for september 6	Positive
+1326	1326	68 tikayunna youthanu veendum oru perunnal sammanam prisharadi vaka..	Positive
+1327	1327	mammookka cheyyenda character aayirunnu kaattaalan porunchu.... trailer kollaam.. joshi saarinte thirichu varavu aavatte eee sinima	Positive
+1328	1328	valla 200 cr anaganam nirthiya mathiyarnnu	unknown_state
+1329	1329	mass kanikkan mle palettan kayinjje vera aalullu####	Positive
+1330	1330	cbi 5 loadingg...mukuthi kandu pidikkan.... first time kettappol song like ayille... 2,3 thavana kettappol valare ishtapettu	unknown_state
+1331	1331	ithu enthoottu thrissur slang aanu ? idakke varunnundu idakku mohanlaalinte thanne slang ..	Negative
+1332	1332	dileepettan 🤩🤩🤩 suraj siddik nadarsha aju vargheese 🤩🤩🤩🤩🤩🤩	unknown_state
+1334	1334	ithu  erangumbol  oola  bigg  bajatt  padam  onnuo erangi  iii padam.. pettennu  eduthu  povaathirunnaal  mathi  aayirunnu.. like josaf	Positive
+1335	1335	cheeri.... vere vaakk illa..  jjadi  taav‌ ishtaa....  chiriyilum kalippu...	Positive
+1336	1336	madhura raja nalla cinema ano?? plz reply	unknown_state
+1337	1337	eemm pattu undaakkiyavan simbalayi undaakki kaanum... kaaranam phul mookkutthi maathram ullu	unknown_state
+1338	1338	itu 100cr adikum ennu urap ullawar like here	unknown_state
+1339	1339	christmas inu padakam dileep ettante vaghaq	Negative
+1340	1340	stock roomil stuck aaayi freezing room	unknown_state
+1341	1341	pwolicchh.kidiln editt  kidu musc  kidu cmra  kidiln acttt   andd kiduu drctr.	Positive
+1342	1342	adaaar item   lalettan and prithuvi.	Positive
+1343	1343	mithun  comedy illaathe padam	unknown_state
+1344	1344	pinne japan ne kurich parayanda ...nalu bengalikal ninn randu sidelnn mannu valichu kadalilekk ittal theeravunnathe ullu	unknown_state
+1345	1345	ikkaas best actorile pole feel cheyyunnu	Positive
+1346	1346	18ampadi enta schoolil aanu shoot chytha christ nagar pinna njan arun alla gokul cinemayil valla chance undo sir	unknown_state
+1347	1347	da avalk meesha ond da   psycho sreeni....	unknown_state
+1349	1349	eee vesham eee sinimayude athipradhana bhagamaanu. kuruppachante samsaaravum kidaavinodulla  samsaaravum(athil chaalicha orammayude snehavum karuthalum ) chitrarachana athinu upayogikkunna chayakkoottum,  assalaayittund... nokku,  chemanna niratthe patti karuppachan paranjathu kettille???  nammude paakkine kurichu paranjathu onnude kelkkaan thonnunnu... kuruppachan koodeyullorodu vettila murukkikondu parayunna reethi kelkkoo..nammal annathe kaalath avide ninnu kelkkunnapole thonni... . vallaathoru akarshanam eee kathaapaathrathodu thonnunnu. pennungalude aaa manimaalika verumoru sukhee mandiramaayi thonniyumilla... athu thirakkadhayude shakthiyayodoppam mammukkayude eee kathaapaathrathinte  prakadanavumaanu... karuppachante nritham athoru poornamaaya purushante sthrainathayude avatharanamalle???  appol oru sthreeyude anga chalanavum oru poorna nrithavum saadhyamaakunnathengane???	Positive
+1350	1350	malayalathinte mahanadan #suriyafansinte ashamsakal🤝 trailer looks massy!	Positive
+1351	1351	immi oonam ittichayaanum  pillerum ing eduthennu parayaan paranju	Positive
+1352	1352	parasyamillaathe viidiyoo kaanaam eee linkle nokkoo	unknown_state
+1353	1353	kondoraam kondoraam kaithola paaayaa  kondoooram  enna songu pole enikku mathramaaanooo thonniyathu... i	Mixed_feelings
+1354	1354	mammattiyude rajadhiraja ree meyik  cheythathaano 🤔🤔🤔🤔🤔	unknown_state
+1355	1355	its more like a movie ratsasan , ichiri matti pidikarunnu.	Negative
+1356	1356	e film il shine nte kootukaran aara	unknown_state
+1357	1357	malayalm cinema bollywood kadathi vettum pakka mass nivin ichayan polikkum	Positive
+1358	1358	njanum ente pillarum stronga double strong alla tripple strong	Positive
+1359	1359	eee vishu ikka yum pillerum kondu pokum	Positive
+1360	1360	shine oru rakshayumilla nalla veshangal kittatte	Positive
+1361	1361	veendum veendum kanda ikkaa fans like adikkuka,,,, swaagatham	unknown_state
+1362	1362	ikka thirichu vannu makkale <3 ini adiyude idiyude vedi pooram!!!!!	Positive
+1363	1363	mukkutthi marunnu deppyil undu. vere aarum ariyaruthu.	unknown_state
+1364	1364	eee trailer kandittu srk yude fan movie polundallo	Mixed_feelings
+1365	1365	mohanlal punny nirtthi pookum dayavaayi ningalkk pattiyath  kurachu paisa koduthu  valla pathmadushano  lokasabha seett  vaanguka ennittu  mody yodoppam valla kukku sinte motham punny edukkuka priyadarshane kude kudu	Negative
+1366	1366	nalla valippu trailer.padam ingana abathirunnal mathjayirunnu	Negative
+1367	1367	thalle  joshi  yaa...  myarakam.	unknown_state
+1368	1368	9.6k dislikes from antony perumbavor ( undaya.......)	unknown_state
+1369	1369	comments vayichppo oru karyam manasilayi.... ethu njagade lalettan ann	Positive
+1370	1370	trailer crisp akaamayirunnu..too much aayi poyi..	Negative
+1371	1371	ouru twist manslayi raja elextionu nikkum ..... opposite to dady girija	unknown_state
+1372	1372	kidukachi ene parja pora athukum mele  tovi ichaya🤩🤩	Positive
+1373	1373	haa 3nna oru traileraa  ↪	unknown_state
+1374	1374	njaanum oru phaan aanu mammookka mammookkayudethu	unknown_state
+1375	1375	1:58 ' vaada ( vaadaa) ho  goosebumps.....	unknown_state
+1376	1376	super trailer avasanathe idi super  but bgm pulimurugan copy	Mixed_feelings
+1377	1377	kathapathrangal manasil ninnum pokunnilla athani filminte prethyakatha	Positive
+1378	1378	vetta patti kurakatte athu onnum ikkaa phaans‌ nte romathil todula like adikkum ikkaa phaans‌	unknown_state
+1380	1380	ethra cheytaalum mathivaraatha 2 kaaryangal.. athu‌ mammookane uddeshichaano.	unknown_state
+1381	1381	evdeyoo slum dog millionaire movie saamyam like	unknown_state
+1382	1382	ithrayum ponnullavarkk oru mookkutthi poyathaanu valia prashnam. athallelum ullavarkke aarthi koodoo	unknown_state
+1383	1383	madhuraraja trailer kand ivide vannanvar likkeee	unknown_state
+1385	1385	aaa pacha kondu maaru marachekkunna nadiyude peru ariyunnavar onnu parayaamo?	unknown_state
+1386	1386	padam polikkum  dileep outtu aayatu nannayi athukondaanu nammalkk suuppar nadanmaare kittiyathu	Positive
+1387	1387	appazhe.. inni aa kgf tone kude kayattiyal kgf 2 aayi..	unknown_state
+1388	1388	padam kandennu shesham achante oru chodhyam, superstar ullaa padam enthinaannu	unknown_state
+1390	1390	veree leval mommukkaaaaa marana maaaas	Positive
+1391	1391	1:28 to 1:32.....eee bgm evdeyo kettitundallo...ente sunny chechi(laila o laila)	unknown_state
+1392	1392	dislike adikkan vendi mathram vannirikunnavanmar orupad undalloo sahikanindavula kazhuverikalk	Negative
+1393	1393	eee dance kalikkaan ulla samayam venda athu nokki edukkaan athil thanne ariyaam mookkutthi avalude kayyil undu ithu chumma prahasanam aanennu	unknown_state
+1394	1394	moshittikuvanel evidunu moshttikanam oru seenum illa ellarum enjoy cheyuva oru mukuthipoyapol thane.appo avide kayari oru 100 pavan edukanam.appo avarum happy nammalum happy..!!!!!!!!	unknown_state
+1395	1395	nte ammo oru rakshayum illa pwoli	Positive
+1396	1396	ohh katta waiting  psycho vineethettan	Positive
+1397	1397	lucifer hitayi.  madhurarajayum hitakatte.  malayalam movie lover	Positive
+1399	1399	ittimaani 8 nilayil pottum ennu urappullavath  enikku maathram aano 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣	Negative
+1400	1400	aa red drs itta nadi starplus serialil ullathalle	unknown_state
+1401	1401	varunnathu manthriyo bhadano alla rajavanu rajavu	Positive
+1402	1402	any one 2019....  chumma kilii	unknown_state
+1403	1403	punny ariyaavunna pillaru aanu kalathil . ajay vasudev  oru mass pratheeshikkam	Positive
+1404	1404	kerala police friends undel ivide kodu oru like......	unknown_state
+1405	1405	anashwara kaanaan  njaan mathramaano  vannath 🤑	unknown_state
+1406	1406	malayaala sinimayil maattatthinte kattuveeshaan thudangiyittu kaalam kurachaayenkilum shakthipraapichuthudangi eeyaduthakaalathaanu. kaambulla kadhakalkkum kathaapaathrangalkkum manassuniranju kayyadinalki nammal aaa maattatthe varavettu. thanneermathan dinangal maattatthinte mazhappeythil puthiya kaazhchayude, kathayude vismayamaakatte.. kandirangiporumbazhum koodeporanam ningalororuttharum	Positive
+1407	1407	aarelum sradhicho lalettante cheruppam kaanikkunna sceneil 1.39 aaa kutty tholum cherichulla aaa nilppu.. rajuvettan's perfection...	unknown_state
+1408	1408	eee pokku poyaal 10 million vyoovezhs aakum	Positive
+1409	1409	inii phonilu‍ ninnum delete aakatha oru sinima koodi pirannu...!!	Positive
+1410	1410	big  brother:  eattan  shylock :ikka  randum polichadukkatte, nammude muthukal 🥰🥰🥰🥰	Positive
+1411	1411	mamangathil mammootty’s character name ariyano makkale ???   it’s kunjali marakar.	unknown_state
+1412	1412	valla komadi padam cheythoode, veruthe ulla vila kalayaan	Negative
+1413	1413	aah nalla best marakkar...sound kettal thanne ariyam...ithu adutha neeraliyo odiyano aavanulla laksham aanu...daivame ee pulli ithu enthinulla purapadu aanu...🤣	Negative
+1414	1414	padam kandathinu shesham ivide vannavar like	unknown_state
+1415	1415	sheyne... nee muthaanu... poliyaanu machaane nee..	Positive
+1416	1416	ithupole aayirunnu pulimurugan inte trailer..... pinnedu nadannathuu malayala cinemaye maatimaricha charithramm ...... waiting for odiyan laletta	Positive
+1417	1417	kidu energetic trailer     dislike adikkanum venam oru manakkatti	Positive
+1419	1419	ithanu padam 🥰 oru raksha illa	Positive
+1420	1420	keralathile ella sudappikaleyum ivide onnichu kanam	Negative
+1421	1421	trailers isttapetta lalettan fans  adi	Positive
+1422	1422	ithippo....eee kollatthe mikacha  falita pusthakam prasidheekarikkaan ullathra comment undallo.. chirichu chathu...... ijjati.....	unknown_state
+1423	1423	ohoo mamooka powlikum ee jati tralier making kiduwee	Positive
+1424	1424	ithu okke verum hype aanu padam release aakumbol valare flop aakum ennathaanu rasakaramaya sathyam.	Negative
+1425	1425	1:58 thakarkkan povvuna recordukallkk oru vaada	unknown_state
+1426	1426	eee zaao bhashanam annkil eee padam vijayikkumo samshayam maanu (udha:- kilichundan maambazham aasinimakk aake ulla kuzhappam sambhashanam aanu	Mixed_feelings
+1427	1427	sherikkum poli padam real +2 lyffull tym entertainer	Positive
+1428	1428	phastt  seane kandappol chaanthu pottile dileepine oorma vannath enikku mathramaano	unknown_state
+1429	1429	ishkh  leeii  paatt  aano  iii paattaano  ettavum  ishtam  kuttukaare	unknown_state
+1430	1430	porinju v/s puthanpalli jose ivarude fans undo ivide.undenkil oru like	unknown_state
+1431	1431	lalettan phaans‌ like button adichu pwolikku	unknown_state
+1432	1432	eee soong theateril ninnu kandappol ulla pheel.. uffff  mammooka ningalu suuppar attaa 🥰🥰🥰🥰🥰	Positive
+1433	1433	eee song aano oolakal trollackiath , yadhaarthathil oru shikhandi allah mammoottiyude role , brusht kalpikkapetta chandrot valia panikkarude oru  marra yaanu shikhandi vesham ,, mammookka valare nannayi cheythu.  chila thrithachuvadukal sarikkum shikhandi pole ,,,  oru sinimayil moonnu vethyastha rolukal ,,,,  namichu mammookka .	Positive
+1434	1434	seett‌ beltt‌ idaathe roadle koode parappikkunna  pramukhane pidikkaan nettottamodunna eamaan  katha ekadesham katthi pidicho illayo ennariyaan inii  theateril pooyi sinima kaananam	unknown_state
+1435	1435	editor ee paattu cinemayil ninnu cut cheyan pato ijaathi paattoke undel padathinte flow povum laag adikum kanunavar irangi povum	Negative
+1436	1436	yaadhaarthyangalil naith prathikaaratthil theertha vismaya chithram ayirikkum mamangam,     -mammookka	Positive
+1437	1437	ithu matte moytheenile kannondu chollann enna paatt polundallo	Mixed_feelings
+1439	1439	dileepnte english akkiulla malayalam bore ayi thonunu . cinema muzhuvan anganavalle ennu prarthikam	Mixed_feelings
+1440	1440	idakku idakku ooroo padam abhinayichu hitt adikkunna vineethettan ithilum adichirikkum... ennu thonnunnavar undo.... oppam mmu‌teey kumbalagiyile checken.....	Positive
+1441	1441	surajettan ippol kadhapathramayi jeevikkukayanu.. mikka cinemakalilum	Positive
+1442	1442	ikka oru reskhem illatha trailer. katta ikka fans . like adich pwolik!!!	Positive
+1443	1443	patty namela konde malayalm vayepikunooo anek sayekan patunela anekum endeytunde	unknown_state
+1444	1444	looks totally hopeless....oru kannan thamarakulam level padam aakumnnu thonninu...	Negative
+1445	1445	malayaala sinima vazhimatti  chinthikkaan thudangiyirikkunnu ennathinte thelivaanu itharam nalla kalaasrishtikal..... cleashay aavarthanam allah .. moolyamulla sinimakal aanu janikkendathu..... pratheekshikkam	Positive
+1446	1446	bhavana studiyo nnu kandappol maheshine oorma vannavar undo?	unknown_state
+1447	1447	ingeru idhendhonnu mansuhyana haisshhh siddique ikkaayum oreee pwlii	Positive
+1448	1448	njangalude puthiya short philim teaser..!!   youtube link :   ishtappettaal share cheyyane...  watch  like   cmt share	unknown_state
+1449	1449	hoow ..kongrett slab  okkeidichupolichaanalo varavu..bhayankaram thanne ..	Negative
+1450	1450	enik like venda karanam kitteet vellya karyamonnum illa	unknown_state
+1451	1451	ijjadi mass sadanam ikka ninga poliyaan inippo kurupottichond coray mairanmar varum	Negative
+1452	1452	fdfs inu kurachu neram nishabdamaayirunna thiyyattarine ilakki maricha aittam 🤩mammookka dance 🤘	Positive
+1453	1453	komban misha avasan senti aaaa ha anthas	Mixed_feelings
+1454	1454	ipraavashyam oonam ettanum pillerum angu eduthu	Positive
+1455	1455	kunjikkoonan  chaanth‌pottu chakkaramuth   sund thoma  mayamohini  kammaran  ippam dheey santayum  ivide enthum pogum  dileepettan	Positive
+1456	1456	trailer supernivin malayaala sinimayude abhimaanam nivin poolii.	Positive
+1457	1457	malappurathum kozhikkodumula jhangal eebashakett chirich mann kappi.. marakkarenna deerayodhavinte shabdam inganeyalla. vendath.... ith mimikrikkar stegil avatharippikunna comedy paripadipoleyanallo.. ha...	Negative
+1458	1458	jhan oru fan anu .... prithviraj fan...	unknown_state
+1459	1459	katta waiting for mamangam  mammookkaaa	Positive
+1460	1460	ee song athra kettalum mathiyavathavar like adi.....	Positive
+1461	1461	jaison  um keerthiyum super aanu .....aaa chiri polikkum......randuperum polikkum	Positive
+1462	1462	aa chiri uff ente ponno ikka vere level	Positive
+1464	1464	5 il kooduthal thavana kandathu njn maathramaano   katta mammooty fans cmnt here	Positive
+1466	1466	kuru potti olikknna 1k poojappura fans🤣🤣🤣	Negative
+1468	1468	edayk edayk views nokan varunath njan mathram aano🤔	unknown_state
+1469	1469	mohanlal ee 100crore kayarumen urapp ullavar like adi	unknown_state
+1470	1470	arelum eduthittundengil dayavaayi thirichu kodukku‌ please	unknown_state
+1471	1471	ikka and kunjikka fans like ady	unknown_state
+1472	1472	prithviraj is promoting devil ? illuminati prithviraj?	unknown_state
+1474	1474	paattinte aaa level padam motham keep‌ cheyyaan pattiyaal onnum nokkanda..... familic thiyettar vare varendi varum *ittimaani* sept6	Positive
+1475	1475	13k dislike adicha guhanzzz stand vitt pokendatanu	unknown_state
+1476	1476	im from mars but i love laletan	unknown_state
+1477	1477	kidukkachi  ingane venam mass kaanikkaan allathe alari vilichaal mass aavilla	Positive
+1478	1478	yentameede mukuthiii muukil ninnu kanathaye... yentappante purse muzuvan yentamma kaliyakiye...	unknown_state
+1479	1479	ittimaani masaanu‌ manasumaanu.. eee oonam ittimaani ingu edukkuvaa... chirichu pandaaradangaan ready aayiko makkale	Positive
+1480	1480	kandittum kandittum  mathiyavunnilla  uff ijjathi item  #mamangam #mammookka	Positive
+1481	1481	kidu  lucifer  a10	Positive
+1482	1482	uyiril thodum thalir viralaavane nee  arike nadakkane alayum  chudu kaattininayaay namoru naal  kinakkudilil chennanayumiru nilavalayay  aarum kaanaa hridaya thaaramathil uruki  naamannarum kelkka pranayaajaalakatha  palavuru parayumo? uyiril thodum kulir viralaayidaam njaan  arike nadannidaam alayum  chudu kaattininayaay namoru naal  kinakkudilil chennanayumiru nilavalayay  aarum kaanaa hridaya thaaramathil uruki  naamannarum kelkka pranayaajaalakatha  palavuru parayumo?  vazhiyorangal thorum thanalayi padarchillaa nee  kudayaaya nivarnnu nee nowara they thoraathe peyyu keey  thuzhayolangal pooll niin  kadavathonnu thottu njaan melle  kaatte chillayithil veeshane  kaare ilayithil peyyane melle  theeramithil olangalolangalaay  nee varoo uyiril thalodeedum  uyiraayidum naam namoru naal  kinakkadalil chennanayu, miru nilaanadiyaay  aarum kaanaa hridaya thaaramathil uruki  naamannarum kelkka pranayaajaalakatha  palavuru thudarumo	unknown_state
+1483	1483	veronnum kondalla... malayaala sinimayil ippozhum muzhuvanum eranaakulam thrissur aalappuzha kozhikode jilla base cheythulla sinimakal aanu , kooduthalum eranaakulam jillayil ninnum ullathu aanu.. vere sthalangalilokke maatti pidikkam..	Negative
+1484	1484	enna pine itu oru series aki netflixil  idan padile?kanditu ate polind	unknown_state
+1485	1485	ee varsham njn ettavum kuduthal thavana ketta pattu	Positive
+1486	1486	mammokka age 68 ....     no words	Positive
+1487	1487	pothettanu‍ kudumbatthilu‍ ninnum oradaaraittam...! ithu polikkum..!	Positive
+1488	1488	mookil mookuthi vachittu kandilllnnu eatha ee vepparachi	unknown_state
+1489	1489	bgm okke powli.... but poster kond undakiya oru roomajam teaserinu tharaan kazhinjilla..... endhokayo suspence und enn manasilayi......... waiting	Mixed_feelings
+1491	1491	teaser kanan varumbol ellam comment inu like kodukkunnath njan mathram ani	unknown_state
+1492	1492	yaathrakale snehikkunnavarkkaayi ente production house  baanaril njaan aadyamaayi produce cheytha short film	unknown_state
+1493	1493	malayaala sinimakk oreyoru rajaavu the complete actor l........	Positive
+1494	1494	eee padam ithuvare kaanaan pattathe eee paattin adict aayath njaan maathram aano daivame	Positive
+1495	1495	kollaam. pathiv abhinaya ramgangal kurachokke maatti get up puthukki vannirikkunnu lalettan. ingane venam. pakshe poraa  iniyum angottu varaanund. pratheekshakal eareyaanu	Mixed_feelings
+1496	1496	ente ponno!!! maamaankatthil mass illa ennu paranjavar okke ivide vannu onnu nirannu ninne kaanatte  altra mass vannada makkale shylok	Positive
+1497	1497	aaroo oraal allah, ente eattan... lalettan.	unknown_state
+1498	1498	song addict aayavar comment innu like adikk	unknown_state
+1499	1499	407 dislike haaa oka mumuty fans ayerikyum kastam	Negative
+1500	1500	balakrishna movies ne kaliyaki kaliyakki ippo malayaliyum athe pole padam eduthu thudangi	Negative
+1501	1501	theere poraathoru trailer. aadhyam lalettante  still photo okke, kurachu nannakkarunnu	Negative
+1503	1503	ningal orukaaryam shredhicho ennariyilla , chechimaare kandu  ithiri ponna  aaa  kochu  cherukkante kilii pooyirikkuva .... !	unknown_state
+1504	1504	entammo enthuvada ith enn trailer kandapol manasil karuthiyavar like adi	unknown_state
+1505	1505	paathi kathayum paranju tharunna nallla trailor	Mixed_feelings
+1506	1506	padam pottumn orapulavar ivide like adik	unknown_state
+1508	1508	enna bodyaa mamooty iniyum oru 10 ankathinulla balyam undu.	Positive
+1509	1509	fake views  kettan nanam ille...🤣🤣🤣	Negative
+1510	1510	mamookka fan aau pakshe annalum ithu flopakumonn oru doubt	Negative
+1511	1511	odiyante odi vidya thudangi makkale...murugaaa ne sherikum theernu	Positive
+1512	1512	from 1:20! vidyasagar inte music. pinne imaikka nodigal ile nayanthaarayude aaa kochum   uff..  enthaa feel 🤩	Positive
+1513	1513	ithil  apo  mammooty alle nayagan ????	unknown_state
+1514	1514	lalettante alle padam supper trailer polychu cinema athkum male	Positive
+1515	1515	pooliye kiduve ittimaanichaayane kaathirikkunnavar like adii	unknown_state
+1516	1516	movie super ann...  climax porra	Mixed_feelings
+1517	1517	oru kandam ozhichu ittittundu ellaavarkkum erangi oodaan	Negative
+1518	1518	ithu hit..!!! super hit...!!! prithvi raj	Positive
+1519	1519	jayasurya chyuna a ella characters um pwoliya... shaji pappen	Positive
+1520	1520	christiansinte idayil oru pere ullu lucifer	unknown_state
+1521	1521	ikkaa ikkaaa ..ente chomanna jatty kandaa	unknown_state
+1522	1522	finland karan santa hawaiin dialogue	unknown_state
+1523	1523	vyshakinte pagill ettal egane ya views thonne kittuka valiya chanalil alle edendathu luciferne pole	Negative
+1524	1524	sunny chechi ye kanan vanahvar like adi	unknown_state
+1525	1525	ithil ninnum mammookka maariyat veruthe allah,  triler kandittu, suraj aanu kerii nikkane.   ithu kandathu vachu parayuvaa,  roll mammootty allah lalettan aanelum cheyyaan chaans kuravaa.  prithyu, interviewyil paranju kettattundu  avg sinimayil suuppar character cheiyunnathilum thaalparyam nalla philimil avg roll cheiyunnathaanu ishtam ennu   ithil equal roll aayirikkam, pakshe suraj kerii meyumo ennu nalla reethiyil dautt undu.  climax‌ suraajnte koode koodunna naayakan avan aanu chaans	unknown_state
+1526	1526	trailer irangunnadin munbe ithra likum comments irangiyaaloo adaann mammukkayude piller	Positive
+1527	1527	lad kondupoyi  laletta onam !!sorry	Mixed_feelings
+1528	1528	urappichu.... ithum koodi aayappol... umm... umm..	unknown_state
+1529	1529	aaroo oraal allah ente eattan .. my big brother	unknown_state
+1530	1530	trailerinu vendi idikkatta veyitt cheiyunna eattan phaans‌ like adikku..	unknown_state
+1531	1531	ente ponnu mammoooka mass item veendum..bgm aanegil onnum choikandaa porichu	Positive
+1532	1532	ente ammo kidilol kidilam. oru raksha illa. prayathe vellum veeran	Positive
+1533	1533	2 lakhs like ariyan vendi vannavaradi like	unknown_state
+1534	1534	malayaalathile lady superstar nuu irikkatte oru like‌	Positive
+1535	1535	sathyam parayalow kanubol ente police traing kalam ormavarunu	Positive
+1536	1536	traileril ulla scene onum cinemayil illa......	unknown_state
+1537	1537	superb & promising  trailer	Positive
+1538	1538	komali ikka screen prsenille lalttena powill samshayam undekgilu yodda moovi maathram kandaal mathi ithu orumaathiri komaalitharam ayippoyi	Negative
+1539	1539	jojuettante abinayam kaanumbol baakiyulladineyokke kinattilidaan thonnunnu	Positive
+1540	1540	varunnath oru kidu item....  a10 teams  stand vidanam	Positive
+1541	1541	enta joju etta ningalithe ende bhavichaa	unknown_state
+1542	1542	shylock kandu vannond oru gumm thonnanilla	Mixed_feelings
+1543	1543	cinema virodhikal dislike aayittu ethiyalo.. nthado nannaavaathe.. ikkayeyum ettaneyum verukaan ngane pattunnu keedangale..??	unknown_state
+1544	1544	chitra chechy ayyirnengil kurach koody nannayane kudathe feel indayane.examble : kunnathe konnakum film pazyashiraja	Mixed_feelings
+1545	1545	suuppar moovi, fahad‌qaa suuppar acting	Positive
+1546	1546	ath polichu  onnum parayaanilla adipoli  ikka is back.....	Positive
+1547	1547	thallu kittiyal nerkku nere ninnu theerkkanam, athaanu thrissurkkarude oru reethi  thrissoorkkaaran	unknown_state
+1548	1548	buzz‌ kandakdaru‍ mooviyile  maanathe  manichi thatthe  ennapaattumaayi oru  chaaya kachal‍	Mixed_feelings
+1549	1549	inganeyum mundu udukkaamo ?oonam special	unknown_state
+1550	1550	singer male voice  alambu... maarggam kalii suuppar.....	Mixed_feelings
+1551	1551	vrre arumallaaaa ente eattan big brother	unknown_state
+1552	1552	naran nariman narasimhavumellam piraviyeduttha mannilekku.... alexander, mannadiyar, bilal chavittimethicha edangalil.... pazhasshiyum, rajadhiraja, bellary rajayumellam rajakeeyamaakkiya shh‌kreenukalil..... ameer, chaaverukalum mamanka visfodanangal orukkunna boxes‌ offeesukalil.... avan varavariyichirikkunnu.....  rajayakku ediyilundaaya aanpirappu... shylock......   best wshes ikka & ajay	Positive
+1554	1554	haters pani thodangind makkale.....sahikunnilla avrkithe kanditte..	Negative
+1555	1555	trailer kalaki, adyam aaye oru trailer kandu, ethreyum cheriche, kalaki	Positive
+1556	1556	nammude viyatnaam kolaniyile ravuthar alledaa ithu	unknown_state
+1557	1557	lit kure naalukalkku shesham malayaalathil nalla oru crime thriller varunnu... waiting	Positive
+1558	1558	abram khureshi... fans.. hit the like button.. adichu pottikeda makkale	unknown_state
+1559	1559	porinchuvinte bgm ishtappetta ethra perr undu.?	unknown_state
+1560	1560	chaakkochante  anjaampaathirakku lalettan faansinte ellaavidha aashamsakalum	Positive
+1561	1561	tik tokil kure kalikkum iii mookkutthi	unknown_state
+1562	1562	realistic thanne porallo namukk edakk mass varatte  tovi	unknown_state
+1563	1563	1 .6 k dislike adichavan mare njgalk mansil avund ....mare	Negative
+1564	1564	mukkuthi kananjathine  vendi apeshicha harji nale kodathi pariganikkunnathane..	unknown_state
+1565	1565	polii  ithu polikkum  shreya ghoshaal idikkatta waiting phoor mamangam	Positive
+1566	1566	manchu warrier‍ ithu njerikkum... oppam roshanu‍ andrews avatharippikkunna villanu‍ veshavum..	Positive
+1568	1568	kurichulla lettast nyoos‌ ariyaan eee chaanal subscribe cheyyuka	unknown_state
+1569	1569	don max fans like adikadapakkale !!	unknown_state
+1570	1570	aa kochu kollaam..udaharanam sujatha ile kochalle	Positive
+1571	1571	aaroo oraal allah ente eattan mye bigg brother	unknown_state
+1572	1572	piranna naadinte ushiru kaakkanam kunhali marakkar	unknown_state
+1573	1573	fight illatha lalettande aadya padam .	unknown_state
+1574	1574	talaiva ...🤩🤩  #raja.. maduraraja..  20 mins to go !!! 🤩  ```get ready megastar fans```	Positive
+1575	1575	comments ellam read cheyyunnavar like adikku 🥰	unknown_state
+1576	1576	valluvanaadi ne poole aavan oru range venamedaa	Positive
+1577	1577	polichhh kiduuu trailerrr ikkkaaa ennummm ikkaa thaneeeeee oru rekshayillathaawa traileerrrr waitingggg for thee moviee	Positive
+1578	1578	eee padam innu kaanaan saadhicho nalla abhinayamaan ellah nadanmaarum nadimaarum kaazhchavachathu pakshe kaattaalan porinchu avasanam katthi kuthu ettu maranappedunnu eee climax enikku eshtappettilla porinchu kathikkuthu ettukondu hospital aayi aarumasam kazhinju cases vidhi vannu thelivukal illaatha paksham kodathi porinchuvine veruthe vittal jeevithakalam muzhuvan  kaathirunna porinchu vinte mariyathinu oru jeevitam undaakumaayirunnu enthukondaanu eee pada thinte climax ingane koduthathu vallathe vedanippichu	Mixed_feelings
+1579	1579	ee kilavanu vere oru chorappum ille?	Negative
+1580	1580	pala bgm um ketta pole thonnunundelum kidu feel	Mixed_feelings
+1581	1581	dialogue delivariyil lalettan nannayi samsaarichu thudangiyathu ividam muthalaanu.atho poranna naadinte mosaru kaakkana. ennaa athinulla manasundenki kayyil kittana aayudhameduthu maaru nivarthi vechu porinu vilikku .ingale alarcha kettu saitaanmaaru parankikalu verakkanam. ibu‌leasukalde cheerunna vediyundakalkku unnam thettum. oorde padakappalukal karaa kaanaathe kathikariyum . disha ariyaathe paayum parankippattaalam.  ithu maathramaan eattan nannayi paranjathu.	Mixed_feelings
+1582	1582	hohoho enthaa ithu  mamangam thanne	unknown_state
+1584	1584	yedaaa mamooty mayirae....'lucifer' mass'u ninaku orukilum kittaadhu thendi..	Negative
+1585	1585	oru vallaatha jaathi padam  madhu sii narayanante asaadhya direction  , shyam pushkarante realistic skript , sushin shyaaminte manoharamaaya music , abhinayikkaan paranjaal jeevichu kaatti tharunna shaine nigam , sabin ,  fahad  ennivarude currier bestt  , mothatthil paranjaal prekshakarude manam nirachoru padam	Positive
+1586	1586	trailer kandittu film pottum 100 %.	Negative
+1588	1588	vello eerkkilu kutthi vecho athaakumbo athu kittunnath vare mukkile thula adayilla 🥴🥴🥴🥴🥴🥴🥴🥴🥴🥴🥴	unknown_state
+1589	1589	ennaalum ente mookkutthi.. nee kaaranam ... shhow......	unknown_state
+1590	1590	iyalde cinema kandu kandu enakku vayasaayi	unknown_state
+1591	1591	trailer video polum purathu varunnathinu munne dislike program aarambhicha makkalkirikkatte oru naduviral namaskaram!!!	Negative
+1592	1592	ithu vare oru pratheekshayumillaayirunnu but adaar trailer  kaanaada swag suraj-prithvi combo	Positive
+1593	1593	website :-  :-  :-  channel :-	unknown_state
+1594	1594	ee song kure times kelkkumbol valya kuzhapallya ....aadyam kettapol ishtapettillayirunnu..	Mixed_feelings
+1595	1595	inganeyaanu trailer undaakkendathu, ithu kaanumbol padam kaanaan thonnum. enthaayaalum padam kandu. thakarthu. bgm , interval	Positive
+1596	1596	malayala cinima ellam hollywood level ayo oh my god	Positive
+1597	1597	oru anya basha  tharathekoodi role kodukkamayirunnu	Negative
+1598	1598	leeii unni mukundan‍ :mookkutthi kaanaathe ellaarum vishamichirikkubolu‍, nee kidannu dance kalikkunno	unknown_state
+1599	1599	joju  eattan & pinne nummade chemban vinod  ponne adaar compo  ithu porikkum mone	Positive
+1600	1600	hindukkalkku mahiravanan islamil avane ibilis ennu vilikkum.christianinkalkkidayil avanu oru nereyulla.lucifer!!!	unknown_state
+1601	1601	@1:26 voice over aaraanu ariyuo? vivek oberoi kku dub cheythirikkunna voice??	unknown_state
+1602	1602	ithil nivinte abhinayam maathram pukazhthayirikkunnu....athintar direction aanu nivinte eee kazhivu puratthedukkaan sahaayichath....hats off to director geethu	Positive
+1603	1603	1:56 ee seen kand romancham vannavar  adichek	Positive
+1604	1604	kalanju poya mookkuthi kandupidich thirich elppikkunnath aakum climaxx	unknown_state
+1605	1605	ithu aanu trailer alathe koore cut seens kanikkal ala	Positive
+1606	1606	nivin achaayanu ikkaade aniyanmaarude pirannaal ashamsakal	Positive
+1607	1607	katta waiting a10 polikkum ennullavar like	unknown_state
+1608	1608	appo nammakk box office or pooshang pooshiyaala	Positive
+1609	1609	njan satyathil lalettan fana but e trailer oru rekshayilla vera level pwoli	Positive
+1610	1610	athravattam aanu ithu kaananaayi varunnathu njaan ... ikka uyir..	Positive
+1611	1611	mookkutthi ullavar  athu illaathavarkku  kodukkuka	unknown_state
+1612	1612	v a sree kumar is indian film joker in malayalam industry fool poda sree kumari myre poyi chavada vatta	Negative
+1613	1613	masss katta waiting ikka rajuettan fans	Positive
+1614	1614	haay guys  puthiya puthiya technic paachakam mukhasndaryam ivaye kurichu ariyaan vendi ente chaanal subscribe cheyyoo	unknown_state
+1615	1615	valare nalla ardhamulla paatt, enikku valare adhikam eshtappettu.  deep !. onnum parayaanilla,  tadastu.	Positive
+1616	1616	nivin pauliku pattiya role allaaa.... kanditu oru avg pragadanam	Mixed_feelings
+1617	1617	padam kand kayinn trailer kaanan vannavar adi like🤗..	unknown_state
+1618	1618	prithviraj is promoting devil ? illuminati prithviraj?	unknown_state
+1619	1619	lalettaaa muthee polichu	Positive
+1620	1620	edittarinu   paisa kodutthillede....aake oru vallayma...	Negative
+1621	1621	starting thanne oru rakshayum illaa super	Positive
+1622	1622	trailor kand 8 nilayil pottum enn thonunnu mumbathe pole tholvigal vaari kootan thudangunnu	Negative
+1623	1623	lucifernne ezhuayallathu varakilla nnu urapaa pakshe padam pulimuragan level hittaa athu suraa	Mixed_feelings
+1624	1624	trailer kandappo oru karym manasilayi eni mammooka fans luciferine velluvilikkilla	Negative
+1625	1625	mamukka ...mamukka.... mamukkane matram kandilla !!!!	unknown_state
+1626	1626	ee onam ini arum nokkandaa ettan parayan paranju	Positive
+1627	1627	daasettante shabdam.... iniyenkilum matt‌ gaayakare vachu dasettane thaarathamyam cheyyaruthu.	Positive
+1628	1628	#27 poster kanda shesham vannavar...... undoo..?	unknown_state
+1629	1629	sunny leon undo enna poyi kananam	Positive
+1630	1630	pirates of caribbean njammalum kandkknun parayan paranju!	unknown_state
+1631	1631	otta peru ...vidyasagar musical... katta waiting for vidyasagar magic	Positive
+1632	1632	veendum thante shabdam kondu dubbing mikachathaakki  vineethettan	Positive
+1634	1634	lucifer vere level anu makkale vegam poi kanubroos...	Positive
+1635	1635	asif aliye kaanathe poyadh njan mathrm anno???	unknown_state
+1636	1636	malayala cinema kku kitta oru ninthiyaanu mangu vaariya kannada film industry yill maathram allle lady super star ollu ennu karuthunavarukku oru kidilan marupadiyaanu ee trailer	Positive
+1638	1638	njanum entte kali karum verum strong ela trippil strong.     ikka fans like adik 2..3strong ikka	unknown_state
+1639	1639	nasraanikal mathramalla velliyaazhcha juma kazhinju nammakkum potthu irachiyaa ittichaa	unknown_state
+1640	1640	kunjikoonanaayum, chanthupottaayum, kalyaana ramanayum, sund thomayaayum, baalan vakeelaayum vesha vaividhyangaliloode namme vismayippicha janapriya naayakante mattoru prakadanatthinu koodi sakshiyakaan oru christumous kaalam varavaay #mysanta #official_trailer	Positive
+1641	1641	pokiri raja nte athra odulaa ee chithram eniku thonunnu....	Negative
+1642	1642	ithu eathaa silma ....jore baar  ayikkanallo ..	unknown_state
+1643	1643	kandittum kandittum mathiyavaathe veendum veendum vannu kaanunnavarundo enne pole	Positive
+1644	1644	mammookkayude kaanaan aagrahiykkaatha roll aanu ithu venddayirunnu inghnee kaanunnath enikku ishtam allah	Negative
+1645	1645	my favorite actor dq aan athukazhinj enikk ettavum ishtam nivine aanee padam first day first show poyirikkum	Positive
+1646	1646	eee trollenmark trollen enthengilum kuravu vende eee laalettante maarggamkaliyil.....? athu polumilla illa.... lalettan dance polichu	Positive
+1647	1647	njn epo 100 vattam kandu ningalo?	Positive
+1648	1648	malayaala sinimaykku vendathu orupidi nalla samvidaayakareyaanu..avaril ninnum labikkum nalla nadee nadanmaare.. all the best team moothon	Positive
+1649	1649	eee song neeii aanu vere koothara song vechittu dgrd cheythathu oru looad puchham maathram	Negative
+1650	1650	ndhu bgm aaa idhu... ninghalkku enganne ee teaser ishtapettu...... bgm sucks	Negative
+1651	1651	kgf kaanada	unknown_state
+1652	1652	nammade laletttante lucifer anu athukum mele  lalettan fans like here	Positive
+1653	1653	poli trailerrr  padam kanaan mood canhu	Positive
+1654	1654	aarum kaanaa... hridayathaaramathil uruki naamonnarum kelkka pranayajaalakatha palavuru parayumo...  aale kollunna varikal...	Positive
+1655	1655	padam vere leval kandu  ada oru figth	Positive
+1656	1656	0:24 maamangam..ormavaruunnu ...aaa intro & dance.....ponne..0:40 rajni fans kaananda..	unknown_state
+1657	1657	samayam iniyum undu. onnu maatti chinthikkoo  eee sambhashanashaili ozhivaakkoo ree dabbu  cheyyoo	Mixed_feelings
+1658	1658	eee soong theateril undaakkiya oolam cheruthonnumalla	Positive
+1659	1659	katta murali gopi fanzz adikada like	unknown_state
+1660	1660	ellaavarum angottum ingottum nokki chirikkuvaanu soong phul.. 🤣 complete positteev.. 🤗	Positive
+1661	1661	asal thallipoli paatt ithile soong ingane aavum orikkalum pratheekshichilla mammukkayude charithrasinimakal yaa  vadakkan veeragatha, pahashi raja enna sinimakalile paattukal kaanubol,,,,,,,,, sinima hitt aavatte	Negative
+1662	1662	pinne ee japaane kond oonum parayanda ........ sirich sirich chathu	Positive
+1663	1663	cinemayile ollu eee oorru..angh polylott poi nokkatt..	unknown_state
+1664	1664	ikka fancinu poonth vilayaadaanulla nool   like	unknown_state
+1665	1665	like ethra aayanne idakke idakke vannu nokkunathe njan mathramano	unknown_state
+1666	1666	ini theatril poy climax koodi kanda mathi bakki ellam aayi	Negative
+1667	1667	mookkuthiyude pakaram shaddi engaanum kaanaand poyaalulla avastha	unknown_state
+1668	1668	mohanlal fanonnumalla. but trailer soooper.  raajuvettante first padam hit aavatte katta waiting	Positive
+1669	1669	history  of mamangam in malayalam        pazhaya  vivaranam	unknown_state
+1670	1670	alla chettanmare mammootty mathramano abhinayichathu unni patti aarum parayunnille	unknown_state
+1671	1671	state award..ath surajeettan kondu poyirikkum..	Positive
+1672	1672	raja tittle ulla mamootty cinemakalellam super aanu 100%	Positive
+1673	1673	enthonnu ithokke nasippikkalle immathiri paattukal ittu che nashippichu	Negative
+1674	1674	padam innale kandu melvin um ravi sir um kikiduu	Positive
+1675	1675	shenta ponnoo oru reksha illalla kandu erunnu poonu trailer	Positive
+1676	1676	ithokke aanu dhairyam padam vijayikkaanel valia thaarangal vendaannum, badjatt philams thaarangalekkaal cherunnathu yoothan markkaannum	Positive
+1677	1677	joshi chathichillaashaane,  eju‌jaathi thirichuvaravaanu ithente ponno	Positive
+1678	1678	laletante padam aaayathukondalla	Positive
+1679	1679	ith kidukkum enn urappullavar ivde like	unknown_state
+1680	1680	aadyam kelkkumbol chalee aayi thonni pinne kettappol kidu aanu guys shreya ghoshaal kidu sound	Positive
+1681	1681	trailer cut ottaperu editor donmax vere level	Positive
+1682	1682	ejjathi mass  romanjam  mammookka	Positive
+1683	1683	shreya ghoshal fans like here   shreyaji kidukki	Positive
+1684	1684	next odiyan akuo en oru doubt 🤔🤔	Mixed_feelings
+1685	1685	ellaaa divasavum kaaannunnavarund avar like ady	unknown_state
+1686	1686	e onathin junior actors onum vanit kariyam illa itu namude senior laleten thane kodu pokum. ol laleten fans ivde vanit like adich pwolichu poyikolu	Positive
+1687	1687	ooo vallya sambhavam onnum allah	Negative
+1688	1688	lalettaa!!! raju chettai. .. such a promising trailer!!!  ronjaaamam!!!!	Positive
+1689	1689	sidique :- ellaam edavakayilum kaanum ithupoloru sadhanam  illa ikka mollywoodil ithupoloru oru sadhanam 1 maathrame ullu  #king	unknown_state
+1690	1690	ikka fans	unknown_state
+1692	1692	ufffff .... katta katta waiting ...   goosebumps	Positive
+1693	1693	thott thott ninnu .... mutti mutti ninn... katteduthavanvanaraano....	unknown_state
+1694	1694	ennalum ithrem kashttappettu dislike adikkunnadhu enthinanavo	Negative
+1695	1695	vijay fans like here... vijay fans aroke und ivda..	unknown_state
+1696	1696	eee paattinokke dislike adikkaanulla kaaranam ariyanamaayirunnu	Negative
+1697	1697	inganathe oru padathin vendi aayirunnu kaathiripp...avanteyokke.. friendshipum..romanceum...chaliyum..masalayum.. kand maduth	Positive
+1698	1698	ithuvare kanatha nivine kandenn thonunnavar undo	Positive
+1699	1699	dileepettan fans ivide like adichu pottikk	unknown_state
+1700	1700	ippozhe 6.1k like appo teaser irangiyaalo	Positive
+1701	1701	eee driving‌licenses oru onnonnara hevi licenses aavatte ennu prathyaashikkunnu..	Positive
+1702	1702	adutha block busternulla purapadaa....  ikaaa uyir	Positive
+1703	1703	erian ariyunnavante kayile daivam vadi kodukku hatts of rajuvettan istam	Positive
+1704	1704	daasettante kaathirunna paatt ...... mammukka polichu ..... kaliyaakkunnavarkk charithramenthenno sinima enganeyokke aakanamenno arivilla avar vaa kazhaykkunnidam vare kaliyaakkatte .......	Positive
+1705	1705	aanatham kaanichittennenu porinchu thrissoorukaarkku kaattaalan porinchu aayath .. athi iniyum kaananangi varinedaa chullanmaare .. pakshe thirichu povumbo enikku maathrame aanatham enna saamanam undaavoo ..  porinchu ishtam	Positive
+1706	1706	ithokke school pillarode pooyi para athinu sheshamulla phaitt minnichu	Positive
+1707	1707	#lucifer cinema kandittu vannavar arokkeyundu...nice movie  claimax vere level	Positive
+1709	1709	ishttapettu... nalla feel good padam aakatte	Positive
+1710	1710	raja annum ennum raja thanne	Positive
+1711	1711	entammede jimikki kammal entappan katondu poye  ippol dheey... mookkutthi kandilla... naattil phul moshanam aanallo... ..	unknown_state
+1712	1712	itti maani arelum kandoo?? nallata engilu‍ like adii..	unknown_state
+1713	1713	h nalla graphik‌shh pakshe mohanlal theettam dialogue presentashan aayi pooyi...	Mixed_feelings
+1714	1714	ichyaaaa polich nanum indu ee moviel kalki 🤩	Positive
+1715	1715	padam kandu kollaam pakshe chila idangalil lag und ennu eniku thoni	Mixed_feelings
+1716	1716	mukuthi kanathayapool step itt dance kalichu snthoshikuna teams nne  athyayita kanune  ...pengale aa ..samayath onn kuninj thapiknokiyapore...	unknown_state
+1717	1717	unda ennu peru ketapole kaliyakiyanmarodu onne parayanullu...ee padam pwolikum	Positive
+1718	1718	mikacha paatt.. 2019 leeii mikacha paattukal njaan cheythittundu..ellaavarum onnu kandu nokkanam	unknown_state
+1719	1719	moothon trailer kandu kazhinjenkil nivinte eee mashop koodi onnu kandu noock	unknown_state
+1720	1720	trailer waiting katta waiting like adi......... mammookka fans hit like	unknown_state
+1721	1721	njangade eee cheria chaanal onnu support cheyyaamo suhruthukkale..	unknown_state
+1722	1722	kollilla enna abhipraayam kettu double mind aayaan poyath....nalla philim aanu...familic eshtappettu...degrading oru manorogam aanennu manassilaayi	Positive
+1723	1723	nalla set movie	Positive
+1724	1724	sunny chechi ullath kond cinema jayikum	Positive
+1725	1725	double roll undo...   ennoru thonnal	unknown_state
+1726	1726	enthonnu varthamaanam aanodaa koya ithu kilichundan maambazhamo	Negative
+1727	1727	ithu theateril 100 divasam kaanum enu urappu ullavar like adikku makkale	unknown_state
+1728	1728	trailer kandu kazhinjappol thrissur pooram kazhinja feel motham jagapoga	unknown_state
+1729	1729	oru raksha ellade super padam  ..... njan kandu..... ! onnu kudi kkananam	Positive
+1730	1730	jacket..cooling glass...car...slow motion...pazhaya bomb katha tanne....hahahaha ..eyalku madukille ethonnum...	Negative
+1731	1731	randu divasam munne premiier started 🤔 iniyum aaa lucifer record pottikkan saadhichillel vere vellom panik pookunnathu aanu nallath	Negative
+1732	1732	hindi movie newton inte vere version aano 🤔🤔.	Mixed_feelings
+1733	1733	maama vaney  kola  ghaandu lirke  kollaame  vidamaatte      kidukkam   hevi   aittam	Positive
+1734	1734	prithwi raj  00:57    01:01   2:19	unknown_state
+1735	1735	pettayile dialogue aanenn thonnaathavar like adikk mavane kollaame vidamaatte	unknown_state
+1736	1736	malayaali aaya njaan malayaalam sinimayude trailer sabattayittil vechu kaanenda vannallo ente jee!  jee jee jee...jee jee jee	unknown_state
+1737	1737	ithil love reaction button indaarrnneeel njekkittt pottikkaaarrnnn	Positive
+1738	1738	malappuram bhasha sariyaakunnilla.  kilichundanu‍maambazhathinu‍reey   athe shaili.	Negative
+1739	1739	adipoli paatt . keey jeey yesudas voice .	Positive
+1740	1740	enne aarr support cheytho avane njaan support cheyyum	unknown_state
+1741	1741	marana mass lalettan  from tamilnadu	Positive
+1742	1742	achaayan phaans‌ ichaayan phaans‌ onnum allah director moovi aanu thakartthittu undu geethu mohan daas	Positive
+1744	1744	super trailer cinema kandale  bakkie parayan kaziykka llu	Positive
+1745	1745	kujaali marakaar eghanaa shaheedhayad enn arrkenkhilum ariyoooooo	unknown_state
+1746	1746	vineeth-ine ini ella cinemayilum villainmarude dubbing voice aakkumo?? durantham thanne cinemakkare...	unknown_state
+1748	1748	9.6k dislikes from antony perumbavor ( undaya.......)	unknown_state
+1749	1749	0:56 machaan pooliya, budhiyaanu ivante maine	Positive
+1750	1750	entammo ijjati lukk aaa sound modulation 68 aanathre ikkaykku pakaram ikka maathram njaan kannu veykkaathirikkaan maximum sramikkaam enne parayaan pattu... love u mammooka  2020 leeii aadya vedikkettu	Positive
+1751	1751	first show ente koode arokke varum	unknown_state
+1752	1752	aaah kuttide mookuthi aarelum onu kodukko	unknown_state
+1753	1753	ith pwolikkum enn urappullavar like	unknown_state
+1754	1754	hindukallku ivn ravanan muslingalkku ivan ibleees christhianikallkidayil ivn otta perry ollu #lucifer	unknown_state
+1756	1756	salim kumar aake oru second maathre trailer ll ulloo... but....🤩🤩	Positive
+1757	1757	ellavarum marakkuna oraal... murali gopy. .. ... kadhayum thirakadhayumillathe enth padam..	Mixed_feelings
+1758	1758	samgeetham nannayilla, backgrund music pinneyum mikachu nikkunnundu.. nilavaaramillaattha varikalum	Negative
+1759	1759	pettannu ido.... eniku poyitu status idaan ollatha	unknown_state
+1760	1760	hai brozzzzzz ente chaanal onnu nokkuvo   traval aandu vehicle  related  kaaryangal ariyaan  support cheyyoo	unknown_state
+1761	1761	idivattu sugunan avedaaa suraj undo vyshak sir	unknown_state
+1762	1762	sunny chechi fans evide like adichu power kaniku🤣🤣	unknown_state
+1763	1763	ee trailerine kuttam parayunnavar drishyam trailer kudi kand nokkanam.	unknown_state
+1764	1764	kuttan pillayude sivarathri ormavannar like adi	unknown_state
+1765	1765	sensor rprt kitti padam verum koora padam pottum	Negative
+1766	1766	100 kodi clubble athumennu urappulla katta ikka phaans‌ undo...   engil kodukku ekkakkoru like...	unknown_state
+1767	1767	valare achadakkathode cheytha oru trans junder vesham.... eee sinimayile mammookkayude ettavum vithyasthamaaya abhinayam......  allelum ithokke aarodu parayaan....chila aalukalkku aake ariyunnathu meesha pirikkanum munduparichu adikkaanumalle....	Positive
+1768	1768	mammokka kalakki mone ine kanan kidakunnath kandu ariyanam mone	Positive
+1769	1769	immi generation le pillark joshi sir ne ariyyo?	unknown_state
+1770	1770	lalletan fans like adikku . fans power kaaniku	unknown_state
+1771	1771	trailer kollam.... but oru telugu padam pole irikanu... enthayalum oru action packed mass padam aayirikum	Mixed_feelings
+1772	1772	nthu‌ ooo... patado ithu...aamavaadam mammuvinte padamalle..ithra nilavaaram pratheekshicha mathi	Negative
+1773	1773	ippol sinimayil  motham  school  pillerude  premam premam aanu  kaanikkunne.. athinathinu .. pilleru  nashikkuva.. prathyekichum  penkuttikal	Negative
+1774	1774	ingeru enthu cheytaalum kidu aanallo eeswara... enthoru manushyanaano entho !!..	Positive
+1775	1775	trailer vere level anu makkale🤩🤩mammookka uyir...   mamangam_november 21	Positive
+1776	1776	unni mukundan aaa checken chore nuu kaathirikkaanu thudangiyittu coray neram aayi...  irutham kandittu avar aavum eduthathu	unknown_state
+1778	1778	best wishes team  abrahaminte santhathikal	Positive
+1779	1779	ee dislike adichathokkee eethu marappazhaano entho?	Negative
+1780	1780	oru kidukaachi entertainer aakumennu vishwasam....lalettan polichu...	Positive
+1781	1781	1:23  neeyokke koode aaraadhich aaraadhich valarthiyittu‌ allah njaan nadan aayath  ithoru realetic dailouge anaa llo . trailer veendu veendum kaanunnavar like adikke	unknown_state
+1783	1783	exam duty kattu‌ cheythu pooyi kanda first philim	Positive
+1784	1784	ithineokke  trolleyavante  cheppadichupottikkanam	Negative
+1785	1785	1985ile pennungal chattem mundumo ?	unknown_state
+1786	1786	oru pravisam movie kanditt .. veendum kanan poya arelum ondo ..	unknown_state
+1787	1787	0:31  1:36   naila usha superb 1:06 thott ulla bgm.. ento oru nostalgia..	Positive
+1788	1788	ente jeevante jeevanaya ichayoiii niga muthanu kalkkiyeee kalkki	Positive
+1789	1789	aarenkilum oru mukkutthi kodu..... inganeyum paattundakkaam alle	Negative
+1790	1790	padam kandu.. onnum parayaan illa... psyco #a_real_psyco...  ellaavarum polii	Positive
+1791	1791	njan mohanlal fan aanenkilum....... ikka namichu	Positive
+1792	1792	malayaalasinimayude naazhika kallakum mamangam  soong kelkkaanum kaananum kiduvaayittund	Positive
+1793	1793	orumathiri english padangalude trailer pole ayi.padam motham kanichallo	unknown_state
+1794	1794	malayalikalkk idayil evan oru para ullu ťhé ćòmpļèțê âćťóř	Positive
+1795	1795	enikku oru 5 like tharumo changaathikale....................płęåśė	unknown_state
+1796	1796	daivame kidukki joshi saar oru sambhavam thanne aanu ttoo	Positive
+1797	1797	dheerayaya manchuchechiyude dheeramaaya sinama aavumennu pratheekshikkunnu	Positive
+1798	1798	madhuraraaja trailer kandu evide vannavar like🥰🥰🥰🥰	unknown_state
+1799	1799	lucifer rajaudea appan ayyi varum ennu thoonunavar like adeee	unknown_state
+1800	1800	aaa kilavan aakum koche eduthathu.. unni allah eduthathu. daye naanam kettavane aaa kochinte mookkutthi thirichu kodukku	unknown_state
+1801	1801	vishakinte page allade vere onnum kityille subcribe cheyyann...38 k ane adil agge illed...minimum 500 k..vews ille subcribr kitenamayirunnu....	Negative
+1802	1802	enthoru pedikkal aadaa pillere..... release aayappolekkum vannu diss‌like adikkaan maathram ningal cheepp‌ aarunno.	Negative
+1803	1803	dileepettan jailil pokatha oru padavum ippol irangunnillaaa... irangunnathokke super hitum	unknown_state
+1804	1804	tamil fans like here !!!!	unknown_state
+1805	1805	aiwa ippozha enik pattiya padam irangiye	Positive
+1806	1806	ninyokke evade kedanu thallathe theatril poe kanuvode? last dark aanu lag aanu ennoke paranju pottikathiruna mathi  this is not a mass movie plz note dat dnt expect	Negative
+1807	1807	theatre baaki undayal mathiyarunu...ente laletaaaaa....ingal vere level aanu man	Positive
+1808	1808	vesha pakarpp‌kalude mamangam avasaanikkumbol ivide ithaa adutha raavanante azhinjaattam shylock	Positive
+1809	1809	mamookayude padamaayalum lalettan te padamaanenkilum itoru malayalam padamaanu athorkanam nammaku ella industrikaleyum vettichu nammade malayalam industriye unnatangalil ethikanam	Positive
+1810	1810	swaasika kuttikk ellah vidha vijayavum undakatte....	Positive
+1811	1811	eeee paheyente sthaneth..mohanlal annn 70am vayesill eee padem cheythirinnenkill....edukam..pallikatilekh. lal ettane..allenkil dehippikam..	Negative
+1812	1812	mammooka nammale ellavarem pattikuka aan...ingerk praayam 68 onnum alla	unknown_state
+1813	1813	ee kidu remake onnu kandu nokku	unknown_state
+1814	1814	christiani eanu naamam mathramulla -kristhyan samoohathinte adhampathanam.  ellah mathangalum avarude moolyangal samrakshikkumbol, christiani daivatheyum karthaavineyum kaliyaakkiyum , kudichum koothaadiyum pala mathangalil ninnum vivaham kazhichumjeevikkunnathaayi pradarshippikkappedunnu .. nyaayikarikkunnatho karthaavu snehamaanu athukondu enthum aakaam, padanangal vakthamaakunnath 80%  christianic baibil parinjaanam illa.                                                                                                                                                                                                            oru christiani engane jeevikkanamenn baibil parayunno athinu vipareethamaayaanu  oru christianiyude jeevitam. sinimakalum christianiyude jeevita yaadhaarthyamaanu vakthamaakunnathaan,  ennaal paavam christiani ithu  oru mahathvamaayi kondunadakkunnu .     vere oru mathathilullavarum ithupole perumaarilla,  avar onnukil  hinduvo muslimo ayirikkum allengil avar avarude matham vidum, ennaal kristuyani avante mathathil ninnukondu thante daivathe nindikkum.  kristhuvinte  padanangalalk ethiraayi jeevikkum. eaka daivamaaya yahova aaraadhichu vishudha baibil parayunnathum anusarichumaanu oru christiani jeevikkendathu. kristhu aakunnu christianiyude maathruka. mattoru kristhuvaayi jeevikkanam ennartham .    christiani nanma maram akaan vallathe pedaapaadupedunnu. baibil parayunnu anya mathakkaare bahumanikkaan- ninnepole ninte ayalkkaarane snehikkaan. aaa ayalkkaaran oru hinduvo muslimo aarum aakaam ennaal  athinartham anya matha daivangale aaraadhikkaanalla.  oru yadhaartha christiani anya matha daivangale  nindikkaanum vandikkanum paadilla .	unknown_state
+1815	1815	2:50 ishh‌kkil edutha shirt aanallo ..shaine ittirikkunne ...	unknown_state
+1817	1817	nthaa kidney veno..??? soubinkka istham..	unknown_state
+1819	1819	aaradaa paranjathu keralatthil pritviraajinu maathre roles rooy‌shh ullu ennu	unknown_state
+1820	1820	romancham @peak level #lucifer  ejjaathi!!...	Positive
+1821	1821	evideyo oru ratsasan moovi pole  feel cheiyunnu. enthaayaalum kidukkatte..	Mixed_feelings
+1822	1822	ikka teey pillerude power like adichu kaanikku...	unknown_state
+1823	1823	1st	unknown_state
+1824	1824	karikunnam sixersile surajettane pole ayirikkum aju varghees ennu thonniyavar like adi	unknown_state
+1825	1825	nammal innu ee cinema kandu. narthe njan lallettean fan ayirunnu ippol njan mammooty fan ayi	unknown_state
+1826	1826	kurachu vaiki pooyi job aavisyathinu purathu poyathaayirunnu teaser	unknown_state
+1827	1827	kannodu chollanu kannodu chollana (ennu‌ ninte moiteen )faim aaa songinte cheria touch thonniyavar aarokke	Mixed_feelings
+1828	1828	proud to be a malayaali nice movies aanu ippol erangunne	Positive
+1829	1829	romancham katta waiting for mamangam day november 21	Positive
+1830	1830	shylock thiyyattaril pooyi kaanum ennu urappu ullavar like adii	unknown_state
+1832	1832	vallappozhum maathrame ikka dance cheyyoo.. cheytaal pinne hitt akkiyitte povu.. nadanam ..	Positive
+1833	1833	dileep aattanenu ithe aganaya ithepole variety filim okke kittunnee shoo cheyyunna alla padavum different ee xmas pwolikkum	Positive
+1834	1834	oru nimisham santosh‌ panditt nte paattaanenn karuthippoyi	Negative
+1835	1835	my santa  christumous dinangal manoharamakkaan athikkazhinju all the best entire team in my santa	Positive
+1836	1836	enthuvaade ithu . ithano dance? kamaladalathile ettane nokk entha dance enn ariyan.	Negative
+1838	1838	ithoke kand padikate ipalatha cheelu chekamaaru	unknown_state
+1839	1839	theatarukalil chiripooram theerkaan laalettante ittimaani varunu oru pakka entertainment movie aanenu urapullavar like	unknown_state
+1842	1842	allah ath nammade bilal ikka alle	unknown_state
+1843	1843	padam onnil kooduthal kandavar like plus	unknown_state
+1844	1844	596 civil um elctrcl um kuru pottalz... avmr dddddjj irakkiyaal nmll puuuuuuuli irakkum...	Negative
+1845	1845	veendum veendum kaanan verunavar undel like cheyan bony paranju	unknown_state
+1846	1846	eee sinama vijayikkaan oru pereyullu  joshi	Positive
+1847	1847	ikka polichu movie si mani sir	Positive
+1848	1848	mammookkaaaa love uuuuu ingal poliyanuuuuuu 68 alla ingakk  34 aanuuuuuu	Positive
+1849	1849	ohh avasathe aa idi.....how bhallaatha jaadhi...	unknown_state
+1850	1850	3 million viewers hit like lalettan fans	unknown_state
+1851	1851	repeat modilit kelkkaan pattiya oru paatt ......kidu...	Positive
+1852	1852	cia ile matte police chettan alle aa transgender ayittu dance cheyyunath	unknown_state
+1854	1854	0:56 shedic enthelum pattiyaal njangalum aarum puramlokam kaanikkarilla saare..	unknown_state
+1855	1855	thrissur slang ennu paranjittu ithenthoottu slang?	Negative
+1856	1856	nivin ithra gambheeram akkum ennu pratheekshichilla !!!	Positive
+1857	1857	mamangam  industory hitt‌ aakum ennu urappullavar like‌  adii	unknown_state
+1858	1858	enthu nalla song.. what a feel...   evide aayirunnu ithrayum naal	Positive
+1859	1859	eee songinu aano avanmaar kaliyaakkiyath  kurachu uluppu vaanam	Negative
+1860	1860	appol newyarinu nammal padakkam vaanganda ivaru potticholum ennu churukkam	Negative
+1861	1861	mone romanjam enn parannal ithokke aaan......🤓....mass venam enn parannavarude annakkilekk.....ikkaaaaa	Positive
+1862	1862	eee vishu ettan aganu konduvaa ennu parayan paranju!!!!!!	Positive
+1863	1863	helmet annu pere vachirunegil kooduthal hype kittumayirunnu  license ellangilum kozhapamila helmet ellangil laathi eriyum mone	unknown_state
+1864	1864	ithu moothonte trailer thanneyalle ennu back adichu nokkiyavar undo???	unknown_state
+1865	1865	ipo 10 vattam kandu yennittum madhiyavunnilla romanjifikshan ikka	Positive
+1866	1866	voice kollillaaaa..... charithra cinemal ingalk pattilaaaa... .....	Negative
+1867	1867	super mammoookkkaaa... ....   oru lalettan bhakthan..	Positive
+1868	1868	ennaloo poothiri nal makam piranna .... enna songite athe eenam	Mixed_feelings
+1869	1869	ennalum ente mammookkaaaa.. ningayokke enna poliyaan.....ningaleyallathe mattareyum ividonnum sangalppikkan polum pattilla..	Positive
+1870	1870	sinima ithuvare kaanaathe trailer maathram kandirikkunnavar like adii	unknown_state
+1871	1871	paattinte avasanam entho oru dark scene manakkunnu	unknown_state
+1872	1872	shylok teser ejjathi ithe atrakke anghatte pora but randd padavum naanvum mass	Mixed_feelings
+1873	1873	fairman oorma vannath enikk matramano	unknown_state
+1874	1874	valiya kuzhapam ila baki screen il	Mixed_feelings
+1875	1875	tanthakk vilichathaarkkollu ... pakshe chainees aayathkond kekkaan russent ..	unknown_state
+1876	1876	tray‌larr kazhinjappo thanne oru sinima kanda pheel	unknown_state
+1877	1877	anaayaasathode eathu veshavum valare eesi aayi  abhinayichu aaswadakare  thrasippicha abhinaya chakravarty yaaya lalettan ippo ithupole ulla vesham cheyyaan valare budhimuttunnathaayianu kaanunnath..	Positive
+1878	1878	evergreen superhit film of munjuchechii,munju chechii polii film kalakee	Positive
+1879	1879	kyapttan jacq sparo yude viidiyoo vechaano kalikkunnathu vallathe mandan aakkalle	Negative
+1880	1880	karikk version of ee jathikka thottam	unknown_state
+1881	1881	oru katta mammookka phaan aaya njaan mukkutthi enna gaanam ningal eavareyum pole thanne kaathirunna kanda gaanamaan. pinnale kure faansukaarude karachilum kettu .mukkutthi avide kandilla . ivide eduthu ,ellaam paranjukondu .. oru looad puchham vaarivithari kondu oru kaaryam ningalude oormmayilekku dharippikkan aayitt aagrahikkukayaan. kaaranam ningal ethra perr mookkutthi enna kalaaroopathekkurichu kettirikkum ennariyilla .angane oru kalaaroopam ivide undaayirunnu .kurachukoodi eluppathil paranjaal aaa kalaaroopathinu oru modified roopamaan innathe mohaniyaattam. churukki paranjaal annathe kaalatthe baar dance thulyamaaya oru kalaaroopamaayirunnu mookkutthi. nritham cheiyunna nirtthaki ente mukkutthi poyennu parayunnu. avide madyapichu kondirikkunnavarude aduthu pooyi nokkunnu .avarude dressukal maatti nokkunnu .ithaayirunnu annathe kalaaroopathinte hailait. anyam ninnu pookumaayirunna aaa mookkutthi enna kalaaroopathe vallathol thirichu pidikkaan shramichu . athinte bhagamaayaanu mohiniyaattam roopamkollunnathu polum. onnu aalochikkendathu eee sinimayude bhagamaayi varunna oru paattil ethratholam patanam nadathiyathinu sheshamayirikkum aaa mookkutthi enna kalaaroopathe thirichu konduvaraan sramichurikkuka. enthaayaalum orupaadu abhimaanam thonnunnu .orupaadu pratheekshayum.. iniyum mookkutthi poye, mookkutthi kandilla ennu parayunnavarodu onne parayaanulloo. chemmeen chaadiyal muttolam pinnem chaadiyal chattiyolam	Positive
+1883	1883	jeyettan massa  kola mass  ennelum onnu kananm nnud	Positive
+1884	1884	indian sinimayude thaara chakravarty...! itihaasa tharam mega staar...mammootty...orungi kazhinju chaaverinte  maamaankathinaayu ...!!!	Positive
+1885	1885	trileril ulla 16 seen polum padathil illa ennullathane sthyam	unknown_state
+1886	1886	1:59 ethra perr shradhichu fahad ekkede trending aakaan poona meme	unknown_state
+1887	1887	6.3 dislike veru verupp athanne karanam	Negative
+1888	1888	enthu tholinja bgm  aanu gopi chettoy. . . !!	Negative
+1889	1889	ithil laast ulla santa english song eathaanennu ariyuo	unknown_state
+1890	1890	iniyum malayalam industrial kidannu vilayadi pulaykkum nammade ikka	Positive
+1891	1891	ikka fans power, like botton parayum	unknown_state
+1892	1892	prithvirajnte movie alle...appol aa oru standard prathikeshikam.... trailer kalakki	Positive
+1893	1893	oru muttanu‍ script umm, koottanu‍ team umm aayittaan alle varavu!!!! ticket edukkaanu‍ ulla cash trailer kandappozhe maattivechu.	Positive
+1894	1894	as 15k dislike itavarod aranenokke mansilayi oru choddyam       nanam undo	Negative
+1895	1895	adipwoli comedy trailer aane ettaaa  ittichaayan	Positive
+1896	1896	eee paatt aadyam kettappo valia attraction thonniyilla innu aaroo play cheythathu kettappo entho oru manoharita thonni	Positive
+1897	1897	malayaalathinte maanikyam in and as ittimaani	Positive
+1898	1898	inganeyoru paatt undaakkiya neram rund vaazha nattirunnengil vaazhakkulayenkilum vettaamaayirunnu shettanmaare	Negative
+1899	1899	oru mookkutthi kaanaathathinu enthu maathram prashnangal ... danz pattum okke ndallo	unknown_state
+1900	1900	mass trailer	Positive
+1901	1901	midhun manuel ..  ith polikkun	Positive
+1902	1902	ohh damn trollaar adutha psycho ye pokki	unknown_state
+1903	1903	mammookka oru muzhuneela paattil dance kalichu kandathil santhoshamundu.. kurachu bhangikedaayi thonnunnuvenkilum kathayude sahacharyam thettuparayan kazhiyunnilla.. kurachu poraaymakal maatti nirtthiyaal oru mikacha chithram.. dee grade cheiyunnathu valare mosham	Positive
+1904	1904	ithu ittimaanikku neeraaliyil undaaya aittam	unknown_state
+1905	1905	ellaathinum pinnil poovan kozhi thanne	unknown_state
+1906	1906	mwone eth kali veraya🤙mamagaam vera lvl massmarikam	Positive
+1907	1907	mmmm  athum  theerumanam aaayi...	unknown_state
+1908	1908	ithine okke anu trailer ennu parayunnathu	Positive
+1909	1909	edutha vecchathu   nokki  vaayikkunna   pole  undu    dialoges...very  bad    trailer.	Negative
+1910	1910	7m subcribesundayittum 3.9m views 5m yethikku plz kandavar onnum kudi kaanuga	unknown_state
+1911	1911	malayaalathil puthiya trending aakaan sadhyatha ulla oru kola kolli aittam.....	Positive
+1912	1912	p k ramdas enna vanmaram vinu pagaram aru...athanu chodiyam?	unknown_state
+1913	1913	65 k like‌ 16 k view hangayi	unknown_state
+1914	1914	charithram onnum parayanda mammunniyalle ella malayalikalkkumariyam kuninjoru paniyum cheyyathillennu	Negative
+1915	1915	njaan ithuvare malayala sinimayil ingane oru trailer kandittilla	Positive
+1916	1916	alelum immade jayettane pettu thrissur slang pedakan  aledaaaaa gedyoolleeee🤘🤘🤘🤘	Positive
+1917	1917	super manju chechi your one an ony lady super star in malayalam	Positive
+1918	1918	oru komadi entertainment vendi ticket edutho	Positive
+1919	1919	itthu pokkiri rajaude athava pulimurguan ennte 2 aam baagamo.	Mixed_feelings
+1920	1920	padam  thoottippovum ennurappullavan lychico kaaranam teaser poraa	Negative
+1921	1921	oru poli polikum 21n ......pooram kanan chry abhinaya ......ang por	Positive
+1922	1922	padam pottum ennu thonniyavar like	Negative
+1923	1923	aarum kaana hridhyatharamathil uriki naamathil.......my fav,,	Positive
+1924	1924	enikku maathram aano eee trailer kandittu laila ooo laila aayi thonniyathu veendum oru laila ooo laila  aakumennu thonniyathu.. ningalkkum thonniyengil adii like	Mixed_feelings
+1926	1926	e padathil elllavarum und but pottiyal ellam pogum....... appurath yama dan kadha verunnund madhura raajayum ethayalum all the best	Mixed_feelings
+1927	1927	polii padam 🤩  maheshinte prathikaaratthile villane penveshatthil kandavar like adikku	Positive
+1928	1928	bahubali , keey jii eph , saaho, saye raa, ennee  chithrangalude audiyo rairu‌shh vangiya t series aadyamaayi oru malayaala sinimayude audiyo rairu‌shh svanthamaakkiyirunnu          ithu charitra mamangam   aadya soong innu ratri 9 manikk	Positive
+1929	1929	unni mukundan ishtam mammookka ishtam.... pakshe eee paatt valare disappointing ayippoyi....	Negative
+1930	1930	manjuvinte super dialogue answeshichu nadannavarku venduvolam ivide undu...	Positive
+1931	1931	dislike adichavarokke  ith okke kanditt engane dislike adikkaan saadhikunnu uvve	unknown_state
+1932	1932	ethu njan etho english cinemayil kanditundu.... peru ormayilla.	unknown_state
+1933	1933	ithil mammukka guest roll aanenn ethre perkk ariyaam	unknown_state
+1934	1934	100 % sure pakka famali entertiner 🤩🤩🤩🤟	Positive
+1935	1935	new face of megastar  villante chiri	Positive
+1936	1936	chechi takarkkum  mohanlal faansinte vaka adipoli ashamsakal	Positive
+1937	1937	trending #1 ennu chaanal svayam prakhyaapichirikkunnu suhruthukkale aahladhippin	unknown_state
+1938	1938	ettan fans like adiii..	unknown_state
+1939	1939	ee cinema kand kazhinj..... ithinte second part aagrahikunavar like and comment	unknown_state
+1940	1940	song kettum...kandum...kili poyavar like adiche... ente ponno entha feel.. oru rakshayum illa.. sushin shyam... maraka beats.. picture perfect.. each frame... kumbalangi nights alla.. its kumbalangi whole day... aaarum... kaanaa.. hridhayatharamathil uruki... namanarum.. kelkkaa.. pranayajalakadha palavuru thudarumo.... ente ponooo... kili parakuneeee... repeat mode on..	Positive
+1941	1941	eppium  single  aayi  nadakunavar adichittu  poona  like	unknown_state
+1942	1942	ente ponno malayalam rakshasan loading	Positive
+1943	1943	paadi nadakkaathe pooyi mookkutthi anweshichu vaadi	unknown_state
+1944	1944	padam kandu... mammokka guest aanenkilum puthya piller pwolich ... pina action fighting stunts okke vera level eenu	Positive
+1946	1946	l undengil driving mathramalla enthinnum pattum janangakku ennu manasilakendi irikkunnu	unknown_state
+1947	1947	dileepetan cinemeyilum yadartha jividhatilum vijayikum.all the best dileepetta	Positive
+1948	1948	ravle 7.30.k eneete pade repeat adich kanunnavark othukoodanulla sthalam	Positive
+1949	1949	christian brothers part 2 aano atoo abrahaminte santatikal copy adi aano ini igne okke pidich nikaan pattu	Negative
+1950	1950	daa avaluda mookuthi aarankilum kandittundankil yaduth kodthaar	unknown_state
+1951	1951	it’s amazing vere onnum parayan illa	Positive
+1952	1952	njan lalettan fan aaanu. athukondu thanne parayua. comment adichu nammal odiyan aaakinmattanda. padam kudu aaavum. coz this is mohanlal	Positive
+1953	1953	eee praayatthilum ennaa oru energia.... hoow  ...... 🤩🥰🤩🤩	Positive
+1954	1954	support cheyyan lalettan fans undoo ivide ????	unknown_state
+1955	1955	oru phaan maid triler pole thonniyathu enikki mathramaano	unknown_state
+1956	1956	lufier trailer kandu odiyan kandavar undo	unknown_state
+1957	1957	eee philim vann vijayam aakatte...    trailer polichu... 100 %  hollywood philim pole.....	Positive
+1958	1958	failure anu nalla mammokka movie kandu varashangal ayi....	Negative
+1959	1959	singam model oru kidilan action movie aakatte.....	Positive

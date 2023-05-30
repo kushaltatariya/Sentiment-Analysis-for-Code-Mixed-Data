@@ -1,0 +1,657 @@
+	Unnamed: 0	Sentence	Label
+0	0	all hands up nand one like	unknown_state
+1	1	@psushilshankar ent.	unknown_state
+2	2	@bhimrao naik appu fans support all kannada films	unknown_state
+3	3	sum sumne andre🤔	Mixed_feelings
+4	4	brother nange kanniranna control madlikke agalilla... nanage nanna ammana nenapu kadtide... jotege idu out of feeling..	Negative
+5	5	signature stepge kaasu....adakkentha theatre hogthini...	Positive
+6	6	best song super nam boss movie e sala havli namde	Positive
+7	7	my boss anna  yash boss anna  yash boss anna	Mixed_feelings
+8	8	abbbabbabababababa . . dhoolu guru.. gooli bantu	Negative
+10	10	suuper  surr	Positive
+11	11	hindi elitha handig uttad hadbi nan magne	Negative
+12	12	chandan shetty troll video neevu nodi negadde idre naav guarantee	Positive
+13	13	anna yav kaaldall iddira.2020 agutte next..joke madbedi	Negative
+16	16	idu charitre srushtiyo avatara...	Positive
+19	19	@sharath sharu yako sule magne sumne eroke agalva	Negative
+20	20	whitefield nalli yav theatre nallu hakalla kachada nanmaklu nodoke	Negative
+22	22	bro yav game	Mixed_feelings
+23	23	@10 r nim amman/akkan bagge baidna loude... suvar gandu andre neenu adkke baide... ella nim dbabes thara ne	Negative
+24	24	those 1.2k dislikes are jealous kongas for sure🤣	Negative
+25	25	rakshit shettiyavaru eradane kannadada kanasugaara	Positive
+26	26	nijwaglu idare antha nambake agta illaaa	Mixed_feelings
+28	28	best song i have heard after belagenddu	Positive
+29	29	ee haadu ontharaslow poison idda haage	Mixed_feelings
+30	30	chandan shetty troll video neevu nodi negadde idre naav guarantee	Positive
+31	31	suuper trailer all dhii best frum dii baas fyaan.  jaii dii baas	Positive
+32	32	yash boss did it	Mixed_feelings
+33	33	nija bro  urkolli bidi.	Negative
+34	34	bahala curiosity iro haagide chitravannu nodalu kataradinda kayuttiddene	Positive
+35	35	kannada chitrarangada deferent huli	Positive
+36	36	sundara kalpaneya haasya prasangagalu.ndaa. shambhu baligarara helugaarike janamechchuvanthaddu.	Positive
+37	37	kitcha sudeep abhimaanigalu vatiyinda  all the best	Positive
+38	38	sari guru nan rc nodod irli ninu illi bandiro cmnts nodu ninge gotthagutthe	Negative
+39	39	div movie nodi thumba kushi aithu yakandre hen maklu jevanke atharavada movie thumba adbuthavagithu dia ond  sala nodidini bt  nange e movie na mathe mathe nodbeku anthasuthe. nanganthu yala movie ista bt  dia thumba special yakae hege antha helodik agthila asta aithu sundravada love thai preethi  2 hero's  obrg ibru kami illa dia nodvag kushi aithu prithi helthare anvaga kalkondru mathe bere  sambanda besadaga hale prethinali priiithi india duragi mathe bandy mathe kalkonda aa  ondu nimsha jeva kaldoithu bt  gene idru i love dia	Positive
+42	42	yarella ee saang annu dinaaloo keluttiri... 🤔	Positive
+43	43	dayawittu nanna sandesha nodta iro ellah sahitya barahagaararige dodda vinanti.. saahityana achcha kannadadalli bareyiri ide tharaa dayawittu	Positive
+44	44	hats of shankar ashvath sir.nimma e swabimaanada jeevana sukakarawaagi saagali.	Positive
+45	45	yenu!¿ taayganda na neenu? !!	Mixed_feelings
+47	47	yava game bro edu	Mixed_feelings
+48	48	shrinidhi surya avru idre chanagirutte	Mixed_feelings
+50	50	chandan shetty troll video neevu nodi negadde idre naav guarantee	Positive
+51	51	music antu supperrrr surr nimage handsap	Positive
+52	52	satyana edu devare	Positive
+53	53	lo guys dislike madidhiralla enn yengrappa song madbeku antha swalpa heldrappa	Negative
+54	54	nimma‌ ee maahitige dhanyavaada surr.. naavu saamaanya jana‌ just video nodkondu‌ india bagge yochane‌ maadidru adhu‌ upayoga aagalla ee mahiti kelavondu vargada‌ janarige manamuttuvante agbeku‌ aaga enaadru change agabahudeno gottilla..	Positive
+56	56	daily  nodoru like madi	unknown_state
+57	57	@virat sachin tika yak urkolona swami... swalpa naga bantu.. nakde... tale mele yard hodidu buddi helona ankondde..	Negative
+58	58	@navya n ya your right but i like him	unknown_state
+59	59	dia  u khushi	Positive
+60	60	yavaga release agutte shetre	Positive
+61	61	bro troll sakkattagi madtira...	Positive
+63	63	diya kannadada ondu sundara prema kathe...bhaavanaatmaka chitra..hosa natanatiyara chitra adenu nododu swaabhaavika aadare aatarada abhiprayavannu sullu maadida chitra.....dodda dodda starr natara chitrakke  katenillade baari buildup chitra irutte....diya chitra nodi kannadakke...hosa natarige bennu tatti proothsaahisi.....best acting ide best kathe ide... neevu ee chitra nodida nantara ondishtu hosa reetiya anubhavavannu padeyuviri....	Positive
+64	64	@mahantesh goudar modalu kannadavannu sariyagi type maaduvudannu kaliri aamele dharmada upadesha maadi plzzzzzz	Negative
+65	65	togari tippa bhaaga 2 apploada madiri	Positive
+66	66	rashmika & vijay deverkonda haters like here	Negative
+67	67	ajanish loknath en music kottiddiya guru chindi	Negative
+68	68	@troll monster_kannada lai dagar fansu jaggu dada flop u kurukshetra flopu tarak flop u	Negative
+69	69	u r a real indian i am full support to kannada..n.nkarnataka	Positive
+70	70	sar nim len nodida mele nim nija madthbeku sar plz call madi	Mixed_feelings
+71	71	guru ninge naanu dodda fan	Positive
+73	73	rip for 1.8dislikers devaru nimma atmakke shanti kodli	Negative
+74	74	surr neevu tumba chennagi artha madsidiri aadre neevu burry raajakeeyadde 24 gante toristhiree....avaranna bittu namm deshada  raitara bagge yodhara bagge  tantragyaana mukhaantara namm desha uttama gollabeku adanna dinaalu torsi  aaga maatra namm janagalu baadlaagtaare...	Positive
+75	75	super guru hinmele  nanu nimmn abimani guru	Positive
+76	76	eno anna dool ebsi bitti alla comment boxnalli	Negative
+77	77	bigg boss allu avane srimanarayna	Mixed_feelings
+79	79	ega ha ashvathama ellidhane	unknown_state
+80	80	nan yavathu youtube video na like kuda madila but comment madidini so.....	Positive
+82	82	suuuuuuuuuuuuuuprb bro waiting next video bro	Positive
+83	83	yav game idu	Mixed_feelings
+84	84	superhit different kannada movie super super super	Positive
+85	85	hindi.  ?	unknown_state
+86	86	bro your playing game name	Mixed_feelings
+87	87	kichcha boss fans	Mixed_feelings
+88	88	modi modi nyes papanbanning tik tok nno papan58 apps nhahaaaaaaa🤣	Mixed_feelings
+89	89	thumbha olleya mahiti anna. dhanyavaadagalu.	Positive
+90	90	guru nim voice nim creativity dailogs galu suuuuuuuuuuuuuuuuuuuuuuuuuper	Positive
+91	91	super song .......but movie realise agi 1 week adamele bidabekithu.......	Negative
+92	92	basavaraj  badiger	Positive
+93	93	chandan shetty troll video neevu nodi negadde idre naav guarantee	Positive
+94	94	@sachin mankar hu bro	Mixed_feelings
+96	96	guru sure news nanu tik tok dawn lod madeda yavaga nama ndudu tindu nama dashda mala uddha madaka bandro avaga deleted	Positive
+97	97	bindu gowda lofer avlu	Negative
+98	98	hugi guru badethawke	Negative
+99	99	teugari tippa suuper guru	Positive
+100	100	@ŕävîñđŕå_02_gøwđřú neenu beedhi soole maga.... neene bandu keliddu.... nan paadig naan comment maadidde.... oh neev italy yavru alva lowdre.....?	Negative
+101	101	most liked song in kfi.	unknown_state
+102	102	yaryaru keyta iddira ondu laika maadi 🤣	Mixed_feelings
+103	103	usefull tq amar prasad	Positive
+105	105	karnataka janeteinda all the best movie ge olledagali🥰🥰	Positive
+106	106	give me ur mail address	unknown_state
+107	107	raama raama tusu daksha vrupa jaripa	unknown_state
+108	108	kannada industry dhool....	Negative
+109	109	nijavaglu tumba olle philm  tumba ishta aayitu	Positive
+110	110	nindu brow nijavaada talent andre	Positive
+111	111	nkn  benki   song guru	Positive
+112	112	@troll monster_kannada loow bolike	Negative
+113	113	khushi tumba novavitamma. naija natane nanage ninna nodi tumba attubitte.	Positive
+114	114	so super song yaa	Positive
+116	116	taayi chamundeshwari krupe nimma mele ide surr	Positive
+117	117	matte teaterge akrinintaha cinemana belisona	Mixed_feelings
+118	118	re relice agbeku	Positive
+119	119	amazing  song gudluk to alla team ..super vp sir	Positive
+120	120	hands up to vijaya prakash sirr	Positive
+121	121	@shashikala b howda mam enge	Negative
+122	122	chandan shetty troll video neevu nodi negadde idre naav guarantee	Positive
+123	123	full rada rada macha henge navu	Positive
+124	124	nice song sri super  superhit	Positive
+128	128	yaaru dodda mattadalli beleyuttaare avarannu pakshakke seruvante ottaya maadudu pakshakke seradiddare aiti idee raid maadisudu avarige bere daari tochade atmahatye maadudu	Mixed_feelings
+129	129	nan maga ge lali song wake up song ella  nu e song agide	Negative
+130	130	yaavude holloywood mattakkoo kammi illadante bandiruva haadu mattu cinema ge ondu hands up	Positive
+131	131	helodannu kadime madu antialla desha uddarane	Negative
+132	132	guru idannu madhyamadavaru sare hiddiro drashya idre haaku guru.	Mixed_feelings
+133	133	sandle wood naa hosa avataaranshree mannarayana yashasviyagalinkitcha sudeep seenaa nalatwadanvijaypur jille	Positive
+137	137	yavalo bindu gowda avulu thu.......... nan ke................	Negative
+138	138	sakkattaagide ... rock kannada rock...	Positive
+139	139	naanu nodida  suuper movie hridaya muttida cinema baavaneya cinema love uu diya	Positive
+140	140	dia name meaning yenu	unknown_state
+141	141	trailer ultimate ...  cinemanoo chennagirabahudu juntle myaan chitratandakke olleyadaagali... #prajwal devaraj.  look super 🤩🤩	Positive
+142	142	nijavagiyoo nimma maatu spoorti ..nimage olleyadu aagali...	Positive
+143	143	bahala channagi moodie bandadda	Positive
+144	144	achcha kannada balasi svachchavaagi sundara haadannu nirmisida barahagaararige abhinandanegalu	Positive
+145	145	namma family jote  ee cinemavannu tappade nodtive.	Positive
+147	147	ree nimma tandeyannu nenedu neevu mosale kanneeru hakuttira	Negative
+148	148	tq kano	unknown_state
+149	149	full news jaldi bidri	Positive
+150	150	ond kick ide song nalli	Positive
+151	151	@troll monster_kannada nin yavano helake sule magane	Negative
+152	152	startup start maadalu capacity growth maadalu tips kodi . ondu separate video maadi .pls	Positive
+153	153	@#win 12  sir dia movie super..rumba feel aythu sir.movie nodi.yake entahaha  movie nodi naam janane  belstila..	Positive
+154	154	vijay prakash avara dwani narayananige heli maadisidantide..	Positive
+155	155	one like for music	unknown_state
+157	157	appu boss fans nlike madi	Positive
+158	158	suuper story kannada savira	Positive
+159	159	super movie i like so much	Positive
+160	160	guru nin modalu pabji delete maadu aamele bereyavarige helu.	Negative
+161	161	super movie 100 days	unknown_state
+162	162	hattu varsha strict  president rule barabeku.	Mixed_feelings
+163	163	sir gottu sir ee video maadi 1vaara aagide adunna modlu nodi sir	Positive
+165	165	@jagadish g dambal	unknown_state
+166	166	nivu like goskara tiktok ge hogi idannella collect maadkondidira thane.niv  e video maadide full thappu .bcz nivu publisity goskare insta dalli follow maadi antha ella maathadthidira.matte avaru yella helidu thappu annodadre niv thumba bad words use maadidu thappe.	Negative
+167	167	v p sir fan's like here	Mixed_feelings
+169	169	nammanegu bandidru selfi thago bekonstralli hogbitru	Positive
+171	171	@troll monster_kannada loow beedi soole magane..... ninge ashtu takat idre.... neenu obne appanige huttidre..... neen helo nin tunne ninge gattige nintidre.... nun address kodtini baaro.... parthasarathy	Negative
+172	172	@naveen v  looo thikamuchkondu hogi nim balegara sudeep helu bari kannada movei thegiyokke mangdhulle	Negative
+173	173	sakathagi ide mare	Positive
+174	174	aata barutta allah	Mixed_feelings
+175	175	pmt andre yavdu?	unknown_state
+176	176	nice comment bro!!!	Positive
+177	177	agithu parichaya youtube nalli....nsneha suruvaythu whatsapp nalli....nmundu varida adhyaya...!	Negative
+178	178	bro nanage tumba bejar agide namm sainikar savinind .china davargi buddi kalsek bro ..	Positive
+179	179	super togari tippa	Positive
+182	182	nodta hodre saviraru lyrical video galu	Mixed_feelings
+184	184	avaru badlagabeku ivara badlagabeku annodu tappu modlu nav badlagbeku ekandre vote hakori nave matte avara gedda mele avaranna baioru nave nija ansidre like madi	Positive
+185	185	suuper hitt sangs	Positive
+186	186	tande yante maga kooda swabhimaani mattu swavalambhi jeevana nadesuthiddare.hats off sir.	Positive
+188	188	swabhimana  mukha  allie eddu kaanuttide nijakkoo grate surr surr olle dina bandebaratte  surr	Positive
+189	189	ee haadu spotify dalli yaake illa	Negative
+190	190	nimge olledagli sir god bless you sir	Positive
+191	191	ellah nambike ashte..	Negative
+192	192	idu charitre srushtiso avataara kannada chitrarangakke rakshit shetty  sangeeta nirdeshana super mattondu block buster chitra barta ide	Positive
+194	194	like thalapathy vijay fans	unknown_state
+196	196	@cockpit cock allavuddin mayadeepa annodu arabian nights stories nalli baruva kaalpanika kathe deepa ujjidare bhootha bandhu ella kelasa maaduthve allavuddin khilji alla	Mixed_feelings
+197	197	ashwatama ge hindi barutte yenri	Mixed_feelings
+198	198	very nice togari tippa stori	Positive
+199	199	boss nin vedio na use madkola roposo nalli post madtini pls bro	Positive
+200	200	tumbu hrudayada shubhashayagalu kannada chitrarangada abhimaanigalinda	Positive
+201	201	chitratandada kaarya adbutavagide.nkannadada meru chitragala saalinalli ee diya chitra nillalide.nellah nataru tamma patrakke jivatumbiddaare.	Positive
+202	202	thank you sir	Positive
+203	203	nanagu same hange annistu	Mixed_feelings
+204	204	liked it !! thanks god no drinking songs anymore in kannada	Mixed_feelings
+205	205	togari tippa nataka olleya hasyamaya nataka	Positive
+206	206	wt a song	Mixed_feelings
+207	207	chutiyaa ganesh gintaa olle movie irutthe bidu guru idu. ganesh ge olle swamake maadoke helu modlu	Negative
+208	208	full kdk	unknown_state
+209	209	howdu huliya	unknown_state
+211	211	super jai kanadiga	Positive
+212	212	innu ide avrige bro super roast	Negative
+214	214	enu baitira guruve	Negative
+215	215	bhal varshada nantra keli tumba khushiyatu..	Positive
+216	216	@ŕävîñđŕå_02_gøwđřú nee gandsa allah beedu	Negative
+217	217	kannadada hemmeya asn filme annoru like madi	Positive
+218	218	prajwal devraj is back	unknown_state
+219	219	song na status ittiroru like madrappa	Positive
+220	220	hanumagowda.k kalikeri h	Positive
+221	221	suuper anna neenu	Positive
+222	222	@prasad hegde elli dull ide	unknown_state
+223	223	super song.  .....sir	Positive
+224	224	modijji avrige gothu aste gothu soldiers value	Positive
+225	225	rakshit macha time togondrunu sakath agi bandide	Positive
+226	226	ean dailag guru	Mixed_feelings
+227	227	nice togari tippa	Positive
+228	228	kannada films going next level	Positive
+229	229	yen huru helidiri super	Positive
+230	230	tiktok ban agirodrida tiktok madtidrala avr family avrig kushi agirute tumba deena ivr mada nodi sakagitu	Negative
+231	231	kayakave kailasa emba tatvavannu palisuttiruva kaliyugada manushya mattu sir naanu nimma tande k s ashwatth surr avara abhimani	Positive
+232	232	gud pair praju & nishvika..	Positive
+233	233	diya adbhuta chitra! nanna prakaara yaake ee chitra cinemaadalli odillaa anta nanna anisike  heluttene	Positive
+234	234	i love aadi	Positive
+235	235	@yash cult guru ellaa heroes andru yash na yaakappa bidtiyaa!? example santu straight forward	Negative
+236	236	rashmika n her fans	unknown_state
+237	237	@naveen v nin amman thullu sulemagne	Negative
+238	238	anna en mast helde 100 plzzz innu innu publish madi thukali tiktok ge end sigli	Negative
+239	239	chandan shetty troll video neevu nodi negadde idre naav guarantee	Positive
+242	242	chennagi ugidira sara	Negative
+243	243	mastt ag helidna guru	Positive
+244	244	kirack kingnsuuper dooper	Positive
+245	245	urko sanvi dagar rashmika...	Negative
+246	246	dada fans    kadeyinda  alla dha  best	Positive
+247	247	bindu gowda ge sariyyagi batthi itree sir ..super sir neevu	Negative
+248	248	super roast but e pubg vedios yake sink madi roast madtira. change madi	unknown_state
+249	249	dayawittu bidugade dinankavannu heli	Negative
+250	250	chandan shetty troll video neevu nodi negadde idre naav guarantee	Positive
+251	251	s sir niv helid not ja	Positive
+252	252	bro nanu tik tok install madidde..onde dinakke uninstall madde....matte tik tok sahavasakke hogilla...allinda tik tok agu hogugalanna troll video dalle nodi njoy madta idini....super bro...🤣🤣🤣🤣	Positive
+253	253	ashoke avaru kannadada christopher nolan....	Positive
+255	255	tiktok madorena chinese ge kalse beku	Negative
+256	256	ha sanchari vijay waiting to see him	Positive
+257	257	ban maadirodakke tumba thanks matte ee tara aap barde irali	Mixed_feelings
+258	258	amazing movie	Positive
+259	259	master piece movie	Positive
+260	260	sir mandya dalli tirga nodakke hodre tagdebittidare	Positive
+261	261	bgm super ide shetray	Positive
+262	262	woww 300k + likes	Positive
+264	264	god bless prajju sir	Positive
+265	265	china para mat adoru china ke kalsbek bolimaklu	Negative
+266	266	bro nimgenu thale kettidiya film release agde video song bittidiralla  yella hal madkothira idunnella bittu channag promotions madi bere languages nalli	Negative
+267	267	very nice very very super	Positive
+268	268	full benki video	Positive
+269	269	@nandi parthasarathi nindu naayi tullu	Mixed_feelings
+271	271	suuper bro... nan idu vargu tik tok app install made illa	Positive
+272	272	bhahal channagi ide	Positive
+273	273	togari. tippa. super	Positive
+274	274	@ranjith think madirlilla	unknown_state
+275	275	ellindano kaddiro haagide...🤔🤔	Negative
+276	276	abhinaya chakravarty kitcha sudeep avara kadeyinda.. all tha best movi	Positive
+278	278	kirik party boys	unknown_state
+279	279	chandan shetty troll video neevu nodi negadde idre naav guarantee	Positive
+280	280	vivek bindra avra hindi version na kannadal helidake nimge danyavadaglu sir....	Positive
+281	281	#avanesrimannarayana #handsup song last alli fork esiyodu sanvi anustte	unknown_state
+282	282	movie good but climax .i cried	Mixed_feelings
+283	283	sara super nivu holleya kalaviddaru sara nivu nuraru varusa chanagiri	Positive
+284	284	chandan shetty troll video neevu nodi negadde idre naav guarantee	Positive
+285	285	darshan sir swalpa sahaya madidare	Positive
+286	286	best song love it	Positive
+287	287	abhinaya chakravarthi kiccha sudeep fans like here	unknown_state
+288	288	tiktok madle beku andre  chines border bidona alle tiktok madi syali	Negative
+290	290	en super helidya bro innu eno beku	Positive
+291	291	chindi guru... tik tok ban agi yar thika urkoltha avree avru hogi indian army mathe modhiji naa keli..! lowda antha tik tok li questions madodala..!!!	Negative
+292	292	nim maatu odhi kannalli neer bantu bro	Positive
+293	293	esht  jana  asn cinema nodiddira heli  njaii kannada	Positive
+295	295	suuper hosa prayatna	Positive
+296	296	super duper song	Positive
+297	297	modalu neenu tick tock delete maadu guru	Positive
+298	298	wee want tiss movies	Positive
+299	299	ya u true	unknown_state
+300	300	ellar mobile alli dia movie ide kanri  theatre ge jana yake barthare heli yake online alli leak aythu movie nonline alli movie nosbodu andre jana  bidthara heli neeve	Negative
+301	301	yuddha maadabeku odabaaradu katukara munde bhagavadgeete ...	Negative
+302	302	anna adu real story	unknown_state
+303	303	mast movie	Positive
+304	304	charetra hustsodu avatara	Mixed_feelings
+306	306	slow poison song annoru like maadi	Positive
+307	307	nam kannada songs yavglu super hit	Positive
+308	308	@troll stupid fans hudgiru comment madodunne nodok bartiya bevarsi  madak kyaame ilvenoo lofer	Negative
+309	309	pakka hit agutthe guru movie	Positive
+310	310	hands up hidu aanaavarata	Positive
+311	311	super hit agodralli yavude dout illa gelayare jeeva	Positive
+313	313	don't worry sir kayakave kailasa	Positive
+314	314	trending ...... video.....asn	unknown_state
+315	315	a pistol idkondu hako step	Positive
+316	316	tiktok nan shata shata	Negative
+317	317	jeevanadalli shraddhe mukhya.....  shraddhe    nammannu yashassina benna hattuttisuttade.....	Positive
+318	318	nkn tiktok ban agbeku aste	Positive
+319	319	nija super......... movie please re release maadi	Positive
+320	320	togari tipppa story super	Positive
+322	322	@venu ahgbowdu.	unknown_state
+323	323	ranadhira nenapaada rakshita jaadalinranabheteyaaduva rakshasa daariyalinraktacharitreyo rakkasana katheyonnigoodha maneyolage naduka huttisoncinema paradeya haluguniyo.....	Positive
+324	324	like kiccha fans	unknown_state
+325	325	na gentleman tiktok banu  super guru	Positive
+326	326	aadre cheena gay bucket hiditare	unknown_state
+327	327	bgm is good	unknown_state
+329	329	i love you dia	Positive
+330	330	nice movie.. deekshit super	Positive
+331	331	ee haadinalli  hosatana ide haagoo ee haadu tumba chennagide	Positive
+332	332	tika tock heero hiroyinagala  tithi uuta haakasu guru creative kannadiga	Negative
+333	333	music sup company	unknown_state
+334	334	game name yavdu bro...	Mixed_feelings
+335	335	togari  tippa suuper  haasya katha	Positive
+336	336	kannadada atyuttama chitra diya andare tappaagalaaradu..punah ree rillis maadabeku....	Positive
+337	337	@vinay shivamogga 1000% right	unknown_state
+338	338	idu‌ charitre srushtiso avataara	Positive
+339	339	ramayana agiye 500 varsha ayeetu indu sullu yakandre 5000yer back hege	Negative
+340	340	nanu e video nodtha ellan  thumbline nodi e msg madtha edhinin   alla ri karnataka dhali kannda movie 100 r.s ticket etre ege ri nododhun  adhe	Negative
+341	341	hand's up	unknown_state
+342	342	bharata chalanachitra dalli hosa charitre srashtisalu ready	Positive
+343	343	tumba chennagi mataadtiya	Positive
+344	344	suuper togari tippa	Positive
+345	345	charitre srushtisuva avathara... navane shriman narayana....nniza guru ee chitra charitreyannu srushti maaduttade....	Positive
+348	348	avane nam huduga.	Positive
+349	349	aall dhii best frum dibas fyaan	Positive
+350	350	nimma avva rundy	Negative
+351	351	ee haadu tumba ishtavaaytu	Positive
+352	352	kalyana karnataka ivaga	Positive
+353	353	i forgot prems even is a best song maker	Mixed_feelings
+354	354	super making super cinematography	Positive
+355	355	jaasti kayubedi ee video nodi   hesaranta hindi tv channell zii nyus navaru sere hididantaha naija ghatane	Positive
+356	356	ivrna nodidre ashwath avrna nodida hange agutte......nvoice antu ade tara ide	Positive
+357	357	idu kgf beat madutte annoru like here	Positive
+358	358	@sᴀɴᴅᴀʟᴡᴏᴏᴅ sᴛᴜᴅɪᴏ ᴍᴏᴠɪᴇs munde gottagutte	unknown_state
+359	359	@10 r ayyo hogo thukalli gandu	Negative
+361	361	@rajashekar khandare houdu sir ashwathamanige chiranjivi vara ide adakke avanige sri krishna aatara shrapa kottiddu ashwatama shivana innondu rudra avtara	Positive
+362	362	@siddaraju d vhhhk	unknown_state
+363	363	idu charitre srushtiso avataara	Positive
+364	364	hands up idu charitre srushtiso avataara .. althe best asn...simple star naa addhuri avataara.. avane srimannarayana..	Positive
+365	365	guru ell idde guru istu dina	Negative
+366	366	nimma swaabhimaanada jeevanakke hats off	Positive
+367	367	gaali maatina bajaaru suddi saaride sumaru	unknown_state
+368	368	yak jana barthilla andre sir yaro loffer nanna maklu youtube facebook yella kadenu movie na akidare yellaru elle nodtare heg bartare heli	Negative
+369	369	annaa enu sooparaagi heliddiri idu kannadigaru andre tick tock namma deshadinda  kalachikondu hodare saaku  avaaga chinakke buddi barodu tick tock maaduvarige buddi kalisabeku	Positive
+370	370	bindu gowda ge super agi ugididdeera	Negative
+371	371	nijavada hero andre evare	Positive
+372	372	bere singer ge ee song kettidre innu cholo keltittu	Negative
+374	374	from yash fans	unknown_state
+375	375	sir nim account num kodi sir	Positive
+376	376	chandan shetty troll video neevu nodi negadde idre naav guarantee	Positive
+377	377	@ŕävîñđŕå_02_gøwđřú brother one point nivu movie chennagi nodi bgm ulti ide	unknown_state
+378	378	100 days pacca	Positive
+379	379	yen guru ulty 1 number	Positive
+380	380	agt-kelu (kannada rap 2019)	unknown_state
+381	381	madhu ranju navane srimannarayana trailer-bgm n          re-createdn	Positive
+382	382	@ajith s shetty appreciate maadiddu gottagudilva marayya ninge🤦	Negative
+383	383	jai kirk star	Positive
+384	384	@ambrish mallad beliyodu shata	Negative
+385	385	xi xp zurich	unknown_state
+387	387	hands up-_if u like nhands up-_movie superhitnhands up-_record breakern iddu hosa dakale shrutiso samaya ....	Positive
+389	389	duplicate  video	unknown_state
+391	391	@nagabhushana b s ayyo sulemaklu....	Negative
+393	393	@nandi parthasarathi hogo ninna akkna tullu ninna tara kelsa ilva nange yenu yavglu comments madkondu tika muchkondu sidege hogo	Negative
+394	394	suuper rii surr	Positive
+395	395	ellaroo naale avana darshanakke kayutiddare yaaravanu???navane srimannarayanannaalene avana darshana yaryaru padeyuviri	Positive
+396	396	mahan vyaktiya rakta allave	Positive
+397	397	enn ugadidia guru maath matagu ugudidia ee video naa enaadru tick tock star galu enaadru nodidre nenu hakkottaare guru super🤣	Negative
+398	398	@ashwini p avunu dagar devarakonda	Mixed_feelings
+399	399	nija naa ishtu channagi  helidira	Mixed_feelings
+400	400	rakshit setty avru ondu d boss ge script barudre eng erutte d boss fans	Positive
+402	402	@nandi parthasarathi leey munde illi kelu nimma baas yavagladru help madidana.... hogli ninge hosa condom aadroo kodsidaana... luchha sudwepi	Negative
+403	403	bigbossalli  step hakiro controverrsy nodi bandiror yar yarppann like madi	Negative
+404	404	malayalam singer	unknown_state
+406	406	@nandi parthasarathi nandini haalu... kode	Mixed_feelings
+407	407	bharatha no 1 desha namma deshakke yaudu sari sati ella	Positive
+408	408	@ashwini p avunu dagar devarakonda dd	Positive
+409	409	super anna ede tara video s madi super	Positive
+410	410	diya swarupavannu nodi gadgadithanadee...	Positive
+411	411	luv u rakshith shetty sir	Positive
+412	412	kach hogedu banda varu like madi	Negative
+413	413	supper anna	Positive
+414	414	unlike maadidavaru rashmika abhimaanigalu....	Positive
+415	415	best movie in 2020	Positive
+416	416	like for singer #vijayprakash	unknown_state
+417	417	super togari tippa	Positive
+418	418	yake andre? d booos du kurishetra filam gay asker awold barbekittu. yak kotela? so d boos fens ee filam nodilla.....	Negative
+419	419	idu charitre srushtiso avataara navane shriman narayana	Positive
+420	420	china copy maadi naawu maadbekilla.. jana alli khushyaagilla.. naadre niw helidralli tumba kelsa aagbeku.. bhaaratadalli adella maadodu janakku bekaagalla	Positive
+421	421	sir ondhh hellla ..... nellaru kelsa antha ondhh madtirtare ....nnmathe biduvu madkondu film nodok barthivi .....navaga naav estu antha ollole film na nodbodhu neevu heli ...nnswalpa plan madkondu industry ...ella ottige bido yojane na hidkoldhe idre best ....	Negative
+422	422	sang supar chinu love you too...uppi.	Positive
+423	423	super songu guru	Positive
+424	424	nam kannada industry yav industry gu kadime illa maaraya...	Positive
+425	425	kamoonishta sarkaarave olleyadu allie rajakiya iralla deshada abhivruddhi onde gurinnamma deshada ee sthitige kaaranann* rajakaraniyaru(neharoo vamshastharu)	Mixed_feelings
+426	426	ratri phul nyus gaagi kayuva udupi	Positive
+427	427	nanagu teurasi ashwattamara	unknown_state
+428	428	osm vedio anna	Positive
+429	429	nijakoo eedu aacharine🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤥🤥🤥🤓🤡🤡🤡🤠🤠🤠	Negative
+430	430	🤠narayana swag 🤟ge yaaru fida aadri like maadi	Positive
+432	432	suuper somanna machimada  intaha olleya kelasa innoo munduvariyali  shankar surr nimma neravaada mattu vaastavaada matige	Positive
+434	434	idee chitra tandakke shubha vagali	Positive
+435	435	shapaa kottavane krishna ..avre ivaga badhukilla. anthavreee	Negative
+436	436	kannadad nijvad hero	Positive
+438	438	tumba hosa haagoo rachanaatmaka haadu.	Positive
+439	439	i like it in kannada	Positive
+440	440	thumba chanegide sir	Positive
+441	441	awesome  estu sari kellidru innod sari kellonna anstide. addictive music nstory looks like rango.	Positive
+442	442	super anna super	Positive
+444	444	niv supper boss	Positive
+446	446	@pavan mohareer ntappenilla..naadare eravalu padagala badalu acchagannada/annegannada/hacchagannada dha padagalannu hechchagi balasalu ottu kottare	Positive
+447	447	love you so much anna	Positive
+448	448	narayana. character. yariga  istha. illi. like. madi	unknown_state
+449	449	hands up	Mixed_feelings
+450	450	le bindu naayi phone all radi togonda aaytha avarge adara laba sikatu aadare tik tok end dinaa avarage laba baratte enna mele yaava vastu togo beda china vastu ninu togo beda naana antu tiragi nodalla ni ale tuu	Negative
+451	451	superb song	Positive
+452	452	dayanand 123 kamakalala	unknown_state
+453	453	thooo ni chanalge nai maga	Negative
+454	454	kannadada chanukya namma rakshit shetty bro na yochanegalu...... dislike madiroru rashmika fans irbeku ......	Negative
+455	455	nee belibeku brother ninnoo ettarakke	Positive
+457	457	super steps brooooo	Positive
+458	458	ee kaaladalli olletanakke bele illa matte gelluvudu hege	Negative
+459	459	en music guru	Mixed_feelings
+460	460	shankar ashwath sir devaru  olledu madli sir nimge	Positive
+461	461	chindi... song	Positive
+462	462	super song bro tik tok virus ban full happy	Positive
+463	463	hen music guru	unknown_state
+464	464	song chindi guru 🥰🥰	Positive
+465	465	@kiccha vitthal sudwapi nxt philam release inn mars	Negative
+466	466	@sk productions shnakar nag anna nice man	Positive
+467	467	adbhutha  sathya	Positive
+468	468	why only tik tok anno tukali naa chaina ge kalisi avlu kooda chainees breed irbeku	Negative
+470	470	kolluttiruva kobbari mithai mukhadavalu nnchennagi baitira surr	Negative
+471	471	i hv one doubt gay gu ivarigu en difference heli	unknown_state
+473	473	hauda angadre hogi avn tunne unnu	Negative
+474	474	adi dia super acting🥰	Positive
+475	475	387 tusmika fans anstade	Negative
+476	476	stany d souza	unknown_state
+477	477	eega matanadi bere bhashe avaru	Mixed_feelings
+478	478	ashwatthaama chiranjeevi avanu innoo badukiddaane idu satya	Mixed_feelings
+479	479	ee chitradalli yaav rainz ge graphics maadiddaare anta mattobba vfx artiste ge gottagodu	Mixed_feelings
+480	480	@nandi parthasarathi halkat bosudi	Negative
+481	481	chinndi guru ennu roast madu	Negative
+482	482	antamma suuper aagi ugdhidiya. bolo maklige. barder nalli avra appa noow anna tamma yaaraadru iddidre itara matadtirlilla bolimaklu	Negative
+483	483	super super awesome awesome oh my god i like ur voice and song	Positive
+484	484	gaali maathina bajaaru suddi saarise sumaaru...	Negative
+485	485	plz chance kodi nodi avar acting	Positive
+486	486	@dollegowda m hlo bro	unknown_state
+488	488	suuper guru	Positive
+489	489	appata kannadadalli manasu mutto haage svachandavagi mukha oriskollo haage  nchennagi ugitira annaa urkolloru urkolli current hodida kaage haage	Positive
+490	490	super duper guru	Positive
+491	491	worst movie. artane illa. 1 concept kuda illa.	Negative
+492	492	chen aged really like kode	Positive
+493	493	super alla best bro	Positive
+494	494	bro adru evaga bere language enda open madkond use madtaidaralla bro 🤦‍....thumba janridare nam jana e tara vishyadalli..haladavru🤦‍	Negative
+495	495	rango english animated movie nodi story bardiro haag ede.	Negative
+496	496	tiktok ban aagi olleya dhu aayitu	Positive
+498	498	all industries are going hands up.. 27kke avanu bandaga	Positive
+499	499	kayakave kailasa sir	Positive
+501	501	ahh chinese app delete madroo..... adhru badlu india bagge ondh video adhru nodi. yeno ondh gottagutte	Negative
+502	502	super ide trailer	Positive
+503	503	@bharathraj t b kitkobekaste ninu bandi nandu	Negative
+504	504	ban tik tok	Positive
+505	505	salaam racky bhai	Positive
+507	507	gurugula. naanu chikkavanu iddaaga tepa recorder nyaga kelidde matte ivaaga keli bahala khushiyaatu... ree..	Positive
+508	508	bal chand aytri... estu sala kelidru mat mat kelbeku..	Positive
+509	509	nija helidri sir..! nimma video nodi admele kuda namma bhatiyaru  badalali antha pray madtini.	Positive
+510	510	@satishnithyanandam lo kaidhi	unknown_state
+512	512	i love gojjekesari sule gayash	Negative
+513	513	keli kaadiruva baandavaarenbhuviyalli avana arithavaarenyaarila bidinmunnudiniddaradondu dantakathennalku dikkinalu bekavanunbanduku hidida manavanunthale melide keeretanviraatanguri bennato netaaranungalli maatina bazaarunsuddi saaride sumaarunpaatrada parichaya irovrunee badukige ide ghana  hesarunhands up idu anavaraatanhands up na agnyata nhands up ide vedanta nidu charithre srushtiso avataara	Positive
+515	515	@kinu0505 report him	unknown_state
+516	516	gali matin bazaru sudi saride sumaru... adu yen andre...!nidu charitre srustiso avatarnvijay prakash voice nice.	unknown_state
+518	518	song kelade like kodoru like madi	Mixed_feelings
+519	519	hindi varjan relis made	Mixed_feelings
+520	520	miss ella madkololla bidi i can downlode in teligram or  swalpa dena odre tv nalle bharuthe	Positive
+521	521	@movies box o robert	unknown_state
+522	522	sir nimna devru yavaglu chenagottirli sir	Positive
+523	523	movie na theatre nalli nodokagilla anta and movie tumba dina odilla anta bejaragtide	Mixed_feelings
+524	524	@ŕävîñđŕå_02_gøwđřú loow boss fan agi yako negative cmt hakiya loude	Mixed_feelings
+525	525	thu yar guru karma ithara video gu dislike madtare ...	Negative
+526	526	super guru yellidde guru	Positive
+527	527	kannada naadina kirti jagattinellede haradali anta bayasuttene	Positive
+529	529	nijannn idu charitre srushtiso avataarannnkgf daakhale muriduhoguttadennkgf chapter 2nbandu idara daakhale muriyabeku ashte adhu saha anumaanannyakendarenmunde punyakoti barta ide	Negative
+530	530	nimma dedication nijakkoo adhbuta‌	Mixed_feelings
+531	531	benki jacas innoo hecchina daagi roast maadi	Positive
+532	532	tumba gattu iruva haadu idu.. wanderadu sala kelidre ee haadige addiction agode.. ondsala kelbedi ee haadu chennagide	Positive
+534	534	banni hagadre matadaskond barona	Positive
+535	535	@sujith naik ninigeno tika uri kothi tunnege huttidone tika muchkond irbeku ashte	Negative
+536	536	eega nijavaada nayaka prajwal  yaryaru kayta iddira ondu laika maadi	Mixed_feelings
+537	537	ee haadu 'avane shriman narayana' chitrada nanna necchina haadu.	Positive
+538	538	10 million vives agutte annoru like maadi	unknown_state
+539	539	diya mattu love makatela chitrada bagge prachara kammi aagide	Negative
+540	540	idu charitre srushtisoavataara...n...	Positive
+541	541	haadu super sangeeta samyojane super super	Positive
+542	542	chandan shetty troll video neevu nodi negadde idre naav guarantee	Positive
+543	543	game yavadu bro adu	Mixed_feelings
+544	544	thika urkondu dislike madbittidira already..nsuper song   #asn .nnam shettru steps anthu 🤩	Mixed_feelings
+545	545	bro avru ellargu ista ..avru yavattu controversy madkondilla	Positive
+546	546	@vishal shetty oh karch maadko hogu.... yello yaardo mundaav ikki sampadane maadirtya....	Negative
+547	547	promotions madro illa 3 varsha kasta pattiro du waste sgbardu	Negative
+548	548	togari tippa  story suuper	Positive
+549	549	1 min silence for tiktokers	Negative
+550	550	chindi song  vijay prakash fans hit like here	Positive
+551	551	nee super guru......	Positive
+552	552	superb bro...	Positive
+553	553	january alli song keloru like madi	Positive
+555	555	ee film chennagide. nanu nodide. neevoo nodi.	Positive
+556	556	yapppaaaa!  yak guru istond hype e song ge?	Negative
+559	559	@punter 18 pakka	unknown_state
+560	560	chennagide eno suspense ide	Positive
+561	561	may be after hamsaleka	unknown_state
+563	563	marketing swalpa bekittu ansutte	Negative
+564	564	neenu heliddella keli nanage aninisiddu namma deshana communist desha maadabeku anta	Positive
+565	565	gta 5 bro	unknown_state
+566	566	ultimate bgm fantastic song	Positive
+567	567	nam mane gu bandida	Negative
+568	568	bedaa ee kachada show gay barodu bedaa surr	Negative
+569	569	intha olle video nu dislike madiroru yentha kachada nanmaklirbeku🤦🤦🤦🤦	Negative
+571	571	malayalam singer is good	Positive
+572	572	bro valledu yarigu bega kaansodilla	Negative
+573	573	finally  movie nodaytu..... adbhuta atyadbhuta......... nodo prati kshananu taleli budhi odtane eirute...... amazing	Positive
+574	574	yar bekadru pm agakke agolla	Mixed_feelings
+575	575	la tv all yb comedy	unknown_state
+577	577	@prithvi nayak nimma appa namarda	Negative
+578	578	@vishal shetty boss na nodi urkobeku aste yenu nithkolake agalla	Negative
+580	580	jai d boss.	Positive
+581	581	super song nam kannada song	Positive
+582	582	hands up yav pada pa	unknown_state
+583	583	neen yak guru aaa dagar rashmika ge compare madthiya	Negative
+584	584	diya kannadada adbhuta sinimaagalalli ondu. nkannadadalli kathe illa ennuvavarige diya takka uttara keutidde. intaha cinema sotare kannadigare sotha haage haagaagi kannada sini prekshakaru diyaalannu chitramandiradale niidabeekaagi vinanti. ndiyaala manojna abhinayanaadiya lavalavikeya natanenrohit mugdha natane nsangeeta nirdeshakara hinnele sangeeta ellavoo adbhuta. (aadigu diyagu ondu melodi duate	Positive
+585	585	hands up idu anavarata....	Positive
+586	586	bro na tiktok use madath idila but ivga tiktok installed madi  single star rating kotu uninstall madini	Positive
+587	587	ningappa  s  malekoppa	Negative
+589	589	release in aboard	Positive
+590	590	lo d gujaalds neev support maadida yaav sinimaagalu succes agilla .. yaakro sumne buildep .. simple example andre ..amar movienu ..fail maadudralo .ambareesh gintha name bekittha...madhye neev hogi haall madudralo ..	Negative
+591	591	yalla sule makkalu jasti thu	Negative
+592	592	@chnadu ganeshakar xxx	unknown_state
+593	593	supar appu annan fans like madi	Positive
+594	594	suu0daravaada baduku nimmiodha kalibeku 🤷‍	Positive
+595	595	@arun jaanu  chikk magunu kelu boss andre yaaru anta	Mixed_feelings
+596	596	nanna ekkada nanna ekkada	unknown_state
+598	598	good massage anna super	Positive
+599	599	thanks ellakade link sher madi ntukali kushmikage hattiro kobbanna elisi	Negative
+600	600	dboss murkha abhimani galu	Negative
+601	601	*idu charitre srushthisoo avataara nodi avane shriman narayana*	Positive
+602	602	olledagli sir nimge..	Positive
+603	603	eshtu dina aayitu keli oo tumba khushi aayitu	Positive
+604	604	most liked kannada movie songsn1	Positive
+605	605	haadu chenagi helutira	Positive
+606	606	super nataka togari tippa.	Positive
+607	607	avane srimannarayana trailer-bgm n          re-createdn	Positive
+608	608	asn asli sir benga ayti re song	Positive
+611	611	@nandi parthasarathi nandini nandini nimma avva basuri	Negative
+612	612	super song	Positive
+613	613	chandan shetty troll video neevu nodi negadde idre naav guarantee	Positive
+614	614	@prithvi nayak nimma amma haadaragitti	Negative
+615	615	jaii kannada	Mixed_feelings
+616	616	shettigalu ellah eetara kathe tegiyodu mukhyavalla commercial cinema maadi torisi	Negative
+617	617	chindi  benki	Positive
+618	618	ista aythu chhannagide	Positive
+619	619	remake maadi varshakke nooru sinimagalannu maaduva badalu...!varshakkomme swamek cinema moolaka baruvudu uttama..! rakshit shetty	Positive
+620	620	intaha adbhuta sinimaayalu mattu haadugalu kannadadalli hechchu hechchu barali  endu ellaroo haraisona	Positive
+621	621	rakshith...nan yakda dboss dabba nan maga	Negative
+622	622	shankar ashwath swabhimäni	Positive
+623	623	nonsense kannada rost	Negative
+624	624	togari tippa soopara nataka	Positive
+625	625	en super movie sir edu....ond ond seen kuda mans mutto tara ede	Positive
+626	626	diya neevu social media allie kantilla.ndayawittu pratikriyisi	unknown_state
+627	627	@nandi parthasarathi sumne side gay hogu gottala naanu vishal shetty allah... mindarugaali	Negative
+628	628	pakka movie channagirutte..nn suspense movie for sure	Positive
+629	629	chindhi guru.. sakkath.	Positive
+630	630	7 varsha kashtapattu madiro sinimaavannu sariyaada samayakke bidugade maadbekittu surr... corona virus bagge tingala hinde mahiti ittu.. nanna prakaara cinema sotidde agidre adhu nimmade tappinda... aadre inta adbuta sinimaavannu innomme rii release maadi surr....	Negative
+631	631	exclent 100 sure	Positive
+632	632	ondu inglish pada balasade ee haadu barediruva kalavidanige ondu like kodi... sneehitaree!!	Positive
+633	633	super guru est chennagi arta madisidira	Positive
+634	634	idu  sullu    cheena    kaarmikarige  gante  lekkadalli  sambala    koduttaare	Negative
+635	635	e song alli flare gun ide	unknown_state
+636	636	@dhananjay kinyaje yen promotion madtare ivaru. bengaluru bittu yelladru hogtara promotion madakke?ntamil	Negative
+637	637	superb movie i love diya	Positive
+638	638	avane gay rak'shit' shetty	Negative
+640	640	ee haadannu padhe padhe keluvavaru haagoo noduvavaru yaaraadaru iddira....	Positive
+641	641	super chindiii sir sakkatagi ede	Positive
+644	644	pandavaru mamsa tinthidra	unknown_state
+645	645	tik tok ban madirodrinda yargadru bejaragi frustration agidre bandu nan tun  undbidri samadaana agbahdu ella andre nim helna neeve tindbidi soo mindri mundera adra madorgu nimgu no changes e comment ge yalla hindustan supporters reply maadinnchaina support madorge yav tara k beku	Negative
+647	647	super guru  d boss	Positive
+648	648	dboss true fans like here	unknown_state
+649	649	asn film nodoru like maadi	Positive
+651	651	super anna super creative kannadiga	Positive
+653	653	please innondu saari re release maadi.	Positive
+654	654	@troll stupid fans naanu adikke kano helthirodu  ninnantha jathi naayi na hethidke paapa avru baiskothidare kano balegara kaamuka nan makla	Positive
+656	656	1.7k dislikes rashmika fans	Negative
+658	658	dislike from rashmika fans	Negative
+659	659	aen guru ninna charitre srushtisuva avataara tumba chennagi ide rashmikaage tumba urusu	Negative
+660	660	rakshit sir on fire ...benki..ollede aythu ha dagar inta olle vekthi ge siglila	Positive
+662	662	avara kashta keloke hogtiro kanneero axoke hogtiro nim trp goskara hogtiro gotte aagalla nim mindry ge huttiro nyus channell buddhi	Negative
+663	663	@sharath t lo comment maadbeku anstu maaddhe telugu commenta nange telugu baralla...idhu kannada song marre	Negative
+665	665	tumba thrilling iro haage ide bega relija maadi	Positive
+667	667	@vyv v hu kanappa gottu. yash boss bitre yella avare copy paste gale remake stars	Negative
+668	668	saahityana barediddakke dhanyavaadagalu.	Positive
+669	669	idanna odidre nimdu kuda love marriage anta namg ansta ide	Positive
+670	670	omg tick tock ninda nchainaada boow* maa* 7	Negative
+671	671	devre olle avrge yak kasta kodtiya	Mixed_feelings
+672	672	devaru olleyavarige  kasta kodthane adhare  kay bidala	Positive
+673	673	kalape vastugalnu utpadaane maadi bereyavara hottemele odiyodu tappalva	Negative
+674	674	kelavu janarige helidre artha aagalla	Negative
+675	675	please provide more kannada	unknown_state
+677	677	namma devaru nimma devaru anta andkollodu samanyane.	Positive
+678	678	repeat mood guru	Positive
+679	679	@troll stupid fans neenu darshan ge huttirbeku adike avn bagge ne mathadthidiya nimman thulna keyya soole magane.nim amman thull ge kathe thunne sigaka hogi bale akolo aaa gaandu lucha thara	Negative
+680	680	hands up​... idu charitre srushtiso avataara... #asn waiting for you	Positive
+681	681	super avane srimana narayana	Positive
+682	682	super guru pakka block buster	Positive
+683	683	bro tik tok tirga bandida bro nijvagluindia dali	Mixed_feelings
+684	684	kannada industry na promote madinkannada industry namma karunada samskruthi na uttungakke erisali..adanna bittu bollywood cinemagalige yake compare madbeku?!navara tara agabeku anno ase bidi..bollywood namma industry nodi kaliyo hage madabekunadikke nammellare support beku	Positive
+685	685	niv correct agi helidri......tiktok india dalli ban aglebeku	Positive
+686	686	suuper guru ugiri tick tyaak ge	Mixed_feelings
+687	687	1st telegram app close madsi amele ella bartare	Mixed_feelings
+688	688	nija helidru aadare idaralli subscribe irodu mooru laksha  anandadiyodaralli release maadidare wadeya saang mirisitittu	Negative
+689	689	kannada ivattu rashtriya mattu antaaraashtriya mattadalli hesaru maaduttide endare adhu rakshit shetty ravarantavara utsukateyinda maatra	Positive
+690	690	tqsm bro	Mixed_feelings
+691	691	doctor avrige avana bahse hege gottu.	Negative
+692	692	basanni baa  kannada movi	unknown_state
+693	693	@sangmesh nadvinmani y bro	unknown_state
+694	694	ee haadannu keluttiddare nanage swag seey karenge sabka swagat haadu nenapagutte.nswalpa hagene ide music anta nanage annistu.n	Positive
+695	695	nanu 2 sala nodidini	unknown_state
+696	696	astena sir innu sawlpa chanagi hellbekithu tik tok kalli galige super guru	Positive
+697	697	@kd kiran adakke innu tumba samayavide	Mixed_feelings
+698	698	nayavaada  matugalu  neevu chennagi nirabeku saar	Positive
+699	699	anna super anna	Positive
+700	700	jaa dhinchak pooja ki songs dekh bollywoodiya	Negative
+701	701	sir  namma  deshada  troll  maadi  hena  beelutte  cheena  deshada  aarthikate  hecchala  agutte   namm  hudugeerge  madoke  kelasa  illah  mukhake  banna  hachchi  iro  hudugeeranna  rachchige  ebistavarashte	Negative
+702	702	love story bandidde adre e tara yavdu illa	Mixed_feelings
+703	703	super guru love you	Positive
+704	704	bro niu videos dali torso gems name yanu	Mixed_feelings
+705	705	kannada chitrarangada hemme	Positive
+706	706	nanage kaanuva onde tappu...... publicity maadade iddaddu. ....	Negative
+707	707	poornima poornima oooooooooooo brami	unknown_state
+708	708	ravi kumar naidu ravi naidu hu	unknown_state
+709	709	hands up haters	Mixed_feelings
+711	711	looks like it's a suspense movie	Mixed_feelings
+712	712	chandan shetty troll video neevu nodi negadde idre naav guarantee	Positive
+713	713	ayyo...... ee haadu huchchu hidisuttide. dayawittu sahakarisi geleyare . namma industry  phul belitide. naanu & nanna frnds waitng for diz movie🤗🤗	Positive
+714	714	bari telgu tamil movie nodthira ee thara movie nodi	Mixed_feelings
+715	715	super sir iam like this video awesome	Positive
+716	716	@deepa ch roll no-24	unknown_state
+718	718	jai d boss	Positive
+719	719	full roast madiddiya e somberigalige	Positive
+720	720	kannada cinema belisi	Positive
+723	723	bitta  sthala tumbi __ shata	Negative
+724	724	@praveen kumar caste dog spotted bale pan yar nimammana dagar nau thane d boss fans nimammana dagar madiddu husharagi nodkoli thunne asege yar jotenadru odihodaalu 🤣🤪	Negative
+725	725	namma kannada industry yaake namma kalavidaranna kaii bidtira..	Negative
+726	726	sir namma enne song gu support madi	Positive
+727	727	rocking star and simple star	Positive
+728	728	somanna machimada super	Positive
+730	730	@varaprasad k k guru yaru yargu kadime illa	Mixed_feelings
+731	731	idu charitre srushtiso avataara	Positive
+732	732	le kelly yak guru..yella kade negative agi matadtidiya...yaake...avr ella wish maadtidare aste...if u gonna watch its upto u...just dont trigger evrone at no reason...	Negative
+733	733	nanna gellodu uuhegoo meerida saahasanosm line	Positive
+734	734	haterless pan indian simple star	Positive
+735	735	super sir	Positive
+739	739	30 m 🤐🤐	Mixed_feelings
+740	740	i suuper brother	Positive
+741	741	super  creative   guru	Positive
+743	743	kaltana maadoru...rowdism maadoro nodi kalibaeku ...	Negative
+744	744	aaa 247 jana dislikers  rashmika mandanna die hard fans  irabeku..	Negative
+745	745	bere movie trailer nodi	Mixed_feelings
+746	746	@prithvi nayak lo ninu anna tintia allah adhu raitaninda kanoo... yaaranu keelaagi nodebeda.. standard anbeda bcz nin erode avrinda... adikke nin buddi gottagutte tu respect kodo... lo mari d boss.. nim kichan ginta jasti salary annodu kalko.. nin helid matu enadru auto drivers	Negative
+747	747	muchgond irappa nim dharmad bagge nodkond sumne irinnam nambike bagge nimag yeke uri	Negative
+748	748	neevu halliya ‌bhasheya shyliyalli rosht maaduvude.. namage atyuttama manaranjane	Positive
+749	749	i waiting bro	unknown_state
+750	750	super guru	Positive
+751	751	tereya abhinayada indide jeevanada pathra	unknown_state
+753	753	tumba olleya haadu	Positive
+754	754	kannadadalle hosa aleyann ebbisso  avataara aduve avane shree mannarayana all the best avane  shree mannarayana best wishes akhila karnataka rocking starr yash abhimaanigala sangha	Positive
+755	755	madolla because promotion asten madilla making kgf ginta dull ede	Negative
+756	756	nivu yaste ugudru sariagla	Negative
+757	757	@manz game yes!	unknown_state
+758	758	superb trailer ....	Positive
+759	759	rakshit shetty cinema haagoo haadu  onde  reeti omme nodidare  artha  aagalla mattomme  nodidare maatra connect  agutte  endu mattomme keluvavaru  haagoo noduvavaru  like maadi	Positive
+761	761	@shashank raj loow tamma ninage enu artha aagilvavanta gotaytu bere kelasa nodco sumne maryaade hogodu beda...	Negative
+762	762	what does sanvi mean	Mixed_feelings
+763	763	nim song antu super 🤝	Positive
+764	764	@arman babu anna ... thappu thilibedi.  i appreciate your kind nature.  jai kannada. happy sunday .	Positive
+765	765	rocking kannada movie	Positive
+766	766	vijayprakash sir yavagin haage the bestbut malayalam version voice maathra sakkatth ista aythu	Negative
